@@ -10,7 +10,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "Gratis",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Cargacoches",
@@ -22,7 +22,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "Gratis",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "EDP Moveon",
@@ -34,7 +34,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "EDP Moveon",
@@ -46,7 +46,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "EDP Moveon",
@@ -94,7 +94,7 @@
         "Cuota mensual": "",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Endesa X",
@@ -106,7 +106,7 @@
         "Cuota mensual": "",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Endesa X",
@@ -118,7 +118,7 @@
         "Cuota mensual": "",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Esay Charger",
@@ -130,7 +130,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Esay Charger",
@@ -142,7 +142,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Esay Charger - Nissan",
@@ -154,7 +154,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Esay Charger - Nissan",
@@ -166,7 +166,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
       
@@ -191,7 +191,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "No",
         "Reserva de punto": "Gratis",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Fenie Energia",
@@ -203,7 +203,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "No",
         "Reserva de punto": "Gratis",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Fenie Energia",
@@ -215,7 +215,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "No",
         "Reserva de punto": "Gratis",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
       
@@ -300,7 +300,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "No",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Iberdrola",
@@ -312,7 +312,7 @@
          "Cuota mensual": "No",
          "Exceso de ocupacion": "",
          "Reserva de punto": "No",
-         "Ubicación": "TTN"
+         "Ubicación": "Nacional"
        },
        {
         "Gestor de Carga": "Iberdrola",
@@ -324,7 +324,7 @@
          "Cuota mensual": "No",
          "Exceso de ocupacion": "",
          "Reserva de punto": "No",
-         "Ubicación": "TTN"
+         "Ubicación": "Nacional"
        },
        {
         "Gestor de Carga": "Iberdrola",
@@ -336,7 +336,7 @@
          "Cuota mensual": "No",
          "Exceso de ocupacion": "",
          "Reserva de punto": "No",
-         "Ubicación": "TTN"
+         "Ubicación": "Nacional"
        },
       {
         "Gestor de Carga": "Iberdrola",
@@ -348,7 +348,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "No",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Iberdrola",
@@ -360,7 +360,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "No",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Repsol",
@@ -372,7 +372,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "1,82 €",
         "Reserva de punto": "?",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Repsol",
@@ -384,7 +384,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "1,82 €",
         "Reserva de punto": "?",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Repsol",
@@ -396,7 +396,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "1,82 €",
         "Reserva de punto": "?",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Repsol",
@@ -408,7 +408,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "1,82 €",
         "Reserva de punto": "?",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Ionity",
@@ -420,7 +420,7 @@
         "Cuota mensual": "",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Ionity - Audi",
@@ -432,7 +432,7 @@
         "Cuota mensual": "18 €",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Ionity - Porsche",
@@ -444,7 +444,7 @@
         "Cuota mensual": "18 €",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Ionity - Daimler Benz",
@@ -456,7 +456,7 @@
         "Cuota mensual": "18 €",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
         "Gestor de Carga": "Ionity - BMW",
@@ -468,7 +468,7 @@
         "Cuota mensual": "18 €",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       },
       {
       
@@ -481,7 +481,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "SI",
         "Reserva de punto": "No",
-        "Ubicación": "TTN Solo para Teslas"
+        "Ubicación": "Nacional Solo para Teslas"
       },
       {
       
@@ -494,7 +494,7 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "SI",
         "Reserva de punto": "No",
-        "Ubicación": "TTN Solo para Teslas"
+        "Ubicación": "Nacional Solo para Teslas"
       },
       {
         "Gestor de Carga": "Urbener",
@@ -568,7 +568,7 @@
         "Cuota mensual": "0,00 €",
         "Exceso de ocupacion": "No",
         "Reserva de punto": "No",
-        "Ubicación": "TTN"
+        "Ubicación": "Nacional"
       }
   ]
 }
