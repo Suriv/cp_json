@@ -1,9 +1,9 @@
 { 
-  "Spain":[
+  "España":[
       {
         "Gestor de Carga": "Cargacoches",
-        "Tipo de carga": "",
-        "Potencia (kW)": "22-50",
+        "Sistema de recarga": "Semi Rápida",
+        "Potencia (kW)": "22",
         "Coste energía (kWh)": "0,38 €",
         "Carga minima": "No",
         "Cuota alta": "No",
@@ -11,12 +11,22 @@
         "Exceso de ocupacion": "",
         "Reserva de punto": "Gratis",
         "Ubicación": "TTN"
-      
       },
       {
-      
+        "Gestor de Carga": "Cargacoches",
+        "Sistema de recarga": "Rápida",
+        "Potencia (kW)": "50",
+        "Coste energía (kWh)": "0,38 €",
+        "Carga minima": "No",
+        "Cuota alta": "No",
+        "Cuota mensual": "No",
+        "Exceso de ocupacion": "",
+        "Reserva de punto": "Gratis",
+        "Ubicación": "TTN"
+      },
+      {
         "Gestor de Carga": "EDP Moveon",
-        "Tipo de carga": "",
+        "Sistema de recarga": "Convencional",
         "Potencia (kW)": "7,4",
         "Coste energía (kWh)": "0,24 €",
         "Carga minima": "No",
@@ -27,8 +37,8 @@
         "Ubicación": "TTN"
       },
       {
-      "Gestor de Carga": "EDP Moveon",
-      "Tipo de carga": "",
+        "Gestor de Carga": "EDP Moveon",
+        "Sistema de recarga": "Semi Rápida",
         "Potencia (kW)": "22",
         "Coste energía (kWh)": "0,28 €",
         "Carga minima": "No",
@@ -40,7 +50,7 @@
       },
       {
         "Gestor de Carga": "EDP Moveon",
-        "Tipo de carga": "",
+        "Sistema de recarga": "Rápida",
         "Potencia (kW)": "43-50",
         "Coste energía (kWh)": "0,36 €",
         "Carga minima": "No",
@@ -51,9 +61,8 @@
         "Ubicación": "Asturias (Roces)"
       },
       {
-      
         "Gestor de Carga": "EMT Madrid + Parking",
-        "Tipo de carga": "",
+        "Sistema de recarga": "Rápida",
         "Potencia (kW)": "50",
         "Coste energía (kWh)": "0,35€",
         "Carga minima": "No",
@@ -64,9 +73,8 @@
         "Ubicación": "Madrid"
       },
       {
-      
         "Gestor de Carga": "EMT Madrid Plaza Colon",
-        "Tipo de carga": "",
+        "Sistema de recarga": "Rápida",
         "Potencia (kW)": "50",
         "Coste energía (kWh)": "0,40€",
         "Carga minima": "No",
@@ -77,23 +85,9 @@
         "Ubicación": "Madrid"
       },
       {
-      
-        "Gestor de Carga": "Endesa X e-Car",
-        "Tipo de carga": "",
-        "Potencia (kW)": "43-50",
-        "Coste energía (kWh)": "6 € /30' 80% 8 €",
-        "Carga minima": "6 € /carga",
-        "Cuota alta": "39,00 €",
-        "Cuota mensual": "No",
-        "Exceso de ocupacion": "",
-        "Reserva de punto": "Gratis",
-        "Ubicación": "Mallorca"
-      },
-      {
-      
         "Gestor de Carga": "Endesa X",
-        "Tipo de carga": "",
-        "Potencia (kW)": "7,4-50",
+        "Sistema de recarga": "Convencional",
+        "Potencia (kW)": "7,4",
         "Coste energía (kWh)": "0,49 €",
         "Carga minima": "10,00 €",
         "Cuota alta": "15,00 €",
@@ -103,11 +97,34 @@
         "Ubicación": "TTN"
       },
       {
-      
+        "Gestor de Carga": "Endesa X",
+        "Sistema de recarga": "Semi Rápida",
+        "Potencia (kW)": "22",
+        "Coste energía (kWh)": "0,49 €",
+        "Carga minima": "10,00 €",
+        "Cuota alta": "15,00 €",
+        "Cuota mensual": "",
+        "Exceso de ocupacion": "",
+        "Reserva de punto": "",
+        "Ubicación": "TTN"
+      },
+      {
+        "Gestor de Carga": "Endesa X",
+        "Sistema de recarga": "Rápida",
+        "Potencia (kW)": "50",
+        "Coste energía (kWh)": "0,49 €",
+        "Carga minima": "10,00 €",
+        "Cuota alta": "15,00 €",
+        "Cuota mensual": "",
+        "Exceso de ocupacion": "",
+        "Reserva de punto": "",
+        "Ubicación": "TTN"
+      },
+      {
         "Gestor de Carga": "Esay Charger",
-        "Tipo de carga": "",
-        "Potencia (kW)": "22-50",
-        "Coste energía (kWh)": "0,3 € (0,15 € Nissan)",
+        "Sistema de recarga": "Semi Rápida",
+        "Potencia (kW)": "22",
+        "Coste energía (kWh)": "0,3 €",
         "Carga minima": "No",
         "Cuota alta": "No",
         "Cuota mensual": "No",
@@ -116,10 +133,33 @@
         "Ubicación": "TTN"
       },
       {
-      
+        "Gestor de Carga": "Esay Charger",
+        "Sistema de recarga": "Rápida",
+        "Potencia (kW)": "50",
+        "Coste energía (kWh)": "0,3 €",
+        "Carga minima": "No",
+        "Cuota alta": "No",
+        "Cuota mensual": "No",
+        "Exceso de ocupacion": "",
+        "Reserva de punto": "",
+        "Ubicación": "TTN"
+      },
+      {
         "Gestor de Carga": "Esay Charger - Nissan",
-        "Tipo de carga": "",
-        "Potencia (kW)": "22-50",
+        "Sistema de recarga": "Semi Rápida",
+        "Potencia (kW)": "22",
+        "Coste energía (kWh)": "0,15 €",
+        "Carga minima": "No",
+        "Cuota alta": "No",
+        "Cuota mensual": "No",
+        "Exceso de ocupacion": "",
+        "Reserva de punto": "",
+        "Ubicación": "TTN"
+      },
+      {
+        "Gestor de Carga": "Esay Charger - Nissan",
+        "Sistema de recarga": "Rápida",
+        "Potencia (kW)": "50",
         "Coste energía (kWh)": "0,15 €",
         "Carga minima": "No",
         "Cuota alta": "No",
@@ -131,7 +171,7 @@
       {
       
         "Gestor de Carga": "Estebanell i Pahisa",
-        "Tipo de carga": "",
+        "Sistema de recarga": "Vinculado",
         "Potencia (kW)": "5,2-3,7",
         "Coste energía (kWh)": "Gratis",
         "Carga minima": "No",
@@ -142,11 +182,34 @@
         "Ubicación": "Barcelona"
       },
       {
-      
         "Gestor de Carga": "Fenie Energia",
-        "Tipo de carga": "",
-        "Potencia (kW)": "3,7-22",
-        "Coste energía (kWh)": "Gratis",
+        "Sistema de recarga": "Vinculado",
+        "Potencia (kW)": "3,7",
+        "Coste energía (kWh)": "0",
+        "Carga minima": "No",
+        "Cuota alta": "No",
+        "Cuota mensual": "No",
+        "Exceso de ocupacion": "No",
+        "Reserva de punto": "Gratis",
+        "Ubicación": "TTN"
+      },
+      {
+        "Gestor de Carga": "Fenie Energia",
+        "Sistema de recarga": "Convencional",
+        "Potencia (kW)": "7",
+        "Coste energía (kWh)": "0",
+        "Carga minima": "No",
+        "Cuota alta": "No",
+        "Cuota mensual": "No",
+        "Exceso de ocupacion": "No",
+        "Reserva de punto": "Gratis",
+        "Ubicación": "TTN"
+      },
+      {
+        "Gestor de Carga": "Fenie Energia",
+        "Sistema de recarga": "Semi Rápida",
+        "Potencia (kW)": "22",
+        "Coste energía (kWh)": "0",
         "Carga minima": "No",
         "Cuota alta": "No",
         "Cuota mensual": "No",
@@ -157,7 +220,7 @@
       {
       
         "Gestor de Carga": "Ghol",
-        "Tipo de carga": "",
+        "Sistema de recarga": "Semi Rápida",
         "Potencia (kW)": "22",
         "Coste energía (kWh)": "0,50 €",
         "Carga minima": "No",
@@ -165,13 +228,12 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "No",
         "Reserva de punto": "No",
-        "Ubicación": "E.S. San Fulgencio (Alacant)"
+        "Ubicación": "Alicante"
       },
       {
-      
         "Gestor de Carga": "GIC",
-        "Tipo de carga": "",
-        "Potencia (kW)": "3,7-50",
+        "Sistema de recarga": "Vinculado",
+        "Potencia (kW)": "3,7",
         "Coste energía (kWh)": "0,45 €",
         "Carga minima": "No",
         "Cuota alta": "No",
@@ -181,11 +243,46 @@
         "Ubicación": "Madrid"
       },
       {
-      
-        "Gestor de Carga": "Honest Charging",
-        "Tipo de carga": "",
+        "Gestor de Carga": "GIC",
+        "Sistema de recarga": "Convencional",
+        "Potencia (kW)": "7",
+        "Coste energía (kWh)": "0,45 €",
+        "Carga minima": "No",
+        "Cuota alta": "No",
+        "Cuota mensual": "No",
+        "Exceso de ocupacion": "0,90 €",
+        "Reserva de punto": "1,00 €",
+        "Ubicación": "Madrid"
+      },
+      {
+        "Gestor de Carga": "GIC",
+        "Sistema de recarga": "Semi Rápida",
+        "Potencia (kW)": "22",
+        "Coste energía (kWh)": "0,45 €",
+        "Carga minima": "No",
+        "Cuota alta": "No",
+        "Cuota mensual": "No",
+        "Exceso de ocupacion": "0,90 €",
+        "Reserva de punto": "1,00 €",
+        "Ubicación": "Madrid"
+      },
+      {
+        "Gestor de Carga": "GIC",
+        "Sistema de recarga": "Rápida",
         "Potencia (kW)": "50",
-        "Coste energía (kWh)": "0,00€",
+        "Coste energía (kWh)": "0,45 €",
+        "Carga minima": "No",
+        "Cuota alta": "No",
+        "Cuota mensual": "No",
+        "Exceso de ocupacion": "0,90 €",
+        "Reserva de punto": "1,00 €",
+        "Ubicación": "Madrid"
+      },
+      {
+        "Gestor de Carga": "Honest Charging",
+        "Sistema de recarga": "",
+        "Potencia (kW)": "50",
+        "Coste energía (kWh)": "0",
         "Carga minima": "",
         "Cuota alta": "",
         "Cuota mensual": "",
@@ -194,9 +291,8 @@
         "Ubicación": ""
       },
       {
-      
-        "Gestor de Carga": "Iberdrola",
-        "Tipo de carga": "",
+       "Gestor de Carga": "Iberdrola",
+        "Sistema de recarga": "",
         "Potencia (kW)": "3,7-22",
         "Coste energía (kWh)": "0,15 €",
         "Carga minima": "No",
@@ -207,9 +303,56 @@
         "Ubicación": "TTN"
       },
       {
-      
         "Gestor de Carga": "Iberdrola",
-        "Tipo de carga": "",
+         "Sistema de recarga": "Vinculado",
+         "Potencia (kW)": "3,7",
+         "Coste energía (kWh)": "0,15 €",
+         "Carga minima": "No",
+         "Cuota alta": "No",
+         "Cuota mensual": "No",
+         "Exceso de ocupacion": "",
+         "Reserva de punto": "No",
+         "Ubicación": "TTN"
+       },
+       {
+        "Gestor de Carga": "Iberdrola",
+         "Sistema de recarga": "Convencional",
+         "Potencia (kW)": "7",
+         "Coste energía (kWh)": "0,15 €",
+         "Carga minima": "No",
+         "Cuota alta": "No",
+         "Cuota mensual": "No",
+         "Exceso de ocupacion": "",
+         "Reserva de punto": "No",
+         "Ubicación": "TTN"
+       },
+       {
+        "Gestor de Carga": "Iberdrola",
+         "Sistema de recarga": "Semi Rápida",
+         "Potencia (kW)": "22",
+         "Coste energía (kWh)": "0,15 €",
+         "Carga minima": "No",
+         "Cuota alta": "No",
+         "Cuota mensual": "No",
+         "Exceso de ocupacion": "",
+         "Reserva de punto": "No",
+         "Ubicación": "TTN"
+       },
+      {
+        "Gestor de Carga": "Iberdrola",
+        "Sistema de recarga": "Rápida",
+        "Potencia (kW)": "50",
+        "Coste energía (kWh)": "0,30 €",
+        "Carga minima": "No",
+        "Cuota alta": "No",
+        "Cuota mensual": "No",
+        "Exceso de ocupacion": "",
+        "Reserva de punto": "No",
+        "Ubicación": "TTN"
+      },
+      {
+        "Gestor de Carga": "Iberdrola",
+        "Sistema de recarga": "Ultra rápida",
         "Potencia (kW)": "50-100",
         "Coste energía (kWh)": "0,30 €",
         "Carga minima": "No",
@@ -220,10 +363,9 @@
         "Ubicación": "TTN"
       },
       {
-      
         "Gestor de Carga": "Repsol",
-        "Tipo de carga": "",
-        "Potencia (kW)": "3,7-22",
+        "Sistema de recarga": "Vinculado",
+        "Potencia (kW)": "3,7",
         "Coste energía (kWh)": "0,35 €",
         "Carga minima": "2,42 €",
         "Cuota alta": "2,00 €",
@@ -233,9 +375,32 @@
         "Ubicación": "TTN"
       },
       {
-      
         "Gestor de Carga": "Repsol",
-        "Tipo de carga": "",
+        "Sistema de recarga": "Convencional",
+        "Potencia (kW)": "7",
+        "Coste energía (kWh)": "0,35 €",
+        "Carga minima": "2,42 €",
+        "Cuota alta": "2,00 €",
+        "Cuota mensual": "No",
+        "Exceso de ocupacion": "1,82 €",
+        "Reserva de punto": "?",
+        "Ubicación": "TTN"
+      },
+      {
+        "Gestor de Carga": "Repsol",
+        "Sistema de recarga": "Semi rápida",
+        "Potencia (kW)": "22",
+        "Coste energía (kWh)": "0,35 €",
+        "Carga minima": "2,42 €",
+        "Cuota alta": "2,00 €",
+        "Cuota mensual": "No",
+        "Exceso de ocupacion": "1,82 €",
+        "Reserva de punto": "?",
+        "Ubicación": "TTN"
+      },
+      {
+        "Gestor de Carga": "Repsol",
+        "Sistema de recarga": "Rápida",
         "Potencia (kW)": "43-50",
         "Coste energía (kWh)": "0,47 €",
         "Carga minima": "6,05 €",
@@ -246,12 +411,11 @@
         "Ubicación": "TTN"
       },
       {
-      
         "Gestor de Carga": "Ionity",
-        "Tipo de carga": "",
+        "Sistema de recarga": "Ultra rápida",
         "Potencia (kW)": "150",
-        "Coste energía (kWh)": "Tarifa plana",
-        "Carga minima": "8 € /carga",
+        "Coste energía (kWh)": "0,79",
+        "Carga minima": "",
         "Cuota alta": "",
         "Cuota mensual": "",
         "Exceso de ocupacion": "",
@@ -259,9 +423,57 @@
         "Ubicación": "TTN"
       },
       {
+        "Gestor de Carga": "Ionity - Audi",
+        "Sistema de recarga": "Ultra rápida",
+        "Potencia (kW)": "150",
+        "Coste energía (kWh)": "0,33",
+        "Carga minima": "",
+        "Cuota alta": "",
+        "Cuota mensual": "18 €",
+        "Exceso de ocupacion": "",
+        "Reserva de punto": "",
+        "Ubicación": "TTN"
+      },
+      {
+        "Gestor de Carga": "Ionity - Porsche",
+        "Sistema de recarga": "Ultra rápida",
+        "Potencia (kW)": "150",
+        "Coste energía (kWh)": "0,33",
+        "Carga minima": "",
+        "Cuota alta": "",
+        "Cuota mensual": "18 €",
+        "Exceso de ocupacion": "",
+        "Reserva de punto": "",
+        "Ubicación": "TTN"
+      },
+      {
+        "Gestor de Carga": "Ionity - Daimler Benz",
+        "Sistema de recarga": "Ultra rápida",
+        "Potencia (kW)": "150",
+        "Coste energía (kWh)": "0,29",
+        "Carga minima": "",
+        "Cuota alta": "",
+        "Cuota mensual": "18 €",
+        "Exceso de ocupacion": "",
+        "Reserva de punto": "",
+        "Ubicación": "TTN"
+      },
+      {
+        "Gestor de Carga": "Ionity - BMW",
+        "Sistema de recarga": "Ultra rápida",
+        "Potencia (kW)": "150",
+        "Coste energía (kWh)": "0,30",
+        "Carga minima": "",
+        "Cuota alta": "",
+        "Cuota mensual": "18 €",
+        "Exceso de ocupacion": "",
+        "Reserva de punto": "",
+        "Ubicación": "TTN"
+      },
+      {
       
         "Gestor de Carga": "Tesla",
-        "Tipo de carga": "",
+        "Sistema de recarga": "Ultra rápida",
         "Potencia (kW)":"150",
         "Coste energía (kWh)": "0,29 €",
         "Carga minima": "No",
@@ -274,9 +486,9 @@
       {
       
         "Gestor de Carga": "Tesla Free SuC",
-        "Tipo de carga": "",
+        "Sistema de recarga": "Ultra rápida",
         "Potencia (kW)":"150",
-        "Coste energía (kWh)": "0,0€",
+        "Coste energía (kWh)": "0",
         "Carga minima": "No",
         "Cuota alta": "No",
         "Cuota mensual": "No",
@@ -285,10 +497,9 @@
         "Ubicación": "TTN Solo para Teslas"
       },
       {
-      
         "Gestor de Carga": "Urbener",
-        "Tipo de carga": "",
-        "Potencia (kW)": "3,7-22",
+        "Sistema de recarga": "Vinculado",
+        "Potencia (kW)": "3,7",
         "Coste energía (kWh)": "0,20 €",
         "Carga minima": "No",
         "Cuota alta": "0,00 €",
@@ -298,10 +509,34 @@
         "Ubicación": "Madrid y Cantabria"
       },
       {
+        "Gestor de Carga": "Urbener Madrid",
+        "Sistema de recarga": "Convencional",
+        "Potencia (kW)": "7",
+        "Coste energía (kWh)": "0,20 €",
+        "Carga minima": "No",
+        "Cuota alta": "0,00 €",
+        "Cuota mensual": "0,00 €",
+        "Exceso de ocupacion": "No",
+        "Reserva de punto": "No",
+        "Ubicación": "Madrid"
+      },
+      {
+        "Gestor de Carga": "Urbener Madrid",
+        "Sistema de recarga": "Semi Rápida",
+        "Potencia (kW)": "22",
+        "Coste energía (kWh)": "0,20 €",
+        "Carga minima": "No",
+        "Cuota alta": "0,00 €",
+        "Cuota mensual": "0,00 €",
+        "Exceso de ocupacion": "No",
+        "Reserva de punto": "No",
+        "Ubicación": "Madrid"
+      },
+      {
       
-        "Gestor de Carga": "Urbener",
-        "Tipo de carga": "",
-        "Potencia (kW)": "11-22",
+        "Gestor de Carga": "Urbener Cantabria",
+        "Sistema de recarga": "Convencional",
+        "Potencia (kW)": "11",
         "Coste energía (kWh)": "0,30 €",
         "Carga minima": "No",
         "Cuota alta": "0,00 €",
@@ -312,8 +547,20 @@
       },
       {
       
-        "Gestor de Carga": "Wenea",
-        "Tipo de carga": "",
+        "Gestor de Carga": "Urbener Cantabria",
+        "Sistema de recarga": "Semi rápida",
+        "Potencia (kW)": "22",
+        "Coste energía (kWh)": "0,30 €",
+        "Carga minima": "No",
+        "Cuota alta": "0,00 €",
+        "Cuota mensual": "0,00 €",
+        "Exceso de ocupacion": "No",
+        "Reserva de punto": "No",
+        "Ubicación": "Cantabria"
+      },
+      {
+       "Gestor de Carga": "Wenea",
+        "Sistema de recarga": "",
         "Potencia (kW)": "7,4-50",
         "Coste energía (kWh)": "0,45 €",
         "Carga minima": "No",
