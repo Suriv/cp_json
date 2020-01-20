@@ -7,7 +7,7 @@ Json de los precios de carga de los operadores de carga en España.
 
 La categorización del tipo de carga, se basa en lo públicado en el BOE en el [Real Decreto 72/2019](https://www.boe.es/eli/es/rd/2019/02/15/72)
 
-⋅⋅* Sistema de recarga *vinculado*: Potencia inferior a 7 kW
+⋅⋅ Sistema de recarga *vinculado*: Potencia inferior a 7 kW
 
 ⋅⋅* Sistema de recarga *convencional*: Potencia igual o superior a 7 kW, e inferior a 15 kW
 
