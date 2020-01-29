@@ -1,5 +1,5 @@
 { 
-  "España":[
+  "1580515200":[
       {
         "Gestor de Carga": "Cargacoches",
         "Sistema de recarga": "Semi Rápida",
@@ -403,7 +403,19 @@
         "Sistema de recarga": "Rápida",
         "Potencia (kW)": "43-50",
         "Coste energía (kWh)": "0,47 €",
-        "Carga minima": "6,05 €",
+        "Carga minima": "3,63 €",
+        "Cuota alta": "2,00 €",
+        "Cuota mensual": "No",
+        "Exceso de ocupacion": "1,82 €",
+        "Reserva de punto": "?",
+        "Ubicación": "Nacional"
+      },
+      {
+        "Gestor de Carga": "Repsol",
+        "Sistema de recarga": "Ultra rápida",
+        "Potencia (kW)": "100-350",
+        "Coste energía (kWh)": "0,54 €",
+        "Carga minima": "9,68 €",
         "Cuota alta": "2,00 €",
         "Cuota mensual": "No",
         "Exceso de ocupacion": "1,82 €",
