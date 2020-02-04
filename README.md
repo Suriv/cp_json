@@ -16,3 +16,7 @@ La categorización del tipo de carga, se basa en lo públicado en el BOE en el [
 * Sistema de carga *rápida*: potencia igual o superior a 40 kW e inferior a 100 kW
 
 * Sistema de carga *ultra rápida*: potencia igual o superior a 100 kW
+
+## Referencias de precios
+
+* [Porsche](https://connect-store.porsche.com/de/de/porsche-charging-service--taycan-/p/taycan_charging_EU_v1)
