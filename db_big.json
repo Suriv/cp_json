@@ -172,7 +172,7 @@
       
         "Gestor de Carga": "Estebanell i Pahisa",
         "Sistema de recarga": "Vinculado",
-        "Potencia (kW)": "5,2-3,7",
+        "Potencia (kW)": "3,7-5.2",
         "Coste energía (kWh)": "Gratis",
         "Carga minima": "No",
         "Cuota alta": "No",
@@ -216,19 +216,6 @@
         "Exceso de ocupacion": "No",
         "Reserva de punto": "Gratis",
         "Ubicación": "Nacional"
-      },
-      {
-      
-        "Gestor de Carga": "Ghol",
-        "Sistema de recarga": "Semi Rápida",
-        "Potencia (kW)": "22",
-        "Coste energía (kWh)": "0,50 €",
-        "Carga minima": "No",
-        "Cuota alta": "No",
-        "Cuota mensual": "No",
-        "Exceso de ocupacion": "No",
-        "Reserva de punto": "No",
-        "Ubicación": "Alicante"
       },
       {
         "Gestor de Carga": "GIC",
@@ -519,7 +506,6 @@
         "Ubicación": "Nacional"
       },
       {
-      
         "Gestor de Carga": "Tesla",
         "Sistema de recarga": "Ultra rápida",
         "Potencia (kW)":"150",
@@ -532,7 +518,6 @@
         "Ubicación": "Nacional Solo para Teslas"
       },
       {
-      
         "Gestor de Carga": "Tesla Free SuC",
         "Sistema de recarga": "Ultra rápida",
         "Potencia (kW)":"150",
@@ -608,8 +593,8 @@
       },
       {
        "Gestor de Carga": "Wenea",
-        "Sistema de recarga": "",
-        "Potencia (kW)": "7,4-50",
+        "Sistema de recarga": "Convencional",
+        "Potencia (kW)": "7,4",
         "Coste energía (kWh)": "0,45 €",
         "Carga minima": "No",
         "Cuota alta": "0,00 €",
@@ -617,6 +602,30 @@
         "Exceso de ocupacion": "No",
         "Reserva de punto": "No",
         "Ubicación": "Nacional"
-      }
+      },
+      {
+        "Gestor de Carga": "Wenea",
+         "Sistema de recarga": "Semi rápida",
+         "Potencia (kW)": "22",
+         "Coste energía (kWh)": "0,45 €",
+         "Carga minima": "No",
+         "Cuota alta": "0,00 €",
+         "Cuota mensual": "0,00 €",
+         "Exceso de ocupacion": "No",
+         "Reserva de punto": "No",
+         "Ubicación": "Nacional"
+       },
+       {
+        "Gestor de Carga": "Wenea",
+         "Sistema de recarga": "Rápida",
+         "Potencia (kW)": "50",
+         "Coste energía (kWh)": "0,45 €",
+         "Carga minima": "No",
+         "Cuota alta": "0,00 €",
+         "Cuota mensual": "0,00 €",
+         "Exceso de ocupacion": "No",
+         "Reserva de punto": "No",
+         "Ubicación": "Nacional"
+       }
   ]
 }
