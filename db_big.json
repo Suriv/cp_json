@@ -1,4 +1,4 @@
-{ 
+{
   "1580515200":[
       {
         "Gestor de Carga": "Cargacoches",
@@ -10,7 +10,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "Gratis",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Cargacoches",
@@ -22,7 +23,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "Gratis",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "EDP Moveon",
@@ -34,7 +36,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "EDP Moveon",
@@ -46,7 +49,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "EDP Moveon",
@@ -58,7 +62,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "Asturias (Roces)"
+        "Ubicación": "Asturias (Roces)",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "EMT Madrid + Parking",
@@ -70,7 +75,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "2,00 €",
-        "Ubicación": "Madrid"
+        "Ubicación": "Madrid",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "EMT Madrid Plaza Colon",
@@ -82,7 +88,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "2,00 €",
-        "Ubicación": "Madrid"
+        "Ubicación": "Madrid",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Endesa X",
@@ -94,8 +101,8 @@
         "Cuota mensual": "",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "Nacional"
-      },
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"      },
       {
         "Gestor de Carga": "Endesa X",
         "Sistema de recarga": "Semi Rápida",
@@ -106,7 +113,8 @@
         "Cuota mensual": "",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Endesa X",
@@ -118,7 +126,8 @@
         "Cuota mensual": "",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Esay Charger",
@@ -130,7 +139,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Esay Charger",
@@ -142,7 +152,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Esay Charger - Nissan",
@@ -154,7 +165,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Esay Charger - Nissan",
@@ -166,10 +178,11 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
-      
+
         "Gestor de Carga": "Estebanell i Pahisa",
         "Sistema de recarga": "Vinculado",
         "Potencia (kW)": "3,7-5.2",
@@ -179,7 +192,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "No",
         "Reserva de punto": "No",
-        "Ubicación": "Barcelona"
+        "Ubicación": "Barcelona",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Fenie Energia",
@@ -191,7 +205,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "No",
         "Reserva de punto": "Gratis",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Fenie Energia",
@@ -203,7 +218,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "No",
         "Reserva de punto": "Gratis",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Fenie Energia",
@@ -215,7 +231,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "No",
         "Reserva de punto": "Gratis",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "GIC",
@@ -227,7 +244,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "0,90 €",
         "Reserva de punto": "1,00 €",
-        "Ubicación": "Madrid"
+        "Ubicación": "Madrid",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "GIC",
@@ -239,7 +257,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "0,90 €",
         "Reserva de punto": "1,00 €",
-        "Ubicación": "Madrid"
+        "Ubicación": "Madrid",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "GIC",
@@ -251,7 +270,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "0,90 €",
         "Reserva de punto": "1,00 €",
-        "Ubicación": "Madrid"
+        "Ubicación": "Madrid",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "GIC",
@@ -263,7 +283,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "0,90 €",
         "Reserva de punto": "1,00 €",
-        "Ubicación": "Madrid"
+        "Ubicación": "Madrid",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Honest Charging",
@@ -275,7 +296,8 @@
         "Cuota mensual": "",
         "Exceso de ocupacion": "",
         "Reserva de punto": "No",
-        "Ubicación": ""
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
        "Gestor de Carga": "Iberdrola",
@@ -287,8 +309,9 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "No",
-        "Ubicación": "Nacional"
-      },
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
+       },
       {
         "Gestor de Carga": "Iberdrola",
          "Sistema de recarga": "Vinculado",
@@ -299,8 +322,9 @@
          "Cuota mensual": "No",
          "Exceso de ocupacion": "",
          "Reserva de punto": "No",
-         "Ubicación": "Nacional"
-       },
+         "Ubicación": "Nacional",
+        "Tipo":"Publica"
+      },
        {
         "Gestor de Carga": "Iberdrola",
          "Sistema de recarga": "Convencional",
@@ -311,7 +335,8 @@
          "Cuota mensual": "No",
          "Exceso de ocupacion": "",
          "Reserva de punto": "No",
-         "Ubicación": "Nacional"
+         "Ubicación": "Nacional",
+        "Tipo":"Publica"
        },
        {
         "Gestor de Carga": "Iberdrola",
@@ -323,7 +348,8 @@
          "Cuota mensual": "No",
          "Exceso de ocupacion": "",
          "Reserva de punto": "No",
-         "Ubicación": "Nacional"
+         "Ubicación": "Nacional",
+        "Tipo":"Publica"
        },
       {
         "Gestor de Carga": "Iberdrola",
@@ -335,8 +361,9 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "No",
-        "Ubicación": "Nacional"
-      },
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
+       },
       {
         "Gestor de Carga": "Iberdrola",
         "Sistema de recarga": "Ultra rápida",
@@ -347,8 +374,9 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "",
         "Reserva de punto": "No",
-        "Ubicación": "Nacional"
-      },
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
+       },
       {
         "Gestor de Carga": "Ionity",
         "Sistema de recarga": "Ultra rápida",
@@ -359,7 +387,8 @@
         "Cuota mensual": "",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Ionity - Audi",
@@ -371,8 +400,9 @@
         "Cuota mensual": "18 €",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "Nacional"
-      },
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
+       },
       {
         "Gestor de Carga": "Ionity - Porsche",
         "Sistema de recarga": "Ultra rápida",
@@ -383,7 +413,8 @@
         "Cuota mensual": "14.91 €",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Ionity - Daimler Benz",
@@ -395,8 +426,9 @@
         "Cuota mensual": "18 €",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "Nacional"
-      },
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
+       },
       {
         "Gestor de Carga": "Ionity - BMW",
         "Sistema de recarga": "Ultra rápida",
@@ -407,44 +439,9 @@
         "Cuota mensual": "18 €",
         "Exceso de ocupacion": "",
         "Reserva de punto": "",
-        "Ubicación": "Nacional"
-      },
-      {
-        "Gestor de Carga": "Porsche",
-        "Sistema de recarga": "Semi rápida",
-        "Potencia (kW)": "22",
-        "Coste energía (kWh)": "0,39 €",
-        "Carga minima": "0",
-        "Cuota alta": "0",
-        "Cuota mensual": "No",
-        "Exceso de ocupacion": "0",
-        "Reserva de punto": "?",
-        "Ubicación": "Nacional"
-      },
-      {
-        "Gestor de Carga": "Porsche",
-        "Sistema de recarga": "Rápida",
-        "Potencia (kW)": "50",
-        "Coste energía (kWh)": "0,39 €",
-        "Carga minima": "0",
-        "Cuota alta": "0",
-        "Cuota mensual": "No",
-        "Exceso de ocupacion": "0",
-        "Reserva de punto": "?",
-        "Ubicación": "Nacional"
-      },
-      {
-        "Gestor de Carga": "Porsche",
-        "Sistema de recarga": "Ultra rápida",
-        "Potencia (kW)": "150-350",
-        "Coste energía (kWh)": "0,39 €",
-        "Carga minima": "0",
-        "Cuota alta": "0",
-        "Cuota mensual": "No",
-        "Exceso de ocupacion": "0",
-        "Reserva de punto": "?",
-        "Ubicación": "Nacional"
-      },
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
+       },
       {
         "Gestor de Carga": "Repsol",
         "Sistema de recarga": "Vinculado",
@@ -455,8 +452,9 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "1,82 €",
         "Reserva de punto": "?",
-        "Ubicación": "Nacional"
-      },
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
+       },
       {
         "Gestor de Carga": "Repsol",
         "Sistema de recarga": "Convencional",
@@ -467,7 +465,8 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "1,82 €",
         "Reserva de punto": "?",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Repsol",
@@ -479,8 +478,9 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "1,82 €",
         "Reserva de punto": "?",
-        "Ubicación": "Nacional"
-      },
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
+       },
       {
         "Gestor de Carga": "Repsol",
         "Sistema de recarga": "Rápida",
@@ -491,8 +491,9 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "1,82 €",
         "Reserva de punto": "?",
-        "Ubicación": "Nacional"
-      },
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
+       },
       {
         "Gestor de Carga": "Repsol",
         "Sistema de recarga": "Ultra rápida",
@@ -503,32 +504,9 @@
         "Cuota mensual": "No",
         "Exceso de ocupacion": "1,82 €",
         "Reserva de punto": "?",
-        "Ubicación": "Nacional"
-      },
-      {
-        "Gestor de Carga": "Tesla",
-        "Sistema de recarga": "Ultra rápida",
-        "Potencia (kW)":"150",
-        "Coste energía (kWh)": "0,29 €",
-        "Carga minima": "No",
-        "Cuota alta": "No",
-        "Cuota mensual": "No",
-        "Exceso de ocupacion": "SI",
-        "Reserva de punto": "No",
-        "Ubicación": "Nacional Solo para Teslas"
-      },
-      {
-        "Gestor de Carga": "Tesla Free SuC",
-        "Sistema de recarga": "Ultra rápida",
-        "Potencia (kW)":"150",
-        "Coste energía (kWh)": "0",
-        "Carga minima": "No",
-        "Cuota alta": "No",
-        "Cuota mensual": "No",
-        "Exceso de ocupacion": "SI",
-        "Reserva de punto": "No",
-        "Ubicación": "Nacional Solo para Teslas"
-      },
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
+       },
       {
         "Gestor de Carga": "Urbener",
         "Sistema de recarga": "Vinculado",
@@ -539,7 +517,8 @@
         "Cuota mensual": "0,00 €",
         "Exceso de ocupacion": "No",
         "Reserva de punto": "No",
-        "Ubicación": "Madrid y Cantabria"
+        "Ubicación": "Madrid y Cantabria",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Urbener Madrid",
@@ -551,7 +530,8 @@
         "Cuota mensual": "0,00 €",
         "Exceso de ocupacion": "No",
         "Reserva de punto": "No",
-        "Ubicación": "Madrid"
+        "Ubicación": "Madrid",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Urbener Madrid",
@@ -563,10 +543,11 @@
         "Cuota mensual": "0,00 €",
         "Exceso de ocupacion": "No",
         "Reserva de punto": "No",
-        "Ubicación": "Madrid"
+        "Ubicación": "Madrid",
+        "Tipo":"Publica"
       },
       {
-      
+
         "Gestor de Carga": "Urbener Cantabria",
         "Sistema de recarga": "Convencional",
         "Potencia (kW)": "11",
@@ -576,10 +557,11 @@
         "Cuota mensual": "0,00 €",
         "Exceso de ocupacion": "No",
         "Reserva de punto": "No",
-        "Ubicación": "Cantabria"
+        "Ubicación": "Cantabria",
+        "Tipo":"Publica"
       },
       {
-      
+
         "Gestor de Carga": "Urbener Cantabria",
         "Sistema de recarga": "Semi rápida",
         "Potencia (kW)": "22",
@@ -589,7 +571,8 @@
         "Cuota mensual": "0,00 €",
         "Exceso de ocupacion": "No",
         "Reserva de punto": "No",
-        "Ubicación": "Cantabria"
+        "Ubicación": "Cantabria",
+        "Tipo":"Publica"
       },
       {
        "Gestor de Carga": "Wenea",
@@ -601,7 +584,8 @@
         "Cuota mensual": "0,00 €",
         "Exceso de ocupacion": "No",
         "Reserva de punto": "No",
-        "Ubicación": "Nacional"
+        "Ubicación": "Nacional",
+        "Tipo":"Publica"
       },
       {
         "Gestor de Carga": "Wenea",
@@ -613,7 +597,8 @@
          "Cuota mensual": "0,00 €",
          "Exceso de ocupacion": "No",
          "Reserva de punto": "No",
-         "Ubicación": "Nacional"
+         "Ubicación": "Nacional",
+        "Tipo":"Publica"
        },
        {
         "Gestor de Carga": "Wenea",
@@ -625,7 +610,8 @@
          "Cuota mensual": "0,00 €",
          "Exceso de ocupacion": "No",
          "Reserva de punto": "No",
-         "Ubicación": "Nacional"
-       }
+         "Ubicación": "Nacional",
+        "Tipo":"Publica"
+        }
   ]
 }
