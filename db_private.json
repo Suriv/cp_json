@@ -1,0 +1,69 @@
+{
+  "1580515200":[
+      {
+        "Load Manager": "Porsche",
+        "Charging system": "Semi rápida",
+        "Power (kW)": "22",
+        "Cost energy (kWh)": "0,39 €",
+        "Minimum load": "0",
+        "High fee": "0",
+        "Monthly fee": "No",
+        "Overcrowding": "0",
+        "Reserve point": "?",
+        "Location": "Nacional",
+        "Type":"Privada"
+      },
+      {
+        "Load Manager": "Porsche",
+        "Charging system": "Rápida",
+        "Power (kW)": "50",
+        "Cost energy (kWh)": "0,39 €",
+        "Minimum load": "0",
+        "High fee": "0",
+        "Monthly fee": "No",
+        "Overcrowding": "0",
+        "Reserve point": "?",
+        "Location": "Nacional",
+        "Type":"Privada"
+      },
+      {
+        "Load Manager": "Porsche",
+        "Charging system": "Ultra rápida",
+        "Power (kW)": "150-350",
+        "Cost energy (kWh)": "0,39 €",
+        "Minimum load": "0",
+        "High fee": "0",
+        "Monthly fee": "No",
+        "Overcrowding": "0",
+        "Reserve point": "?",
+        "Location": "Nacional",
+        "Type":"Privada"
+      },
+      {
+        "Load Manager": "Tesla",
+        "Charging system": "Ultra rápida",
+        "Power (kW)":"150",
+        "Cost energy (kWh)": "0,29 €",
+        "Minimum load": "No",
+        "High fee": "No",
+        "Monthly fee": "No",
+        "Overcrowding": "SI",
+        "Reserve point": "No",
+        "Location": "Nacional",
+        "Type":"Privada"
+      },
+      {
+        "Load Manager": "Tesla Free SuC",
+        "Charging system": "Ultra rápida",
+        "Power (kW)":"150",
+        "Cost energy (kWh)": "0",
+        "Minimum load": "No",
+        "High fee": "No",
+        "Monthly fee": "No",
+        "Overcrowding": "SI",
+        "Reserve point": "No",
+        "Location": "Nacional",
+        "Type":"Privada"
+      }
+  ]
+}
