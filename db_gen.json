@@ -35,7 +35,7 @@
       "high_fee": "No",
       "month_fee": "No",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -48,7 +48,7 @@
       "high_fee": "No",
       "month_fee": "No",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -61,7 +61,7 @@
       "high_fee": "No",
       "month_fee": "No",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Asturias (Roces)",
       "type":"Publica"
     },
@@ -100,7 +100,7 @@
       "high_fee": "15,00 €",
       "month_fee": "",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -113,7 +113,7 @@
       "high_fee": "15,00 €",
       "month_fee": "",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -126,7 +126,7 @@
       "high_fee": "15,00 €",
       "month_fee": "",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -139,7 +139,7 @@
       "high_fee": "No",
       "month_fee": "No",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -152,7 +152,7 @@
       "high_fee": "No",
       "month_fee": "No",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -165,7 +165,7 @@
       "high_fee": "No",
       "month_fee": "No",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -178,7 +178,7 @@
       "high_fee": "No",
       "month_fee": "No",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -386,7 +386,7 @@
       "high_fee": "",
       "month_fee": "",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -399,7 +399,7 @@
       "high_fee": "",
       "month_fee": "18 €",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -412,7 +412,7 @@
       "high_fee": "",
       "month_fee": "14.91 €",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -425,7 +425,7 @@
       "high_fee": "",
       "month_fee": "18 €",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -438,7 +438,7 @@
       "high_fee": "",
       "month_fee": "18 €",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -714,7 +714,7 @@
       "high_fee": "No",
       "month_fee": "No",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -727,7 +727,7 @@
       "high_fee": "No",
       "month_fee": "No",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -740,7 +740,7 @@
       "high_fee": "No",
       "month_fee": "No",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Asturias (Roces)",
       "type":"Publica"
     },
@@ -779,7 +779,7 @@
       "high_fee": "15,00 €",
       "month_fee": "",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -792,7 +792,7 @@
       "high_fee": "15,00 €",
       "month_fee": "",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -805,7 +805,7 @@
       "high_fee": "15,00 €",
       "month_fee": "",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -818,7 +818,7 @@
       "high_fee": "No",
       "month_fee": "No",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -831,7 +831,7 @@
       "high_fee": "No",
       "month_fee": "No",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -844,7 +844,7 @@
       "high_fee": "No",
       "month_fee": "No",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -857,7 +857,7 @@
       "high_fee": "No",
       "month_fee": "No",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -1066,7 +1066,7 @@
       "high_fee": "",
       "month_fee": "",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -1079,7 +1079,7 @@
       "high_fee": "",
       "month_fee": "18 €",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -1092,7 +1092,7 @@
       "high_fee": "",
       "month_fee": "14.91 €",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -1105,7 +1105,7 @@
       "high_fee": "",
       "month_fee": "18 €",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
@@ -1118,7 +1118,7 @@
       "high_fee": "",
       "month_fee": "18 €",
       "overcrowding": "",
-      "r_point": "",
+      "r_point": "NO",
       "location": "Ámbito nacional",
       "type":"Publica"
     },
