@@ -131,7 +131,7 @@
       "type":"Publica"
     },
     {
-      "load": "Esay Charger",
+      "load": "Easycharger",
       "category": "Semi Rápida",
       "power": "22",
       "cost": "0,3 €",
@@ -144,7 +144,7 @@
       "type":"Publica"
     },
     {
-      "load": "Esay Charger",
+      "load": "Easycharger",
       "category": "Rápida",
       "power": "50",
       "cost": "0,3 €",
@@ -157,7 +157,7 @@
       "type":"Publica"
     },
     {
-      "load": "Esay Charger - Nissan",
+      "load": "Easycharger - Nissan",
       "category": "Semi Rápida",
       "power": "22",
       "cost": "0,15 €",
@@ -170,7 +170,7 @@
       "type":"Publica"
     },
     {
-      "load": "Esay Charger - Nissan",
+      "load": "Easycharger - Nissan",
       "category": "Rápida",
       "power": "50",
       "cost": "0,15 €",
@@ -810,7 +810,7 @@
       "type":"Publica"
     },
     {
-      "load": "Esay Charger",
+      "load": "Easycharger",
       "category": "Semi Rápida",
       "power": "22",
       "cost": "0,3 €",
@@ -823,7 +823,7 @@
       "type":"Publica"
     },
     {
-      "load": "Esay Charger",
+      "load": "Easycharger",
       "category": "Rápida",
       "power": "50",
       "cost": "0,3 €",
@@ -836,7 +836,7 @@
       "type":"Publica"
     },
     {
-      "load": "Esay Charger - Nissan",
+      "load": "Easycharger - Nissan",
       "category": "Semi Rápida",
       "power": "22",
       "cost": "0,15 €",
@@ -849,7 +849,7 @@
       "type":"Publica"
     },
     {
-      "load": "Esay Charger - Nissan",
+      "load": "Easycharger - Nissan",
       "category": "Rápida",
       "power": "50",
       "cost": "0,15 €",
