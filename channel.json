@@ -1,0 +1,182 @@
+{
+  "channels": [
+   {
+     "channel":"La 1",
+     "live":"http://www.rtve.es/directo/la-1/",
+     "demand":"http://www.rtve.es/alacarta/tve/la1/",
+     "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/800px-Logo_TVE-1.svg.png"
+   },
+   {
+    "channel":"La 2",
+    "live":"http://www.rtve.es/directo/la-2/",
+    "demand":"http://www.rtve.es/alacarta/tve/la2/",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_TVE-2.svg"
+  },
+   {
+    "channel":"24h",
+    "live":"https://www.rtve.es/directo/canal-24h/",
+    "demand":"https://www.rtve.es/alacarta/tve/24-horas/",
+    "img":"24h.jpg"
+   },
+   {
+    "channel":"Teledeporte",
+    "live":"http://www.rtve.es/directo/teledeporte/",
+    "demand":"http://www.rtve.es/alacarta/tve/teledeporte/",
+    "img":"teledeporte.jpg"
+    },
+   {
+    "channel":"Antena 3",
+    "live":"http://www.atresplayer.com/directos/television/",
+    "demand":"http://www.atresplayer.com/",
+    "img":"antena3.jpg"
+    },
+   {
+    "channel":"Cuatro",
+    "live":"http://www.cuatro.com/en-directo/",
+    "demand":"http://www.mitele.es/",
+    "img":"cuatro.jpg"
+    },
+   {
+      "channel":"Telecinco",
+      "live":"http://www.telecinco.es/endirecto/",
+      "demand":"http://www.mitele.es/",
+      "img":"telecinco.jpg"
+    },
+   {
+      "channel":"La Sexta",
+      "live":"https://www.atresplayer.com/directos/lasexta/",
+      "demand":"https://www.atresplayer.com/lasexta/",
+      "img":"lasexta.jpg"
+    },
+    {
+      "channel":"TeleMadrid",
+      "live":"http://www.telemadrid.es/?q=%3Eemision_en_directo",
+      "demand":"",
+      "img":"telemadrid.jpg"
+    },
+    {
+      "channel":"LaOtra",
+      "live":"",
+      "demand":"http://www.telemadrid.es/la-otra/",
+      "img":"laOtra.jpg"
+    },
+    {
+      "channel":"TV3",
+      "live":"https://www.ccma.cat/tv3/directe/tv3/",
+      "demand":"",
+      "img":"tv3.jpg"
+    },
+    {
+      "channel":"Canal Extremadura",
+      "live":"http://www.canalextremadura.es/tv/directo#ahora",
+      "demand":"http://www.canalextremadura.es/tv/programas",
+      "img":"extremadura.jpg"
+    },
+    {
+      "channel":"RTPA",
+      "live":"",
+      "demand":"https://www.rtpa.es/tpa-television",
+      "img":"rtpa.jpg"
+    },
+    {
+      "channel":"CMM",
+      "live":"https://www.cmmedia.es/en-directo/tv/",
+      "demand":"https://www.cmmedia.es/programacion/tv/",
+      "img":"cmm.jpg"
+    },
+    {
+      "channel":"Canal Rias Baixas",
+      "live":"",
+      "demand":"https://canalriasbaixas.tv",
+      "img":"canalriasbaixas.jpg"
+    },
+    {
+      "channel":"Canal Sur",
+      "live":"http://www.canalsur.es/portada-adirecto-722225.html",
+      "demand":"http://www.canalsur.es/programas_tv.html",
+      "img":"canalsur.jpg"
+    },
+    {
+      "channel":"Television de Galicia",
+      "live":"http://www.crtvg.es/tvg/tvg-en-directo",
+      "demand":"http://www.crtvg.es/tvg/a-carta",
+      "img":"televisiondegalicia.jpg"
+    },
+    {
+      "channel":"Malaga24H",
+      "live":"http://malaga24h.com/directo-de-malaga-24-horas/",
+      "demand":"",
+      "img":"malaga24h.jpg"
+    },
+    {
+      "channel":"ETB 1",
+      "live":"https://www.eitb.eus/eu/telebista/etb1/",
+      "demand":"",
+      "img":"etb1.jpg"
+    },
+    {
+      "channel":"ETB 2",
+      "live":"https://www.eitb.eus/eu/telebista/etb2/",
+      "demand":"",
+      "img":"etb2.jpg"
+    },
+    {
+      "channel":"A Punt",
+      "live":"https://apuntmedia.es/va/directe/tv",
+      "demand":"",
+      "img":"apunt.jpg"
+    }
+  ],
+  "plataforms": [
+    {
+       "channel":"Disney +",
+       "live":"https://www.disneyplus.com/es-es/",
+       "img":"disneyplus.jpg"
+    },
+	  {
+       "channel":"HBO España",
+       "live":"https://es.hboespana.com",
+       "img":"hboespana.jpg"
+    },
+	  {
+       "channel":"Apple TV Plus",
+       "live":"https://tv.apple.com/es",
+       "img":"appletvplus.jpg"
+    },
+	  {
+       "channel":"Netflix",
+       "live":"https://www.netflix.com/es/",
+       "img":"netflix.jpg"
+    },
+	  {
+       "channel":"Plex",
+       "live":"https://app.plex.tv",
+       "img":"plex.jpg"
+    },
+	  {
+       "channel":"Rakuten",
+       "live":"https://rakuten.tv/es",
+       "img":"rakutentv.jpg"
+    },
+	  {
+       "channel":"Starz",
+       "live":"https://www.starz.com/es/es/",
+       "img":"starz.jpg"
+    },
+	  {
+       "channel":"Vimeo",
+       "live":"https://vimeo.com/watch",
+       "img":"vimeo.jpg"
+    },
+	  {
+       "channel":"Youtube",
+       "live":"https://www.youtube.com",
+       "img":"youtube.jpg"
+    },
+	  {
+       "channel":"Mi Tele",
+       "live":"https://www.mitele.es/",
+       "img":"mitele.jpg"
+    }
+  ]
+}
