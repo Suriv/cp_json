@@ -40,7 +40,7 @@
       "channel":"Telecinco",
       "live":"http://www.telecinco.es/endirecto/",
       "demand":"http://www.mitele.es/",
-      "img":"https://es.wikipedia.org/wiki/Telecinco#/media/Archivo:Telecinco.svg"
+      "img":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Telecinco.svg"
     },
    {
       "channel":"La Sexta",
@@ -64,7 +64,7 @@
       "channel":"TV3",
       "live":"https://www.ccma.cat/tv3/directe/tv3/",
       "demand":"",
-      "img":"https://upload.wikimedia.org/wikipedia/commons/c/cb/TV3.svg"
+      "img":"https://statics.ccma.cat/img/logos/tv3_colorBgNegre.svg"
     },
     {
       "channel":"Canal Extremadura",
