@@ -2,7 +2,7 @@
   "1580515200":[
     {
       "load": "Blaudrive",
-      "category": "",
+      "category": "Rápida",
       "power": "50",
       "cost": "0",
       "min_load": "",
@@ -837,7 +837,7 @@
   "1583020800":[
     {
       "load": "Blaudrive",
-      "category": "",
+      "category": "Rápida",
       "power": "50",
       "cost": "0",
       "min_load": "",
@@ -1672,7 +1672,7 @@
   "1585699200":[
     {
       "load": "Blaudrive",
-      "category": "",
+      "category": "Rápida",
       "power": "50",
       "cost": "0",
       "min_load": "",
@@ -2507,7 +2507,7 @@
   "1588291200":[
     {
       "load": "Blaudrive",
-      "category": "",
+      "category": "Rápida",
       "power": "50",
       "cost": "0",
       "min_load": "",
@@ -3341,8 +3341,41 @@
   ],
   "1590969600":[
     {
+      "load":  "AMB Area Metropolitana de Barcelona",
+      "category": "Semi Rápida",
+      "power": "22",
+      "cost": "0",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "Multa",
+      "r_point": "No",
+      "location": "Bracelona",
+      "app_url":"https://www.smou.cat/",
+      "app_name":"Smou",
+      "ob":"",
+      "type":"Publica"
+    },
+
+    {
+      "load":  "AMB Area Metropolitana de Barcelona",
+      "category": "Rápida",
+      "power": "50",
+      "cost": "0",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "Multa",
+      "r_point": "No",
+      "location": "Bracelona",
+      "app_url":"https://www.smou.cat/",
+      "app_name":"Smou",
+      "ob":"",
+      "type":"Publica"
+    },
+    {
       "load": "Blaudrive",
-      "category": "",
+      "category": "Rápida",
       "power": "50",
       "cost": "0",
       "min_load": "",
