@@ -1,6 +1,19 @@
 {
   "1580515200":[
     {
+      "load": "Blaudrive",
+      "category": "",
+      "power": "50",
+      "cost": "0",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location": "Ámbito nacional",
+      "type":"Publica"
+    },
+    {
       "load": "Cargacoches",
       "category": "Semi Rápida",
       "power": "22",
@@ -27,7 +40,7 @@
       "type":"Publica"
     },
     {
-      "load": "EDP Moveon",
+      "load": "EDP Energías de Portugal",
       "category": "Convencional",
       "power": "7,4",
       "cost": "0,24 €",
@@ -40,7 +53,7 @@
       "type":"Publica"
     },
     {
-      "load": "EDP Moveon",
+      "load": "EDP Energías de Portugal",
       "category": "Semi Rápida",
       "power": "22",
       "cost": "0,28 €",
@@ -53,7 +66,7 @@
       "type":"Publica"
     },
     {
-      "load": "EDP Moveon",
+      "load": "EDP Energías de Portugal",
       "category": "Rápida",
       "power": "43-50",
       "cost": "0,36 €",
@@ -284,19 +297,6 @@
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
       "location": "Madrid",
-      "type":"Publica"
-    },
-    {
-      "load": "Honest Charging",
-      "category": "",
-      "power": "50",
-      "cost": "0",
-      "min_load": "",
-      "high_fee": "",
-      "month_fee": "",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location": "Ámbito nacional",
       "type":"Publica"
     },
     {
@@ -680,6 +680,19 @@
   ],
   "1583020800":[
     {
+      "load": "Blaudrive",
+      "category": "",
+      "power": "50",
+      "cost": "0",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location": "Ámbito nacional",
+      "type":"Publica"
+    },
+    {
       "load": "Cargacoches",
       "category": "Semi Rápida",
       "power": "22",
@@ -758,7 +771,7 @@
       "type":"Publica"
     },
     {
-      "load": "EDP Moveon",
+      "load": "EDP Energías de Portugal",
       "category": "Convencional",
       "power": "7,4",
       "cost": "0,24 €",
@@ -771,7 +784,7 @@
       "type":"Publica"
     },
     {
-      "load": "EDP Moveon",
+      "load": "EDP Energías de Portugal",
       "category": "Semi Rápida",
       "power": "22",
       "cost": "0,28 €",
@@ -784,7 +797,7 @@
       "type":"Publica"
     },
     {
-      "load": "EDP Moveon",
+      "load": "EDP Energías de Portugal",
       "category": "Rápida",
       "power": "43-50",
       "cost": "0,36 €",
@@ -964,19 +977,6 @@
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
       "location": "Madrid",
-      "type":"Publica"
-    },
-    {
-      "load": "Honest Charging",
-      "category": "",
-      "power": "50",
-      "cost": "0",
-      "min_load": "",
-      "high_fee": "",
-      "month_fee": "",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location": "Ámbito nacional",
       "type":"Publica"
     },
     {
@@ -1359,6 +1359,19 @@
   ],
   "1585699200":[
     {
+      "load": "Blaudrive",
+      "category": "",
+      "power": "50",
+      "cost": "0",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location": "Ámbito nacional",
+      "type":"Publica"
+    },
+    {
       "load": "Cargacoches",
       "category": "Semi Rápida",
       "power": "22",
@@ -1437,7 +1450,7 @@
       "type":"Publica"
     },
     {
-      "load": "EDP Moveon",
+      "load": "EDP Energías de Portugal",
       "category": "Convencional",
       "power": "7,4",
       "cost": "0,24 €",
@@ -1450,7 +1463,7 @@
       "type":"Publica"
     },
     {
-      "load": "EDP Moveon",
+      "load": "EDP Energías de Portugal",
       "category": "Semi Rápida",
       "power": "22",
       "cost": "0,28 €",
@@ -1463,7 +1476,7 @@
       "type":"Publica"
     },
     {
-      "load": "EDP Moveon",
+      "load": "EDP Energías de Portugal",
       "category": "Rápida",
       "power": "43-50",
       "cost": "0,36 €",
@@ -1643,19 +1656,6 @@
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
       "location": "Madrid",
-      "type":"Publica"
-    },
-    {
-      "load": "Honest Charging",
-      "category": "",
-      "power": "50",
-      "cost": "0",
-      "min_load": "",
-      "high_fee": "",
-      "month_fee": "",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location": "Ámbito nacional",
       "type":"Publica"
     },
     {
@@ -2025,6 +2025,19 @@
   ],
   "1588291200":[
     {
+      "load": "Blaudrive",
+      "category": "",
+      "power": "50",
+      "cost": "0",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location": "Ámbito nacional",
+      "type":"Publica"
+    },
+    {
       "load": "Cargacoches",
       "category": "Semi Rápida",
       "power": "22",
@@ -2103,7 +2116,7 @@
       "type":"Publica"
     },
     {
-      "load": "EDP Moveon",
+      "load": "EDP Energías de Portugal",
       "category": "Convencional",
       "power": "7,4",
       "cost": "0,24 €",
@@ -2116,7 +2129,7 @@
       "type":"Publica"
     },
     {
-      "load": "EDP Moveon",
+      "load": "EDP Energías de Portugal",
       "category": "Semi Rápida",
       "power": "22",
       "cost": "0,28 €",
@@ -2129,7 +2142,7 @@
       "type":"Publica"
     },
     {
-      "load": "EDP Moveon",
+      "load": "EDP Energías de Portugal",
       "category": "Rápida",
       "power": "43-50",
       "cost": "0,36 €",
@@ -2309,19 +2322,6 @@
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
       "location": "Madrid",
-      "type":"Publica"
-    },
-    {
-      "load": "Honest Charging",
-      "category": "",
-      "power": "50",
-      "cost": "0",
-      "min_load": "",
-      "high_fee": "",
-      "month_fee": "",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location": "Ámbito nacional",
       "type":"Publica"
     },
     {
@@ -2704,6 +2704,19 @@
   ],
   "1590969600":[
     {
+      "load": "Blaudrive",
+      "category": "",
+      "power": "50",
+      "cost": "0",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location": "Ámbito nacional",
+      "type":"Publica"
+    },
+    {
       "load": "Cargacoches",
       "category": "Semi Rápida",
       "power": "22",
@@ -2782,7 +2795,7 @@
       "type":"Publica"
     },
     {
-      "load": "EDP Moveon",
+      "load": "EDP Energías de Portugal",
       "category": "Convencional",
       "power": "7,4",
       "cost": "0,24 €",
@@ -2795,7 +2808,7 @@
       "type":"Publica"
     },
     {
-      "load": "EDP Moveon",
+      "load": "EDP Energías de Portugal",
       "category": "Semi Rápida",
       "power": "22",
       "cost": "0,28 €",
@@ -2808,7 +2821,7 @@
       "type":"Publica"
     },
     {
-      "load": "EDP Moveon",
+      "load": "EDP Energías de Portugal",
       "category": "Rápida",
       "power": "43-50",
       "cost": "0,36 €",
@@ -2886,7 +2899,6 @@
       "type":"Publica"
     },
     {
-
       "load": "Estebanell Energia",
       "category": "Vinculado",
       "power": "3,7-5.2",
@@ -2897,6 +2909,45 @@
       "overcrowding": "No",
       "r_point": "No",
       "location": "Barcelona",
+      "type":"Publica"
+    },
+    {
+      "load": "Etecnic",
+      "category": "Convencional",
+      "power": "7",
+      "cost": "0,35 €",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "",
+      "r_point": "",
+      "location": "",
+      "type":"Publica"
+    },
+    {
+      "load": "Etecnic",
+      "category": "Semi Rápida",
+      "power": "22",
+      "cost": "0,35 €",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "",
+      "r_point": "",
+      "location": "",
+      "type":"Publica"
+    },
+    {
+      "load": "Etecnic",
+      "category": "Rápida",
+      "power": "50",
+      "cost": "0,45 €",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "",
+      "r_point": "",
+      "location": "",
       "type":"Publica"
     },
     {
@@ -2988,19 +3039,6 @@
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
       "location": "Madrid",
-      "type":"Publica"
-    },
-    {
-      "load": "Honest Charging",
-      "category": "",
-      "power": "50",
-      "cost": "0",
-      "min_load": "",
-      "high_fee": "",
-      "month_fee": "",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location": "Ámbito nacional",
       "type":"Publica"
     },
     {
