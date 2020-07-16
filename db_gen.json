@@ -1,4 +1,5 @@
 {
+  "1577836800":[{}],
   "1580515200":[
     {
       "load": "Blaudrive",
@@ -4386,54 +4387,6 @@
       "type":"Publica"
     },
     {
-      "load": "Electromaps",
-      "category": "Convencional",
-      "power": "7,4",
-      "cost": "---",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "",
-      "r_point": "",
-      "location": "Ámbito nacional",
-      "app_url":"https://www.electromaps.com/",
-      "app_name":"Electromaps",
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "load": "Electromaps",
-      "category": "Semi Rápida",
-      "power": "22",
-      "cost": "---",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "",
-      "r_point": "",
-      "location": "Ámbito nacional",
-      "app_url":"https://www.electromaps.com/",
-      "app_name":"Electromaps",
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "load": "Electromaps",
-      "category": "Rápida",
-      "power": "50",
-      "cost": "---",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "",
-      "r_point": "",
-      "location": "Ámbito nacional",
-      "app_url":"https://www.electromaps.com/",
-      "app_name":"Electromaps",
-      "ob":"",
-      "type":"Publica"
-    },
-    {
       "load": "EMT Madrid",
       "category": "Semi Rápida",
       "power": "22",
@@ -5231,6 +5184,72 @@
       "location": "Ámbito nacional",
       "app_url":"https://www.wenea.com/",
       "app_name":"Wenea",
+      "ob":"",
+      "type":"Publica"
+    }
+  ],
+  "_comment_operator_draft":[
+    {
+      "load": "Electromaps",
+      "category": "Convencional",
+      "power": "7,4",
+      "cost": "---",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "",
+      "r_point": "",
+      "location": "Ámbito nacional",
+      "app_url":"https://www.electromaps.com/",
+      "app_name":"Electromaps",
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "load": "Electromaps",
+      "category": "Semi Rápida",
+      "power": "22",
+      "cost": "---",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "",
+      "r_point": "",
+      "location": "Ámbito nacional",
+      "app_url":"https://www.electromaps.com/",
+      "app_name":"Electromaps",
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "load": "Electromaps",
+      "category": "Rápida",
+      "power": "42-50",
+      "cost": "---",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "",
+      "r_point": "",
+      "location": "Ámbito nacional",
+      "app_url":"https://www.electromaps.com/",
+      "app_name":"Electromaps",
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "load": "Electromaps",
+      "category": "Ultra rápida",
+      "power": "150",
+      "cost": "---",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "",
+      "r_point": "",
+      "location": "Ámbito nacional",
+      "app_url":"https://www.electromaps.com/",
+      "app_name":"Electromaps",
       "ob":"",
       "type":"Publica"
     }
