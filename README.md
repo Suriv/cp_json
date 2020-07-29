@@ -35,3 +35,7 @@ La categorización del tipo de carga, se basa en lo públicado en el BOE en el [
 * [Tesla](https://www.tesla.com/es_ES/supercharger)
 * [Urbener](https://www.urbener.com/red-e-mobility/)
 * [Wenea](https://www.urbener.com/red-e-mobility/)
+
+## Agradecimientos
+
+Esta página no hubiera sido creada por la colaboración desinteresada del foro eléctricos, foroEV, y el [hilo](http://foroev.com/index.php?topic=4466.90) dónde se presta dicha información
