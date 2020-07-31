@@ -1,10 +1,10 @@
 {
 
   "year":"2020",
-  "1577836800":[{
+  "Enero":[{
     "nodata": "no data"
   }],
-  "1580515200":[
+  "Febrero":[
     {
       "cpo": "Blaudrive",
       "category": "Rápida",
@@ -839,7 +839,7 @@
       "type":"Publica"
     }
   ],
-  "1583020800":[
+  "Marzo":[
     {
       "cpo": "Blaudrive",
       "category": "Rápida",
@@ -1674,7 +1674,7 @@
       "type":"Publica"
     }
   ],
-  "1585699200":[
+  "Abril":[
     {
       "cpo": "Blaudrive",
       "category": "Rápida",
@@ -2509,7 +2509,7 @@
       "type":"Publica"
     }
   ],
-  "1588291200":[
+  "Mayo":[
     {
       "cpo": "Blaudrive",
       "category": "Rápida",
@@ -3344,7 +3344,7 @@
       "type":"Publica"
     }
   ],
-  "1590969600":[
+  "Junio":[
     {
       "cpo":  "AMB Area Metropolitana de Barcelona",
       "category": "Semi Rápida",
@@ -4260,7 +4260,7 @@
       "type":"Publica"
     }
   ],
-  "1593561600":[
+  "Julio":[
     {
       "cpo":  "AMB Area Metropolitana de Barcelona",
       "category": "Semi Rápida",
@@ -5192,7 +5192,7 @@
       "type":"Publica"
     }
   ],
-  "1596240000":[
+  "Agosto":[
     {
       "cpo":  "AMB Area Metropolitana de Barcelona",
       "category": "Semi Rápida",
@@ -6124,16 +6124,16 @@
       "type":"Publica"
     }
   ],
-  "1598918400":[{
+  "Septiembre":[{
     "nodata": "no data"
   }],
-  "1601510400":[{
+  "Octubre":[{
     "nodata": "no data"
   }],
-  "1604188800":[{
+  "Noviembre":[{
     "nodata": "no data"
   }],
-  "1606780800":[{
+  "Diciembre":[{
     "nodata": "no data"
   }],
   "_comment_operator_draft":[
