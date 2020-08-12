@@ -5536,7 +5536,6 @@
       "ob":"Incluye a la red Endolla Barcelola",
       "type":"Publica"
     },
-
     {
       "cpo":  "AMB Area Metropolitana de Barcelona",
       "category": "Rápida",
@@ -5862,10 +5861,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "Con cuota 25 €/año",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass",
-      "app_name":"Juice Pass",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Juice Pass",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass"
+      },
       "ob":"T.Plana: 25 €/mes --> 0,41 €/kWh hasta 60 kWh",
       "type":"Publica"
     },
@@ -5879,10 +5882,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "Con cuota 25 €/año",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass",
-      "app_name":"Juice Pass",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Juice Pass",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass"
+      },
       "ob":"T.Plana: 45 €/mes --> 0,37 €/kWh hasta 120 kWh",
       "type":"Publica"
     },
@@ -5896,10 +5903,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -5913,10 +5924,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -5930,10 +5945,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -5947,10 +5966,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"#ni",
-      "app_name":"",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
