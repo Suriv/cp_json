@@ -140,10 +140,14 @@
       "month_fee": "No",
       "overcrowding": "2 € > 10 min",
       "r_point": "2€ 1 h antes",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.emtmadrid.es/recargaEleectrica/Apps",
-      "app_name":"Electro EMT",
+     "location":{
+        "loc":"Madrid",
+        "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
+      },
+      "app":{
+        "name":"Electro EMT",
+        "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
+      },
       "ob":"Saldo mínimo para cargar: 4 €",
       "type":"Publica"
     },
@@ -157,10 +161,14 @@
       "month_fee": "No",
       "overcrowding": "2 € > 10 min",
       "r_point": "2€ 1 h antes",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.emtmadrid.es/recargaEleectrica/Apps",
-      "app_name":"Electro EMT",
+     "location":{
+        "loc":"Madrid",
+        "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
+      },
+      "app":{
+        "name":"Electro EMT",
+        "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
+      },
       "ob":"Saldo mínimo para cargar: 4 €",
       "type":"Publica"
     },
@@ -1000,10 +1008,14 @@
       "month_fee": "No",
       "overcrowding": "2 € > 10 min",
       "r_point": "2€ 1 h antes",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.emtmadrid.es/recargaEleectrica/Apps",
-      "app_name":"Electro EMT",
+     "location":{
+        "loc":"Madrid",
+        "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
+      },
+      "app":{
+        "name":"Electro EMT",
+        "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
+      },
       "ob":"Saldo mínimo para cargar: 4 €",
       "type":"Publica"
     },
@@ -1017,10 +1029,14 @@
       "month_fee": "No",
       "overcrowding": "2 € > 10 min",
       "r_point": "2€ 1 h antes",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.emtmadrid.es/recargaEleectrica/Apps",
-      "app_name":"Electro EMT",
+     "location":{
+        "loc":"Madrid",
+        "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
+      },
+      "app":{
+        "name":"Electro EMT",
+        "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
+      },
       "ob":"Saldo mínimo para cargar: 4 €",
       "type":"Publica"
     },
@@ -1860,10 +1876,14 @@
       "month_fee": "No",
       "overcrowding": "2 € > 10 min",
       "r_point": "2€ 1 h antes",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.emtmadrid.es/recargaEleectrica/Apps",
-      "app_name":"Electro EMT",
+     "location":{
+        "loc":"Madrid",
+        "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
+      },
+      "app":{
+        "name":"Electro EMT",
+        "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
+      },
       "ob":"Saldo mínimo para cargar: 4 €",
       "type":"Publica"
     },
@@ -1877,10 +1897,14 @@
       "month_fee": "No",
       "overcrowding": "2 € > 10 min",
       "r_point": "2€ 1 h antes",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.emtmadrid.es/recargaEleectrica/Apps",
-      "app_name":"Electro EMT",
+     "location":{
+        "loc":"Madrid",
+        "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
+      },
+      "app":{
+        "name":"Electro EMT",
+        "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
+      },
       "ob":"Saldo mínimo para cargar: 4 €",
       "type":"Publica"
     },
@@ -2720,10 +2744,14 @@
       "month_fee": "No",
       "overcrowding": "2 € > 10 min",
       "r_point": "2€ 1 h antes",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.emtmadrid.es/recargaEleectrica/Apps",
-      "app_name":"Electro EMT",
+     "location":{
+        "loc":"Madrid",
+        "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
+      },
+      "app":{
+        "name":"Electro EMT",
+        "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
+      },
       "ob":"Saldo mínimo para cargar: 4 €",
       "type":"Publica"
     },
@@ -2737,10 +2765,14 @@
       "month_fee": "No",
       "overcrowding": "2 € > 10 min",
       "r_point": "2€ 1 h antes",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.emtmadrid.es/recargaEleectrica/Apps",
-      "app_name":"Electro EMT",
+     "location":{
+        "loc":"Madrid",
+        "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
+      },
+      "app":{
+        "name":"Electro EMT",
+        "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
+      },
       "ob":"Saldo mínimo para cargar: 4 €",
       "type":"Publica"
     },
@@ -3623,10 +3655,14 @@
       "month_fee": "No",
       "overcrowding": "2 € > 10 min",
       "r_point": "2€ 1 h antes",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.emtmadrid.es/recargaEleectrica/Apps",
-      "app_name":"Electro EMT",
+     "location":{
+        "loc":"Madrid",
+        "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
+      },
+      "app":{
+        "name":"Electro EMT",
+        "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
+      },
       "ob":"Saldo mínimo para cargar: 4 €",
       "type":"Publica"
     },
@@ -3640,10 +3676,14 @@
       "month_fee": "No",
       "overcrowding": "2 € > 10 min",
       "r_point": "2€ 1 h antes",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.emtmadrid.es/recargaEleectrica/Apps",
-      "app_name":"Electro EMT",
+     "location":{
+        "loc":"Madrid",
+        "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
+      },
+      "app":{
+        "name":"Electro EMT",
+        "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
+      },
       "ob":"Saldo mínimo para cargar: 4 €",
       "type":"Publica"
     },
@@ -4598,10 +4638,14 @@
       "month_fee": "No",
       "overcrowding": "2 € > 10 min",
       "r_point": "2€ 1 h antes",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.emtmadrid.es/recargaEleectrica/Apps",
-      "app_name":"Electro EMT",
+     "location":{
+        "loc":"Madrid",
+        "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
+      },
+      "app":{
+        "name":"Electro EMT",
+        "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
+      },
       "ob":"Saldo mínimo para cargar: 4 €",
       "type":"Publica"
     },
@@ -4615,10 +4659,14 @@
       "month_fee": "No",
       "overcrowding": "2 € > 10 min",
       "r_point": "2€ 1 h antes",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.emtmadrid.es/recargaEleectrica/Apps",
-      "app_name":"Electro EMT",
+     "location":{
+        "loc":"Madrid",
+        "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
+      },
+      "app":{
+        "name":"Electro EMT",
+        "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
+      },
       "ob":"Saldo mínimo para cargar: 4 €",
       "type":"Publica"
     },
