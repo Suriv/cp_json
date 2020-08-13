@@ -203,10 +203,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "Con cuota 25 €/año",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass",
-      "app_name":"Juice Pass",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"Juice Pass",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass"
+      },
       "ob":"25 €/mes --> 0,41 €/kWh hasta 60 kWh",
       "type":"Publica"
     },
@@ -220,10 +224,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "Con cuota 25 €/año",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass",
-      "app_name":"Juice Pass",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"Juice Pass",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass"
+      },
       "ob":"45 €/mes --> 0,37 €/kWh hasta 120 kWh",
       "type":"Publica"
     },
@@ -237,10 +245,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -254,10 +266,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -271,10 +287,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -305,10 +325,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Barcelona",
-      "location_url":"#ni",
-      "app_url":"https://www.e-mobilitat.cat/",
-      "app_name":"QR",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://www.e-mobilitat.cat/"
+      },
+      "app":{
+        "name":"QR-Code",
+        "url":"https://www.e-mobilitat.cat/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -322,10 +346,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -339,10 +367,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -356,10 +388,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -373,10 +409,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -390,10 +430,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -407,10 +451,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -424,10 +472,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1075,10 +1127,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "Con cuota 25 €/año",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass",
-      "app_name":"Juice Pass",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"Juice Pass",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass"
+      },
       "ob":"25 €/mes --> 0,41 €/kWh hasta 60 kWh",
       "type":"Publica"
     },
@@ -1092,10 +1148,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "Con cuota 25 €/año",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass",
-      "app_name":"Juice Pass",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"Juice Pass",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass"
+      },
       "ob":"45 €/mes --> 0,37 €/kWh hasta 120 kWh",
       "type":"Publica"
     },
@@ -1109,10 +1169,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1126,10 +1190,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1143,10 +1211,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1177,10 +1249,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Barcelona",
-      "location_url":"#ni",
-      "app_url":"https://www.e-mobilitat.cat/",
-      "app_name":"QR",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://www.e-mobilitat.cat/"
+      },
+      "app":{
+        "name":"QR-Code",
+        "url":"https://www.e-mobilitat.cat/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1194,10 +1270,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1211,10 +1291,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1228,10 +1312,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1245,10 +1333,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1262,10 +1354,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1279,10 +1375,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1296,10 +1396,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1947,10 +2051,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "Con cuota 25 €/año",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass",
-      "app_name":"Juice Pass",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"Juice Pass",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass"
+      },
       "ob":"25 €/mes --> 0,41 €/kWh hasta 60 kWh",
       "type":"Publica"
     },
@@ -1964,10 +2072,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "Con cuota 25 €/año",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass",
-      "app_name":"Juice Pass",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"Juice Pass",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass"
+      },
       "ob":"45 €/mes --> 0,37 €/kWh hasta 120 kWh",
       "type":"Publica"
     },
@@ -1981,10 +2093,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1998,10 +2114,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2015,10 +2135,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2049,10 +2173,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Barcelona",
-      "location_url":"#ni",
-      "app_url":"https://www.e-mobilitat.cat/",
-      "app_name":"QR",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://www.e-mobilitat.cat/"
+      },
+      "app":{
+        "name":"QR-Code",
+        "url":"https://www.e-mobilitat.cat/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2066,10 +2194,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2083,10 +2215,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2100,10 +2236,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2117,10 +2257,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2134,10 +2278,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2151,10 +2299,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2168,10 +2320,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2819,10 +2975,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "Con cuota 25 €/año",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass",
-      "app_name":"Juice Pass",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"Juice Pass",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass"
+      },
       "ob":"25 €/mes --> 0,41 €/kWh hasta 60 kWh",
       "type":"Publica"
     },
@@ -2836,10 +2996,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "Con cuota 25 €/año",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass",
-      "app_name":"Juice Pass",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"Juice Pass",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass"
+      },
       "ob":"45 €/mes --> 0,37 €/kWh hasta 120 kWh",
       "type":"Publica"
     },
@@ -2853,10 +3017,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2870,10 +3038,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2887,10 +3059,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2921,10 +3097,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Barcelona",
-      "location_url":"#ni",
-      "app_url":"https://www.e-mobilitat.cat/",
-      "app_name":"QR",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://www.e-mobilitat.cat/"
+      },
+      "app":{
+        "name":"QR-Code",
+        "url":"https://www.e-mobilitat.cat/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2938,10 +3118,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2955,10 +3139,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2972,10 +3160,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2989,10 +3181,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3006,10 +3202,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3023,10 +3223,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3040,10 +3244,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3734,10 +3942,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "Con cuota 25 €/año",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass",
-      "app_name":"Juice Pass",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"Juice Pass",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass"
+      },
       "ob":"T.Plana: 25 €/mes --> 0,41 €/kWh hasta 60 kWh",
       "type":"Publica"
     },
@@ -3751,10 +3963,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "Con cuota 25 €/año",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass",
-      "app_name":"Juice Pass",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"Juice Pass",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass"
+      },
       "ob":"T.Plana: 45 €/mes --> 0,37 €/kWh hasta 120 kWh",
       "type":"Publica"
     },
@@ -3768,10 +3984,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3785,10 +4005,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3802,10 +4026,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3836,10 +4064,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Barcelona",
-      "location_url":"#ni",
-      "app_url":"https://www.e-mobilitat.cat/",
-      "app_name":"QR",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://www.e-mobilitat.cat/"
+      },
+      "app":{
+        "name":"QR-Code",
+        "url":"https://www.e-mobilitat.cat/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3853,10 +4085,14 @@
       "month_fee": "",
       "overcrowding": "",
       "r_point": "",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://swetecnic.com/evcharge-4/",
-      "app_name":"EV Charge",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/etecnic"
+      },
+      "app":{
+        "name":"EV Charge",
+        "url":"https://swetecnic.com/evcharge-4/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3870,10 +4106,14 @@
       "month_fee": "",
       "overcrowding": "",
       "r_point": "",
-      "location": "",
-      "location_url":"#ni",
-      "app_url":"https://swetecnic.com/evcharge-4/",
-      "app_name":"EV Charge",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/etecnic"
+      },
+      "app":{
+        "name":"EV Charge",
+        "url":"https://swetecnic.com/evcharge-4/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3887,10 +4127,14 @@
       "month_fee": "",
       "overcrowding": "",
       "r_point": "",
-      "location": "",
-      "location_url":"#ni",
-      "app_url":"https://swetecnic.com/evcharge-4/",
-      "app_name":"EV Charge",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/etecnic"
+      },
+      "app":{
+        "name":"EV Charge",
+        "url":"https://swetecnic.com/evcharge-4/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3904,10 +4148,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3921,10 +4169,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3938,10 +4190,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3955,10 +4211,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3972,10 +4232,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3989,10 +4253,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4006,10 +4274,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4721,10 +4993,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "Con cuota 25 €/año",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass",
-      "app_name":"Juice Pass",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"Juice Pass",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass"
+      },
       "ob":"T.Plana: 25 €/mes --> 0,41 €/kWh hasta 60 kWh",
       "type":"Publica"
     },
@@ -4738,10 +5014,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "Con cuota 25 €/año",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass",
-      "app_name":"Juice Pass",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"Juice Pass",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass"
+      },
       "ob":"T.Plana: 45 €/mes --> 0,37 €/kWh hasta 120 kWh",
       "type":"Publica"
     },
@@ -4755,10 +5035,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4772,10 +5056,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4789,10 +5077,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://easycharger.es/#app",
-      "app_name":"Easycharger",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4823,10 +5115,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Barcelona",
-      "location_url":"#ni",
-      "app_url":"https://www.e-mobilitat.cat/",
-      "app_name":"QR",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://www.e-mobilitat.cat/"
+      },
+      "app":{
+        "name":"QR-Code",
+        "url":"https://www.e-mobilitat.cat/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4840,10 +5136,14 @@
       "month_fee": "",
       "overcrowding": "",
       "r_point": "",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://swetecnic.com/evcharge-4/",
-      "app_name":"EV Charge",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/etecnic"
+      },
+      "app":{
+        "name":"EV Charge",
+        "url":"https://swetecnic.com/evcharge-4/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4857,10 +5157,14 @@
       "month_fee": "",
       "overcrowding": "",
       "r_point": "",
-      "location": "",
-      "location_url":"#ni",
-      "app_url":"https://swetecnic.com/evcharge-4/",
-      "app_name":"EV Charge",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/etecnic"
+      },
+      "app":{
+        "name":"EV Charge",
+        "url":"https://swetecnic.com/evcharge-4/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4874,10 +5178,14 @@
       "month_fee": "",
       "overcrowding": "",
       "r_point": "",
-      "location": "",
-      "location_url":"#ni",
-      "app_url":"https://swetecnic.com/evcharge-4/",
-      "app_name":"EV Charge",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/etecnic"
+      },
+      "app":{
+        "name":"EV Charge",
+        "url":"https://swetecnic.com/evcharge-4/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4891,10 +5199,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4908,10 +5220,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4925,10 +5241,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4942,10 +5262,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4959,10 +5283,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4976,10 +5304,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4993,10 +5325,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
