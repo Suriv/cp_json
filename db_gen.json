@@ -328,23 +328,6 @@
       "type":"Publica"
     },
     {
-      "cpo": "Ghol",
-      "category": "Semi Rápida",
-      "power": "22",
-      "cost": "0,50 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "",
-      "r_point": "",
-      "location": "E.S. San Fulgencio (Alacant)",
-      "location_url":"#ni",
-      "app_url":"#ni",
-      "app_name":"",
-      "ob":"",
-      "type":"Publica"
-    },
-    {
       "cpo": "GIC",
       "category": "Vinculado",
       "power": "3,7",
@@ -1211,23 +1194,6 @@
       "location_url":"#ni",
       "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
       "app_name":"Fenie E Recarga",
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Ghol",
-      "category": "Semi Rápida",
-      "power": "22",
-      "cost": "0,50 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "",
-      "r_point": "",
-      "location": "E.S. San Fulgencio (Alacant)",
-      "location_url":"#ni",
-      "app_url":"#ni",
-      "app_name":"",
       "ob":"",
       "type":"Publica"
     },
@@ -2102,23 +2068,6 @@
       "type":"Publica"
     },
     {
-      "cpo": "Ghol",
-      "category": "Semi Rápida",
-      "power": "22",
-      "cost": "0,50 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "",
-      "r_point": "",
-      "location": "E.S. San Fulgencio (Alacant)",
-      "location_url":"#ni",
-      "app_url":"#ni",
-      "app_name":"",
-      "ob":"",
-      "type":"Publica"
-    },
-    {
       "cpo": "GIC",
       "category": "Vinculado",
       "power": "3,7",
@@ -2985,23 +2934,6 @@
       "location_url":"#ni",
       "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
       "app_name":"Fenie E Recarga",
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Ghol",
-      "category": "Semi Rápida",
-      "power": "22",
-      "cost": "0,50 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "",
-      "r_point": "",
-      "location": "E.S. San Fulgencio (Alacant)",
-      "location_url":"#ni",
-      "app_url":"#ni",
-      "app_name":"",
       "ob":"",
       "type":"Publica"
     },
@@ -3958,23 +3890,6 @@
       "location_url":"#ni",
       "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
       "app_name":"Fenie E Recarga",
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Ghol",
-      "category": "Semi Rápida",
-      "power": "22",
-      "cost": "0,50 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "",
-      "r_point": "",
-      "location": "E.S. San Fulgencio (Alacant)",
-      "location_url":"#ni",
-      "app_url":"#ni",
-      "app_name":"",
       "ob":"",
       "type":"Publica"
     },
@@ -4952,23 +4867,6 @@
       "type":"Publica"
     },
     {
-      "cpo": "Ghol",
-      "category": "Semi Rápida",
-      "power": "22",
-      "cost": "0,50 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "",
-      "r_point": "",
-      "location": "E.S. San Fulgencio (Alacant)",
-      "location_url":"#ni",
-      "app_url":"#ni",
-      "app_name":"",
-      "ob":"",
-      "type":"Publica"
-    },
-    {
       "cpo": "GIC",
       "category": "Vinculado",
       "power": "3,7",
@@ -5527,7 +5425,7 @@
       "r_point": "No",
       "location":{
         "loc":"Barcelona",
-        "url":"#ni"
+        "url":"https://es.chargemap.com/networks/amb"
       },
       "app":{
         "name":"Smou",
@@ -5548,7 +5446,7 @@
       "r_point": "No",
       "location":{
         "loc":"Barcelona",
-        "url":"#ni"
+        "url":"https://es.chargemap.com/networks/amb"
       },
       "app":{
         "name":"Smou",
@@ -5842,7 +5740,7 @@
       "r_point": "No",
       "location":{
         "loc":"Mallorca",
-        "url":"#ni"
+        "url":"https://es.chargemap.com/networks/endesa"
       },
       "app":{
         "name":"e-Car",
@@ -5863,7 +5761,7 @@
       "r_point": "Con cuota 25 €/año",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+        "url":"https://es.chargemap.com/networks/endesa"
       },
       "app":{
         "name":"Juice Pass",
@@ -5884,7 +5782,7 @@
       "r_point": "Con cuota 25 €/año",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+        "url":"https://es.chargemap.com/networks/endesa"
       },
       "app":{
         "name":"Juice Pass",
@@ -5905,7 +5803,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+        "url":"https://es.chargemap.com/networks/easycharger"
       },
       "app":{
         "name":"Easycharger",
@@ -5926,7 +5824,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+        "url":"https://es.chargemap.com/networks/easycharger"
       },
       "app":{
         "name":"Easycharger",
@@ -5947,7 +5845,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+        "url":"https://es.chargemap.com/networks/easycharger"
       },
       "app":{
         "name":"Easycharger",
@@ -5968,7 +5866,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+        "url":"https://es.chargemap.com/networks/easycharger"
       },
       "app":{
         "name":"Easycharger",
@@ -5987,10 +5885,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Barcelona",
-      "location_url":"https://www.e-mobilitat.cat/",
-      "app_url":"https://www.e-mobilitat.cat/",
-      "app_name":"QR",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://www.e-mobilitat.cat/"
+      },
+      "app":{
+        "name":"QR-Code",
+        "url":"https://www.e-mobilitat.cat/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6004,10 +5906,14 @@
       "month_fee": "",
       "overcrowding": "",
       "r_point": "",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://swetecnic.com/evcharge-4/",
-      "app_name":"EV Charge",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/etecnic"
+      },
+      "app":{
+        "name":"EV Charge",
+        "url":"https://swetecnic.com/evcharge-4/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6021,10 +5927,14 @@
       "month_fee": "",
       "overcrowding": "",
       "r_point": "",
-      "location": "",
-      "location_url":"#ni",
-      "app_url":"https://swetecnic.com/evcharge-4/",
-      "app_name":"EV Charge",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/etecnic"
+      },
+      "app":{
+        "name":"EV Charge",
+        "url":"https://swetecnic.com/evcharge-4/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6038,10 +5948,14 @@
       "month_fee": "",
       "overcrowding": "",
       "r_point": "",
-      "location": "",
-      "location_url":"#ni",
-      "app_url":"https://swetecnic.com/evcharge-4/",
-      "app_name":"EV Charge",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/etecnic"
+      },
+      "app":{
+        "name":"EV Charge",
+        "url":"https://swetecnic.com/evcharge-4/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6055,10 +5969,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"https://recarga.fenieenergia.es/",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6072,10 +5990,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"https://recarga.fenieenergia.es/",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6089,27 +6011,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"https://recarga.fenieenergia.es/",
-      "app_url":"https://www.fenieenergia.es/movilidad-electrica/",
-      "app_name":"Fenie E Recarga",
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Ghol",
-      "category": "Semi Rápida",
-      "power": "22",
-      "cost": "0,50 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "",
-      "r_point": "",
-      "location": "E.S. San Fulgencio (Alacant)",
-      "location_url":"#ni",
-      "app_url":"#ni",
-      "app_name":"",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.fenieenergia.es/"
+      },
+      "app":{
+        "name":"Fenie E Recarga",
+        "url":"https://www.fenieenergia.es/movilidad-electrica/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6123,10 +6032,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"https://clientes.recargagic.com/Mapa/Mapa.html",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6140,10 +6053,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"https://clientes.recargagic.com/Mapa/Mapa.html",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6157,10 +6074,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"https://clientes.recargagic.com/Mapa/Mapa.html",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6174,10 +6095,14 @@
       "month_fee": "No",
       "overcrowding": "0,90 €",
       "r_point": "1,00 €",
-      "location": "Madrid",
-      "location_url":"https://clientes.recargagic.com/Mapa/Mapa.html",
-      "app_url":"https://www.recargavehiculoselectricos.com/",
-      "app_name":"GIC Puntos Carga",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://clientes.recargagic.com/Mapa/Mapa.html"
+      },
+      "app":{
+        "name":"GIC Puntos Carga",
+        "url":"https://www.recargavehiculoselectricos.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6191,10 +6116,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"https://www.electromaps.com/cpo/242-iberdrola-clientes",
-      "app_url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga",
-      "app_name":"Recarga Pública Iberdrola",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/242-iberdrola-clientes"
+      },
+      "app":{
+        "name":"Recarga Pública Iberdrola",
+        "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6208,10 +6137,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"https://www.electromaps.com/cpo/242-iberdrola-clientes",
-      "app_url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga",
-      "app_name":"Recarga Pública Iberdrola",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/242-iberdrola-clientes"
+      },
+      "app":{
+        "name":"Recarga Pública Iberdrola",
+        "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6225,10 +6158,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"https://www.electromaps.com/cpo/242-iberdrola-clientes",
-      "app_url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga",
-      "app_name":"Recarga Pública Iberdrola",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/242-iberdrola-clientes"
+      },
+      "app":{
+        "name":"Recarga Pública Iberdrola",
+        "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6242,10 +6179,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"https://www.electromaps.com/cpo/242-iberdrola-clientes",
-      "app_url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga",
-      "app_name":"Recarga Pública Iberdrola",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/242-iberdrola-clientes"
+      },
+      "app":{
+        "name":"Recarga Pública Iberdrola",
+        "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6259,10 +6200,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"https://www.electromaps.com/cpo/242-iberdrola-clientes",
-      "app_url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga",
-      "app_name":"Recarga Pública Iberdrola",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/242-iberdrola-clientes"
+      },
+      "app":{
+        "name":"Recarga Pública Iberdrola",
+        "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6276,10 +6221,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"https://www.electromaps.com/cpo/290-ionity-gmbh",
-      "app_url":"https://ionity.eu/en/where-and-how.html",
-      "app_name":"Ionity",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/290-ionity-gmbh"
+      },
+      "app":{
+        "name":"Ionity",
+        "url":"https://ionity.eu/en/where-and-how.html"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6293,10 +6242,14 @@
       "month_fee": "18 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"https://www.electromaps.com/cpo/290-ionity-gmbh",
-      "app_url":"https://ionity.eu/en/where-and-how.html",
-      "app_name":"Ionity",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/290-ionity-gmbh"
+      },
+      "app":{
+        "name":"Ionity",
+        "url":"https://ionity.eu/en/where-and-how.html"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6310,10 +6263,14 @@
       "month_fee": "14.91 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"https://www.electromaps.com/cpo/290-ionity-gmbh",
-      "app_url":"https://ionity.eu/en/where-and-how.html",
-      "app_name":"Ionity",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/290-ionity-gmbh"
+      },
+      "app":{
+        "name":"Ionity",
+        "url":"https://ionity.eu/en/where-and-how.html"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6327,10 +6284,14 @@
       "month_fee": "18 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"https://www.electromaps.com/cpo/290-ionity-gmbh",
-      "app_url":"https://ionity.eu/en/where-and-how.html",
-      "app_name":"Ionity",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/290-ionity-gmbh"
+      },
+      "app":{
+        "name":"Ionity",
+        "url":"https://ionity.eu/en/where-and-how.html"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6344,10 +6305,14 @@
       "month_fee": "18 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"https://www.electromaps.com/cpo/290-ionity-gmbh",
-      "app_url":"https://ionity.eu/en/where-and-how.html",
-      "app_name":"Ionity",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/290-ionity-gmbh"
+      },
+      "app":{
+        "name":"Ionity",
+        "url":"https://ionity.eu/en/where-and-how.html"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6361,10 +6326,14 @@
       "month_fee": "No",
       "overcrowding": "0",
       "r_point": "?",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://ionity.eu/en/where-and-how.html",
-      "app_name":"Ionity",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.destination-charging.es/"
+      },
+      "app":{
+        "name":"Porsche Connect",
+        "url":"https://www.porsche.com/spain/aboutporsche/e-performance/charging-on-the-road/"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -6378,10 +6347,14 @@
       "month_fee": "No",
       "overcrowding": "0",
       "r_point": "?",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"#ni",
-      "app_name":"",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.destination-charging.es/"
+      },
+      "app":{
+        "name":"Porsche Connect",
+        "url":"https://www.porsche.com/spain/aboutporsche/e-performance/charging-on-the-road/"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -6395,10 +6368,14 @@
       "month_fee": "No",
       "overcrowding": "0",
       "r_point": "?",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"#ni",
-      "app_name":"",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.destination-charging.es/"
+      },
+      "app":{
+        "name":"Porsche Connect",
+        "url":"https://www.porsche.com/spain/aboutporsche/e-performance/charging-on-the-road/"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -6412,10 +6389,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6429,10 +6410,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6446,10 +6431,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6463,10 +6452,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6480,10 +6473,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6497,10 +6494,14 @@
       "month_fee": "No",
       "overcrowding": "0,4/0,8 €/min",
       "r_point": "No",
-      "location": "Nacional",
-      "location_url":"https://www.tesla.com/es_ES/findus",
-      "app_url":"https://www.tesla.com/es_ES/support/tesla-app",
-      "app_name":"Tesla",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.tesla.com/es_ES/findus"
+      },
+      "app":{
+        "name":"Tesla",
+        "url":"https://www.tesla.com/es_ES/support/tesla-app"
+      },
       "ob":"Red Supercharging, Media, 0,28 a 0,31",
       "type":"Privada"
     },
@@ -6514,46 +6515,16 @@
       "month_fee": "No",
       "overcrowding": "0,4/0,8 €/min",
       "r_point": "No",
-      "location": "Nacional",
-      "location_url":"https://www.tesla.com/es_ES/findus",
-      "app_url":"https://www.tesla.com/es_ES/support/tesla-app",
-      "app_name":"Tesla",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.tesla.com/es_ES/findus"
+      },
+      "app":{
+        "name":"Tesla",
+        "url":"https://www.tesla.com/es_ES/support/tesla-app"
+      },
       "ob":"",
       "type":"Privada"
-    },
-    {
-      "cpo": "Urbener",
-      "category": "Vinculado",
-      "power": "3,7",
-      "cost": "0,20 €",
-      "min_load": "No",
-      "high_fee": "0,00 €",
-      "month_fee": "0,00 €",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location": "Madrid y Cantabria",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Urbener",
-      "category": "Convencional",
-      "power": "7",
-      "cost": "0,20 €",
-      "min_load": "No",
-      "high_fee": "0,00 €",
-      "month_fee": "0,00 €",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
-      "ob":"",
-      "type":"Publica"
     },
     {
       "cpo": "Urbener",
@@ -6565,10 +6536,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Madrid",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6583,10 +6558,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Cantabria",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Cantabria",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6600,10 +6579,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Cantabria",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Cantabria",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6617,10 +6600,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6634,10 +6621,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6651,10 +6642,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     }
@@ -6673,8 +6668,28 @@
   }],
   "_comment_operator_draft":[
     {
-      "location_url":"https://www.electromaps.com/cpo/242-iberdrola-clientes",
-      "location_url_2":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      "cpo_temp":[
+        {
+          "cpo": "Ghol",
+          "category": "Semi Rápida",
+          "power": "22",
+          "cost": "0,50 €",
+          "min_load": "No",
+          "high_fee": "No",
+          "month_fee": "No",
+          "overcrowding": "",
+          "r_point": "",
+          "location":{
+            "loc":"Alicante",
+            "url":"https://www.electromaps.com/mapa/p/112061"
+          },
+          "app":{
+            "name":"--",
+            "url":"#ni"
+          },
+          "ob":"",
+          "type":"Publica"}
+        ]
     }
   ]
 }
