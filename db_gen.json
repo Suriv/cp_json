@@ -14,10 +14,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.gnrgy.blaudriveandroid",
-      "app_name":"Honest Charging",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Honest Charging",
+        "url":"https://play.google.com/store/apps/details?id=com.gnrgy.blaudriveandroid"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -31,10 +35,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "definiendo fecha/hora carga",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.chargeandparking.es/app",
-      "app_name":"Charge & Parking",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -48,10 +56,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.chargeandparking.es/app",
-      "app_name":"Charge & Parking",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -65,10 +77,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -82,10 +98,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -99,10 +119,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -850,10 +874,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.gnrgy.blaudriveandroid",
-      "app_name":"Honest Charging",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Honest Charging",
+        "url":"https://play.google.com/store/apps/details?id=com.gnrgy.blaudriveandroid"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -867,10 +895,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "definiendo fecha/hora carga",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.chargeandparking.es/app",
-      "app_name":"Charge & Parking",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -884,10 +916,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.chargeandparking.es/app",
-      "app_name":"Charge & Parking",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -901,10 +937,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -918,10 +958,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -935,10 +979,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1686,10 +1734,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.gnrgy.blaudriveandroid",
-      "app_name":"Honest Charging",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Honest Charging",
+        "url":"https://play.google.com/store/apps/details?id=com.gnrgy.blaudriveandroid"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1703,10 +1755,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "definiendo fecha/hora carga",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.chargeandparking.es/app",
-      "app_name":"Charge & Parking",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1720,10 +1776,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.chargeandparking.es/app",
-      "app_name":"Charge & Parking",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1737,10 +1797,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1754,10 +1818,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1771,10 +1839,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2522,10 +2594,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.gnrgy.blaudriveandroid",
-      "app_name":"Honest Charging",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Honest Charging",
+        "url":"https://play.google.com/store/apps/details?id=com.gnrgy.blaudriveandroid"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2539,10 +2615,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "definiendo fecha/hora carga",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.chargeandparking.es/app",
-      "app_name":"Charge & Parking",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2556,10 +2636,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.chargeandparking.es/app",
-      "app_name":"Charge & Parking",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2573,10 +2657,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2590,10 +2678,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2607,10 +2699,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3358,10 +3454,14 @@
       "month_fee": "",
       "overcrowding": "Multa",
       "r_point": "No",
-      "location": "Bracelona",
-      "location_url":"#ni",
-      "app_url":"https://www.smou.cat/",
-      "app_name":"Smou",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://es.chargemap.com/networks/amb"
+      },
+      "app":{
+        "name":"Smou",
+        "url":"https://www.smou.cat/"
+      },
       "ob":"Incluye a la red Endolla Barcelola",
       "type":"Publica"
     },
@@ -3376,10 +3476,14 @@
       "month_fee": "",
       "overcrowding": "Multa",
       "r_point": "No",
-      "location": "Bracelona",
-      "location_url":"#ni",
-      "app_url":"https://www.smou.cat/",
-      "app_name":"Smou",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://es.chargemap.com/networks/amb"
+      },
+      "app":{
+        "name":"Smou",
+        "url":"https://www.smou.cat/"
+      },
       "ob":"Incluye a la red Endolla Barcelola",
       "type":"Publica"
     },
@@ -3393,10 +3497,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.gnrgy.blaudriveandroid",
-      "app_name":"Honest Charging",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Honest Charging",
+        "url":"https://play.google.com/store/apps/details?id=com.gnrgy.blaudriveandroid"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3410,10 +3518,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "0€",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.chargeandparking.es/app",
-      "app_name":"Charge & Parking",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
       "ob":"Reserva: definiendo fecha/hora carga",
       "type":"Publica"
     },
@@ -3427,10 +3539,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "0€",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.chargeandparking.es/app",
-      "app_name":"Charge & Parking",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
       "ob":"Reserva: definiendo fecha/hora carga",
       "type":"Publica"
     },
@@ -3444,10 +3560,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3461,10 +3581,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3478,10 +3602,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4280,10 +4408,14 @@
       "month_fee": "",
       "overcrowding": "Multa",
       "r_point": "No",
-      "location": "Bracelona",
-      "location_url":"#ni",
-      "app_url":"https://www.smou.cat/",
-      "app_name":"Smou",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://es.chargemap.com/networks/amb"
+      },
+      "app":{
+        "name":"Smou",
+        "url":"https://www.smou.cat/"
+      },
       "ob":"Incluye a la red Endolla Barcelola",
       "type":"Publica"
     },
@@ -4298,10 +4430,14 @@
       "month_fee": "",
       "overcrowding": "Multa",
       "r_point": "No",
-      "location": "Bracelona",
-      "location_url":"#ni",
-      "app_url":"https://www.smou.cat/",
-      "app_name":"Smou",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://es.chargemap.com/networks/amb"
+      },
+      "app":{
+        "name":"Smou",
+        "url":"https://www.smou.cat/"
+      },
       "ob":"Incluye a la red Endolla Barcelola",
       "type":"Publica"
     },
@@ -4315,10 +4451,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.gnrgy.blaudriveandroid",
-      "app_name":"Honest Charging",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Honest Charging",
+        "url":"https://play.google.com/store/apps/details?id=com.gnrgy.blaudriveandroid"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4332,10 +4472,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "0€",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.chargeandparking.es/app",
-      "app_name":"Charge & Parking",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
       "ob":"Reserva: definiendo fecha/hora carga",
       "type":"Publica"
     },
@@ -4349,10 +4493,14 @@
       "month_fee": "No",
       "overcrowding": "No",
       "r_point": "0€",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.chargeandparking.es/app",
-      "app_name":"Charge & Parking",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
       "ob":"Reserva: definiendo fecha/hora carga",
       "type":"Publica"
     },
@@ -4366,10 +4514,14 @@
       "month_fee": "No",
       "overcrowding": "0,05 €/min > 15 min",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"Se entenderá que un vehículo no demanda energía cuando su consumo durante 10 minutos no supere 250Wh.",
       "type":"Publica"
     },
@@ -4383,10 +4535,14 @@
       "month_fee": "No",
       "overcrowding": "0,05 €/min > 15 min",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"Se entenderá que un vehículo no demanda energía cuando su consumo durante 10 minutos no supere 250Wh.",
       "type":"Publica"
     },
@@ -4400,10 +4556,14 @@
       "month_fee": "No",
       "overcrowding": "0,10 €/min > 15 min",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://edpmoveon.com/home/appdownload.php",
-      "app_name":"Moveon",
+     "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
       "ob":"Se entenderá que un vehículo no demanda energía cuando su consumo durante 10 minutos no supere 250Wh.",
       "type":"Publica"
     },
@@ -4417,10 +4577,14 @@
       "month_fee": "No",
       "overcrowding": "2 € > 10 min",
       "r_point": "2€ 1 h antes",
-      "location": "Madrid  (Wanda Metr.)",
-      "location_url":"#ni",
-      "app_url":"https://www.emtmadrid.es/recargaEleectrica/Apps",
-      "app_name":"Electro EMT",
+      "location":{
+        "loc":"Madrid  (Wanda Metr.)",
+        "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
+      },
+      "app":{
+        "name":"Electro EMT",
+        "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
+      },
       "ob":"Saldo mínimo para cargar: 4 €",
       "type":"Publica"
     },
@@ -5476,7 +5640,7 @@
         "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
       },
       "app":{
-        "name":"Electro EM",
+        "name":"Electro EMT",
         "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
       },
       "ob":"Saldo mínimo para cargar: 4 €",
@@ -5497,7 +5661,7 @@
         "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
       },
       "app":{
-        "name":"Electro EM",
+        "name":"Electro EMT",
         "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
       },
       "ob":"Saldo mínimo para cargar: 4 €",
@@ -5518,7 +5682,7 @@
         "url":"https://clientes-emtm.recargagic.com/Mapa/Mapa"
       },
       "app":{
-        "name":"Electro EM",
+        "name":"Electro EMT",
         "url":"https://www.emtmadrid.es/recargaEleectrica/Apps"
       },
       "ob":"Saldo mínimo para cargar: 4 €",
