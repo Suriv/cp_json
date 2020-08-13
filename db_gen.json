@@ -182,10 +182,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Mallorca",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/empresas/ecar-app",
-      "app_name":"e-Car",
+      "location":{
+        "loc":"Mallorca",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"e-Car",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/empresas/ecar-app"
+      },
       "ob":"8 € para los no miembros del club eCar",
       "type":"Publica"
     },
@@ -1050,10 +1054,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Mallorca",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/empresas/ecar-app",
-      "app_name":"e-Car",
+     "location":{
+        "loc":"Mallorca",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"e-Car",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/empresas/ecar-app"
+      },
       "ob":"8 € para los no miembros del club eCar",
       "type":"Publica"
     },
@@ -1918,10 +1926,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Mallorca",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/empresas/ecar-app",
-      "app_name":"e-Car",
+     "location":{
+        "loc":"Mallorca",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"e-Car",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/empresas/ecar-app"
+      },
       "ob":"8 € para los no miembros del club eCar",
       "type":"Publica"
     },
@@ -2786,10 +2798,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Mallorca",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/empresas/ecar-app",
-      "app_name":"e-Car",
+     "location":{
+        "loc":"Mallorca",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"e-Car",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/empresas/ecar-app"
+      },
       "ob":"8 € para los no miembros del club eCar",
       "type":"Publica"
     },
@@ -3697,10 +3713,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Mallorca",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/empresas/ecar-app",
-      "app_name":"e-Car",
+     "location":{
+        "loc":"Mallorca",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"e-Car",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/empresas/ecar-app"
+      },
       "ob":"8 € para los no miembros del club eCar",
       "type":"Publica"
     },
@@ -4680,10 +4700,14 @@
       "month_fee": "",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Mallorca",
-      "location_url":"#ni",
-      "app_url":"https://www.endesax.com/es/movilidad-electrica/productos/empresas/ecar-app",
-      "app_name":"e-Car",
+     "location":{
+        "loc":"Mallorca",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"e-Car",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/empresas/ecar-app"
+      },
       "ob":"8 € para los no miembros del club eCar",
       "type":"Publica"
     },
