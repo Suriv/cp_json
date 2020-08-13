@@ -703,10 +703,14 @@
       "month_fee": "No",
       "overcrowding": "0",
       "r_point": "?",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://ionity.eu/en/where-and-how.html",
-      "app_name":"Ionity",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.destination-charging.es/"
+      },
+      "app":{
+        "name":"Porsche Connect",
+        "url":"https://www.porsche.com/spain/aboutporsche/e-performance/charging-on-the-road/"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -754,10 +758,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -771,10 +779,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -788,10 +800,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -805,10 +821,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -822,10 +842,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -839,10 +863,14 @@
       "month_fee": "No",
       "overcrowding": "0,4/0,8 €/min",
       "r_point": "No",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.tesla.com/es_ES/support/tesla-app",
-      "app_name":"Tesla",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.tesla.com/es_ES/findus"
+      },
+      "app":{
+        "name":"Tesla",
+        "url":"https://www.tesla.com/es_ES/support/tesla-app"
+      },
       "ob":"Red Supercharging, Media, 0,28 a 0,31",
       "type":"Privada"
     },
@@ -856,10 +884,14 @@
       "month_fee": "No",
       "overcrowding": "SI",
       "r_point": "No",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.tesla.com/es_ES/support/tesla-app",
-      "app_name":"Tesla",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.tesla.com/es_ES/findus"
+      },
+      "app":{
+        "name":"Tesla",
+        "url":"https://www.tesla.com/es_ES/support/tesla-app"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -873,10 +905,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Madrid",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -891,10 +927,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Cantabria",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Cantabria",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -908,10 +948,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Cantabria",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Cantabria",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -925,10 +969,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -942,10 +990,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -959,10 +1011,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     }
@@ -1667,10 +1723,14 @@
       "month_fee": "No",
       "overcrowding": "0",
       "r_point": "?",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://ionity.eu/en/where-and-how.html",
-      "app_name":"Ionity",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.destination-charging.es/"
+      },
+      "app":{
+        "name":"Porsche Connect",
+        "url":"https://www.porsche.com/spain/aboutporsche/e-performance/charging-on-the-road/"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -1718,10 +1778,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1735,10 +1799,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1752,10 +1820,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1769,10 +1841,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1786,10 +1862,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1803,10 +1883,14 @@
       "month_fee": "No",
       "overcrowding": "0,4/0,8 €/min",
       "r_point": "No",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.tesla.com/es_ES/support/tesla-app",
-      "app_name":"Tesla",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.tesla.com/es_ES/findus"
+      },
+      "app":{
+        "name":"Tesla",
+        "url":"https://www.tesla.com/es_ES/support/tesla-app"
+      },
       "ob":"Red Supercharging, Media, 0,28 a 0,31",
       "type":"Privada"
     },
@@ -1820,10 +1904,14 @@
       "month_fee": "No",
       "overcrowding": "SI",
       "r_point": "No",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.tesla.com/es_ES/support/tesla-app",
-      "app_name":"Tesla",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.tesla.com/es_ES/findus"
+      },
+      "app":{
+        "name":"Tesla",
+        "url":"https://www.tesla.com/es_ES/support/tesla-app"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -1837,10 +1925,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Madrid",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1855,10 +1947,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Cantabria",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Cantabria",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1872,10 +1968,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Cantabria",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Cantabria",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1889,10 +1989,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1906,10 +2010,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -1923,10 +2031,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     }
@@ -2631,10 +2743,14 @@
       "month_fee": "No",
       "overcrowding": "0",
       "r_point": "?",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://ionity.eu/en/where-and-how.html",
-      "app_name":"Ionity",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.destination-charging.es/"
+      },
+      "app":{
+        "name":"Porsche Connect",
+        "url":"https://www.porsche.com/spain/aboutporsche/e-performance/charging-on-the-road/"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -2682,10 +2798,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2699,10 +2819,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2716,10 +2840,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2733,10 +2861,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2750,10 +2882,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2767,10 +2903,14 @@
       "month_fee": "No",
       "overcrowding": "0,4/0,8 €/min",
       "r_point": "No",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.tesla.com/es_ES/support/tesla-app",
-      "app_name":"Tesla",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.tesla.com/es_ES/findus"
+      },
+      "app":{
+        "name":"Tesla",
+        "url":"https://www.tesla.com/es_ES/support/tesla-app"
+      },
       "ob":"Red Supercharging, Media, 0,28 a 0,31",
       "type":"Privada"
     },
@@ -2784,10 +2924,14 @@
       "month_fee": "No",
       "overcrowding": "SI",
       "r_point": "No",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.tesla.com/es_ES/support/tesla-app",
-      "app_name":"Tesla",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.tesla.com/es_ES/findus"
+      },
+      "app":{
+        "name":"Tesla",
+        "url":"https://www.tesla.com/es_ES/support/tesla-app"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -2801,10 +2945,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Madrid",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2819,10 +2967,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Cantabria",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Cantabria",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2836,10 +2988,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Cantabria",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Cantabria",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2853,10 +3009,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2870,10 +3030,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -2887,10 +3051,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     }
@@ -3595,10 +3763,14 @@
       "month_fee": "No",
       "overcrowding": "0",
       "r_point": "?",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://ionity.eu/en/where-and-how.html",
-      "app_name":"Ionity",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.destination-charging.es/"
+      },
+      "app":{
+        "name":"Porsche Connect",
+        "url":"https://www.porsche.com/spain/aboutporsche/e-performance/charging-on-the-road/"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -3646,10 +3818,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3663,10 +3839,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3680,10 +3860,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3697,10 +3881,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3714,10 +3902,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3731,10 +3923,14 @@
       "month_fee": "No",
       "overcrowding": "0,4/0,8 €/min",
       "r_point": "No",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.tesla.com/es_ES/support/tesla-app",
-      "app_name":"Tesla",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.tesla.com/es_ES/findus"
+      },
+      "app":{
+        "name":"Tesla",
+        "url":"https://www.tesla.com/es_ES/support/tesla-app"
+      },
       "ob":"Red Supercharging, Media, 0,28 a 0,31",
       "type":"Privada"
     },
@@ -3748,10 +3944,14 @@
       "month_fee": "No",
       "overcrowding": "SI",
       "r_point": "No",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.tesla.com/es_ES/support/tesla-app",
-      "app_name":"Tesla",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.tesla.com/es_ES/findus"
+      },
+      "app":{
+        "name":"Tesla",
+        "url":"https://www.tesla.com/es_ES/support/tesla-app"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -3765,10 +3965,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Madrid",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3783,10 +3987,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Cantabria",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Cantabria",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3800,10 +4008,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Cantabria",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Cantabria",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3817,10 +4029,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3834,10 +4050,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -3851,10 +4071,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     }
@@ -4665,10 +4889,14 @@
       "month_fee": "No",
       "overcrowding": "0",
       "r_point": "?",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://ionity.eu/en/where-and-how.html",
-      "app_name":"Ionity",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.destination-charging.es/"
+      },
+      "app":{
+        "name":"Porsche Connect",
+        "url":"https://www.porsche.com/spain/aboutporsche/e-performance/charging-on-the-road/"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -4716,10 +4944,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4733,10 +4965,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4750,10 +4986,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4767,10 +5007,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4784,10 +5028,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4801,10 +5049,14 @@
       "month_fee": "No",
       "overcrowding": "0,4/0,8 €/min",
       "r_point": "No",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.tesla.com/es_ES/support/tesla-app",
-      "app_name":"Tesla",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.tesla.com/es_ES/findus"
+      },
+      "app":{
+        "name":"Tesla",
+        "url":"https://www.tesla.com/es_ES/support/tesla-app"
+      },
       "ob":"Red Supercharging, Media, 0,28 a 0,31",
       "type":"Privada"
     },
@@ -4818,10 +5070,14 @@
       "month_fee": "No",
       "overcrowding": "0,4/0,8 €/min",
       "r_point": "No",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.tesla.com/es_ES/support/tesla-app",
-      "app_name":"Tesla",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.tesla.com/es_ES/findus"
+      },
+      "app":{
+        "name":"Tesla",
+        "url":"https://www.tesla.com/es_ES/support/tesla-app"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -4835,10 +5091,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Madrid",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4853,10 +5113,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Cantabria",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Cantabria",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4870,10 +5134,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Cantabria",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Cantabria",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4887,10 +5155,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4904,10 +5176,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -4921,10 +5197,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     }
@@ -5756,10 +6036,14 @@
       "month_fee": "No",
       "overcrowding": "0",
       "r_point": "?",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://ionity.eu/en/where-and-how.html",
-      "app_name":"Ionity",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.destination-charging.es/"
+      },
+      "app":{
+        "name":"Porsche Connect",
+        "url":"https://www.porsche.com/spain/aboutporsche/e-performance/charging-on-the-road/"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -5773,10 +6057,14 @@
       "month_fee": "No",
       "overcrowding": "0",
       "r_point": "?",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"#ni",
-      "app_name":"",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.destination-charging.es/"
+      },
+      "app":{
+        "name":"Porsche Connect",
+        "url":"https://www.porsche.com/spain/aboutporsche/e-performance/charging-on-the-road/"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -5790,10 +6078,14 @@
       "month_fee": "No",
       "overcrowding": "0",
       "r_point": "?",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"#ni",
-      "app_name":"",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.destination-charging.es/"
+      },
+      "app":{
+        "name":"Porsche Connect",
+        "url":"https://www.porsche.com/spain/aboutporsche/e-performance/charging-on-the-road/"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -5807,10 +6099,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -5824,10 +6120,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -5841,10 +6141,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -5858,10 +6162,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -5875,10 +6183,14 @@
       "month_fee": "No",
       "overcrowding": "1,82 €",
       "r_point": "SI, hasta 15 minutos",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica",
-      "app_name":"Movilidad eléctrica",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/262-ibil-gestor-de-carga-de-ve-sa"
+      },
+      "app":{
+        "name":"Movilidad eléctrica",
+        "url":"https://play.google.com/store/apps/details?id=com.repsol.movilidadelectrica"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -5892,10 +6204,14 @@
       "month_fee": "No",
       "overcrowding": "0,4/0,8 €/min",
       "r_point": "No",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.tesla.com/es_ES/support/tesla-app",
-      "app_name":"Tesla",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.tesla.com/es_ES/findus"
+      },
+      "app":{
+        "name":"Tesla",
+        "url":"https://www.tesla.com/es_ES/support/tesla-app"
+      },
       "ob":"Red Supercharging, Media, 0,28 a 0,31",
       "type":"Privada"
     },
@@ -5909,10 +6225,14 @@
       "month_fee": "No",
       "overcrowding": "0,4/0,8 €/min",
       "r_point": "No",
-      "location": "Nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.tesla.com/es_ES/support/tesla-app",
-      "app_name":"Tesla",
+       "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.tesla.com/es_ES/findus"
+      },
+      "app":{
+        "name":"Tesla",
+        "url":"https://www.tesla.com/es_ES/support/tesla-app"
+      },
       "ob":"",
       "type":"Privada"
     },
@@ -5926,10 +6246,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Madrid",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Madrid",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -5944,10 +6268,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Cantabria",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Cantabria",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -5961,10 +6289,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Cantabria",
-      "location_url":"#ni",
-      "app_url":"https://emobility.urbener.com/mobile/Default.aspx",
-      "app_name":"Mobility Urbener Web",
+      "location":{
+        "loc":"Cantabria",
+        "url":"https://es.chargemap.com/networks/urbener"
+      },
+      "app":{
+        "name":"Mobility Urbener Web",
+        "url":"https://emobility.urbener.com/mobile/Default.aspx"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -5978,10 +6310,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -5995,10 +6331,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     },
@@ -6012,10 +6352,14 @@
       "month_fee": "0,00 €",
       "overcrowding": "No",
       "r_point": "No",
-      "location": "Ámbito nacional",
-      "location_url":"#ni",
-      "app_url":"https://www.wenea.com/",
-      "app_name":"Wenea",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/wenea"
+      },
+      "app":{
+        "name":"Wenea",
+        "url":"https://www.wenea.com/"
+      },
       "ob":"",
       "type":"Publica"
     }
