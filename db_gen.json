@@ -401,6 +401,90 @@
       "type":"Publica"
     },
     {
+      "cpo": "Endolla Barcelona Moto",
+      "category": "Vinculado",
+      "power": "3,2",
+      "cost": "0,40 €",
+      "min_load": "0,35€",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://www.endolla.barcelona/es/mapa"
+      },
+      "app":{
+        "name":"Smou",
+        "url":"https://www.smou.cat/"
+      },
+      "ob":"Moto Dia: 0,40 € Noche: 0,35 € , Carrer del Ajuntament de Barcelona",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Endolla Barcelona",
+      "category": "Rápida",
+      "power": "50",
+      "cost": "0,49 €",
+      "min_load": "3€",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://www.endolla.barcelona/es/mapa"
+      },
+      "app":{
+        "name":"Smou",
+        "url":"https://www.smou.cat/"
+      },
+      "ob":"Dia: 0,49 € Noche: 0,44 € , Carrer del Ajuntament de Barcelona",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Endolla Barcelona BSM Moto",
+      "category": "Vinculado",
+      "power": "3,2",
+      "cost": "0,35 €",
+      "min_load": "0,35€",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://www.endolla.barcelona/es/mapa"
+      },
+      "app":{
+        "name":"Smou",
+        "url":"https://www.smou.cat/"
+      },
+      "ob":"Dia: 0,35 € Noche: 0,30 € , Aparcamientos BSM",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Endolla Barcelona BSM",
+      "category": "Convencional",
+      "power": "7,4",
+      "cost": "0,35 €",
+      "min_load": "3€",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://www.endolla.barcelona/es/mapa"
+      },
+      "app":{
+        "name":"Smou",
+        "url":"https://www.smou.cat/"
+      },
+      "ob":"Dia: 0,35 € Noche: 0,30 € , Aparcamientos BSM",
+      "type":"Publica"
+    },
+    {
       "cpo": "Easycharger",
       "category": "Semi Rápida",
       "power": "22",
