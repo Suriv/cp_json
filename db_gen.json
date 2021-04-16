@@ -4099,17 +4099,17 @@
         "url":"#ni"
       },
       "app":{
-        "name":"Honest Charging",
-        "url":"https://play.google.com/store/apps/details?id=com.gnrgy.blaudriveandroid"
+        "name":"Go Veyond",
+        "url":"https://play.google.com/store/apps/details?id=com.goveyond.cp.app"
       },
-      "ob":"",
+      "ob":"Según PdR",
       "type":"Publica"
     },
     {
       "cpo": "Blaudrive",
       "category": "Rápida",
       "power": "50",
-      "cost": "0",
+      "cost": "0,25€",
       "min_load": "",
       "high_fee": "",
       "month_fee": "",
@@ -4120,10 +4120,10 @@
         "url":"#ni"
       },
       "app":{
-        "name":"Honest Charging",
-        "url":"https://play.google.com/store/apps/details?id=com.gnrgy.blaudriveandroid"
+        "name":"Go Veyond",
+        "url":"https://play.google.com/store/apps/details?id=com.goveyond.cp.app"
       },
-      "ob":"",
+      "ob":"0,10€-0,25€",
       "type":"Publica"
     },
     {
