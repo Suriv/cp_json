@@ -6401,10 +6401,10 @@
       "cpo": "Ionity - BMW",
       "category": "Ultra rápida",
       "power": "150",
-      "cost": "0,30 €",
+      "cost": "0,29 €",
       "min_load": "",
       "high_fee": "",
-      "month_fee": "18 €",
+      "month_fee": "13 €",
       "overcrowding": "No",
       "r_point": "No",
       "location":{
@@ -6415,7 +6415,28 @@
         "name":"Ionity",
         "url":"https://ionity.eu/en/where-and-how.html"
       },
-      "ob":"",
+      "ob":"Durante 12 meses recibirás descuentos en todos los puntos de carga de IONITY. https://bmw-public-charging.com/web/bmw-es/tariffs",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Ionity - Hyundai",
+      "category": "Ultra rápida",
+      "power": "150",
+      "cost": "0,29 €",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "13 €",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/290-ionity-gmbh"
+      },
+      "app":{
+        "name":"Ionity",
+        "url":"https://ionity.eu/en/where-and-how.html"
+      },
+      "ob":"Durante 12 meses recibirás descuentos en todos los puntos de carga de IONITY, Existen dos modalidades, Flex y Easy https://chargemyhyundai.com/web/hyundai-es/tariffs",
       "type":"Publica"
     },
     {
