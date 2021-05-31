@@ -569,9 +569,9 @@
       "type":"Publica"
     },
     {
-      "cpo": "Estebanell Energia",
+      "cpo": "Estabanell Energia",
       "category": "Vinculado",
-      "power": "3,7-5.2",
+      "power": "3,7-50",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -1916,9 +1916,9 @@
       "type":"Publica"
     },
     {
-      "cpo": "Estebanell Energia",
+      "cpo": "Estabanell Energia",
       "category": "Vinculado",
-      "power": "3,7-5.2",
+      "power": "3,7-50",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -3263,9 +3263,9 @@
       "type":"Publica"
     },
     {
-      "cpo": "Estebanell Energia",
+      "cpo": "Estabanell Energia",
       "category": "Vinculado",
-      "power": "3,7-5.2",
+      "power": "3,7-50",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -3935,7 +3935,6 @@
       "type":"Publica"
     },
     {
-
       "cpo": "Urbener",
       "category": "Convencional",
       "power": "11",
@@ -4610,9 +4609,9 @@
       "type":"Publica"
     },
     {
-      "cpo": "Estebanell Energia",
+      "cpo": "Estabanell Energia",
       "category": "Vinculado",
-      "power": "3,7-5.2",
+      "power": "3,7-50",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -5978,9 +5977,9 @@
       "type":"Publica"
     },
     {
-      "cpo": "Estebanell Energia",
+      "cpo": "Estabanell Energia",
       "category": "Vinculado",
-      "power": "3,7-5.2",
+      "power": "3,7-50",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -7367,9 +7366,9 @@
       "type":"Publica"
     },
     {
-      "cpo": "Estebanell Energia",
+      "cpo": "Estabanell Energia",
       "category": "Vinculado",
-      "power": "3,7-5.2",
+      "power": "3,7-50",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -7805,6 +7804,69 @@
         "url":"https://ionity.eu/en/where-and-how.html"
       },
       "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Ionity - Hyundai",
+      "category": "Ultra rápida",
+      "power": "150",
+      "cost": "0,29 €",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "13 €",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/290-ionity-gmbh"
+      },
+      "app":{
+        "name":"Ionity",
+        "url":"https://ionity.eu/en/where-and-how.html"
+      },
+      "ob":"Durante 12 meses recibirás descuentos en todos los puntos de carga de IONITY, Existen dos modalidades, Flex y Easy https://chargemyhyundai.com/web/hyundai-es/tariffs",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Ionity - We Charge Go",
+      "category": "Ultra rápida",
+      "power": "150",
+      "cost": "0,55 €",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "0",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/290-ionity-gmbh"
+      },
+      "app":{
+        "name":"Ionity",
+        "url":"https://ionity.eu/en/where-and-how.html"
+      },
+      "ob":"0€/mes para modelos ID. con capacidad de carga ultrarrápida, 7,49€/mes para modelos ID. sin capacidad de carga ultrarrápida https://www.volkswagen.es/es/electricos-hibridos/carga/we-charge.html",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Ionity - We Charge Plus",
+      "category": "Ultra rápida",
+      "power": "150",
+      "cost": "0,30 €",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "9,99 €",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/290-ionity-gmbh"
+      },
+      "app":{
+        "name":"Ionity",
+        "url":"https://ionity.eu/en/where-and-how.html"
+      },
+      "ob":"9,99€/mes para modelos ID. con capacidad de carga ultrarrápida. 17,49 €/mes para modelos ID. sin capacidad de carga ultrarrápida https://www.volkswagen.es/es/electricos-hibridos/carga/we-charge.html",
       "type":"Publica"
     },
     {
