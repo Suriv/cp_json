@@ -8356,6 +8356,27 @@
       "type":"Publica"
     },
     {
+      "cpo": "Cargacoches",
+      "category": "Rápida",
+      "power": "90",
+      "cost": "0,40€",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "0€",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
+      "ob":"Reserva: definiendo fecha/hora carga",
+      "type":"Publica"
+    },
+    {
       "cpo": "EDP Energías de Portugal",
       "category": "Convencional",
       "power": "7,4",
@@ -8801,6 +8822,27 @@
       "category": "Rápida",
       "power": "50",
       "cost": "0,15 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Easycharger - Nissan",
+      "category": "Rápida",
+      "power": "90",
+      "cost": "0,20€",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
