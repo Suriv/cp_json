@@ -17215,7 +17215,7 @@
       "cpo": "Tesla",
       "category": "Ultra rápida",
       "power":"150",
-      "cost": "0,34 €",
+      "cost": "0,36 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -17229,7 +17229,7 @@
         "name":"Tesla",
         "url":"https://www.tesla.com/es_ES/support/tesla-app"
       },
-      "ob":"Red Supercharging, Media, 0,28 a 0,31",
+      "ob":"",
       "type":"Privada"
     },
     {
@@ -17321,48 +17321,6 @@
       "cpo": "Wenea",
       "category": "Convencional",
       "power": "7,4",
-      "cost": "0,30 €",
-      "min_load": "No",
-      "high_fee": "0,00 €",
-      "month_fee": "0,00 €",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://es.chargemap.com/networks/wenea"
-      },
-      "app":{
-        "name":"Wenea",
-        "url":"https://www.wenea.com/"
-      },
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Wenea",
-      "category": "Semi rápida",
-      "power": "22",
-      "cost": "0,30 €",
-      "min_load": "No",
-      "high_fee": "0,00 €",
-      "month_fee": "0,00 €",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://es.chargemap.com/networks/wenea"
-      },
-      "app":{
-        "name":"Wenea",
-        "url":"https://www.wenea.com/"
-      },
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Wenea",
-      "category": "Convencional",
-      "power": "7.4",
       "cost": "0,24 €",
       "min_load": "No",
       "high_fee": "0,00 €",
@@ -17375,7 +17333,7 @@
       },
       "app":{
         "name":"Wenea",
-        "url":"https://wenea.com/precios/"
+        "url":"https://www.wenea.com/"
       },
       "ob":"",
       "type":"Publica"
@@ -17384,7 +17342,7 @@
       "cpo": "Wenea",
       "category": "Semi rápida",
       "power": "22",
-      "cost": "0,30 €",
+      "cost": "0,24 €",
       "min_load": "No",
       "high_fee": "0,00 €",
       "month_fee": "0,00 €",
@@ -17396,7 +17354,7 @@
       },
       "app":{
         "name":"Wenea",
-        "url":"https://wenea.com/precios/"
+        "url":"https://www.wenea.com/"
       },
       "ob":"",
       "type":"Publica"
