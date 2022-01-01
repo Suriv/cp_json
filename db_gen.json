@@ -568,6 +568,27 @@
       "type":"Publica"
     },
     {
+      "cpo": "Easycharger",
+      "category": "Ultra Rápida",
+      "power": "160",
+      "cost": "0,55€",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
       "cpo": "Easycharger - Nissan",
       "category": "Semi Rápida",
       "power": "22",
@@ -614,6 +635,27 @@
       "category": "Rápida",
       "power": "90",
       "cost": "0,20€",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/easycharger"
+      },
+      "app":{
+        "name":"Easycharger",
+        "url":"https://easycharger.es/#app"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Easycharger - Nissan",
+      "category": "Ultra rápida",
+      "power": "100",
+      "cost": "0,40€",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
