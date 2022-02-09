@@ -2549,7 +2549,7 @@
       "cpo": "Iberdrola",
       "category": "Rápida",
       "power": "50",
-      "cost": "0,30 €",
+      "cost": "0,39 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -2570,7 +2570,28 @@
       "cpo": "Iberdrola",
       "category": "Ultra rápida",
       "power": "100-150",
-      "cost": "0,40 €",
+      "cost": "0,45 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/242-iberdrola-clientes"
+      },
+      "app":{
+        "name":"Recarga Pública Iberdrola",
+        "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Iberdrola",
+      "category": "Ultra rápida",
+      "power": "200-350+",
+      "cost": "0,51 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -2612,7 +2633,7 @@
       "cpo": "Ionity - Audi",
       "category": "Ultra rápida",
       "power": "150",
-      "cost": "0,33 €",
+      "cost": "0,31 €",
       "min_load": "",
       "high_fee": "",
       "month_fee": "18 €",
@@ -2675,10 +2696,10 @@
       "cpo": "Ionity - BMW",
       "category": "Ultra rápida",
       "power": "150",
-      "cost": "0,30 €",
+      "cost": "0,34 €",
       "min_load": "",
       "high_fee": "",
-      "month_fee": "18 €",
+      "month_fee": "13 €",
       "overcrowding": "No",
       "r_point": "No",
       "location":{
@@ -2711,6 +2732,27 @@
         "url":"https://ionity.eu/en/where-and-how.html"
       },
       "ob":"Durante 12 meses recibirás descuentos en todos los puntos de carga de IONITY, Existen dos modalidades, Flex y Easy https://chargemyhyundai.com/web/hyundai-es/tariffs",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Ionity - PASSPORT",
+      "category": "Ultra rápida",
+      "power": "150",
+      "cost": "0,35 €",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "18 €",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/290-ionity-gmbh"
+      },
+      "app":{
+        "name":"Ionity",
+        "url":"https://ionity.eu/en/where-and-how.html"
+      },
+      "ob":"RESTO usuarios otras marcas que no han llegado a un acuerdo",
       "type":"Publica"
     },
     {
