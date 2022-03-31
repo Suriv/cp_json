@@ -4355,6 +4355,48 @@
       "type":"Publica"
     },
     {
+      "cpo": "Ionity - Nissan",
+      "category": "Ultra rápida",
+      "power": "350",
+      "cost": "0,55 €",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "5 €",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/290-ionity-gmbh"
+      },
+      "app":{
+        "name":"Ionity",
+        "url":"https://ionity.eu/en/where-and-how.html"
+      },
+      "ob":"Cuando salga el Nissan Ariya en Europa",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Ionity - Nissan",
+      "category": "Ultra rápida",
+      "power": "350",
+      "cost": "0,30 €",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "13 €",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/290-ionity-gmbh"
+      },
+      "app":{
+        "name":"Ionity",
+        "url":"https://ionity.eu/en/where-and-how.html"
+      },
+      "ob":"Cuando salga el Nissan Ariya en Europa",
+      "type":"Publica"
+    },
+    {
       "cpo": "Ionity - PASSPORT",
       "category": "Ultra rápida",
       "power": "350",
@@ -5972,6 +6014,48 @@
         "url":"https://ionity.eu/en/where-and-how.html"
       },
       "ob":"Durante 12 meses recibirás descuentos en todos los puntos de carga de IONITY, Existen dos modalidades, Flex y Easy https://chargemyhyundai.com/web/hyundai-es/tariffs",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Ionity - Nissan",
+      "category": "Ultra rápida",
+      "power": "350",
+      "cost": "0,55 €",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "5 €",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/290-ionity-gmbh"
+      },
+      "app":{
+        "name":"Ionity",
+        "url":"https://ionity.eu/en/where-and-how.html"
+      },
+      "ob":"Cuando salga el Nissan Ariya en Europa",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Ionity - Nissan",
+      "category": "Ultra rápida",
+      "power": "350",
+      "cost": "0,30 €",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "13 €",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/290-ionity-gmbh"
+      },
+      "app":{
+        "name":"Ionity",
+        "url":"https://ionity.eu/en/where-and-how.html"
+      },
+      "ob":"Cuando salga el Nissan Ariya en Europa",
       "type":"Publica"
     },
     {
