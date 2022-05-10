@@ -7028,174 +7028,6 @@
       "type":"Publica"
     },
     {
-      "cpo": "Easycharger",
-      "category": "Semi Rápida",
-      "power": "22",
-      "cost": "0,20€",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://es.chargemap.com/networks/easycharger"
-      },
-      "app":{
-        "name":"Easycharger",
-        "url":"https://easycharger.es/#app"
-      },
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Easycharger",
-      "category": "Rápida",
-      "power": "50",
-      "cost": "0,30 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://es.chargemap.com/networks/easycharger"
-      },
-      "app":{
-        "name":"Easycharger",
-        "url":"https://easycharger.es/#app"
-      },
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Easycharger",
-      "category": "Rápida",
-      "power": "90",
-      "cost": "0,40€",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://es.chargemap.com/networks/easycharger"
-      },
-      "app":{
-        "name":"Easycharger",
-        "url":"https://easycharger.es/#app"
-      },
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Easycharger",
-      "category": "Ultra Rápida",
-      "power": "160",
-      "cost": "0,55€",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://es.chargemap.com/networks/easycharger"
-      },
-      "app":{
-        "name":"Easycharger",
-        "url":"https://easycharger.es/#app"
-      },
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Easycharger - Nissan",
-      "category": "Semi Rápida",
-      "power": "22",
-      "cost": "0,10 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://es.chargemap.com/networks/easycharger"
-      },
-      "app":{
-        "name":"Easycharger",
-        "url":"https://easycharger.es/#app"
-      },
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Easycharger - Nissan",
-      "category": "Rápida",
-      "power": "50",
-      "cost": "0,15 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://es.chargemap.com/networks/easycharger"
-      },
-      "app":{
-        "name":"Easycharger",
-        "url":"https://easycharger.es/#app"
-      },
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Easycharger - Nissan",
-      "category": "Rápida",
-      "power": "90",
-      "cost": "0,20€",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://es.chargemap.com/networks/easycharger"
-      },
-      "app":{
-        "name":"Easycharger",
-        "url":"https://easycharger.es/#app"
-      },
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Easycharger - Nissan",
-      "category": "Ultra rápida",
-      "power": "100",
-      "cost": "0,40€",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://es.chargemap.com/networks/easycharger"
-      },
-      "app":{
-        "name":"Easycharger",
-        "url":"https://easycharger.es/#app"
-      },
-      "ob":"",
-      "type":"Publica"
-    },
-    {
       "cpo": "Estabanell Energia",
       "category": "Vinculado",
       "power": "3,7-50",
@@ -8179,6 +8011,174 @@
       "app":{
         "name":"Wenea",
         "url":"https://wenea.com/precios/"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Zunder",
+      "category": "Semi Rápida",
+      "power": "22",
+      "cost": "0,20€",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.zunder.com/nuestra-red-de-carga/"
+      },
+      "app":{
+        "name":"Zunder",
+        "url":"https://www.zunder.com/"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Zunder",
+      "category": "Rápida",
+      "power": "50",
+      "cost": "0,30 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.zunder.com/nuestra-red-de-carga/"
+      },
+      "app":{
+        "name":"Zunder",
+        "url":"https://www.zunder.com/"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Zunder",
+      "category": "Rápida",
+      "power": "90",
+      "cost": "0,40€",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.zunder.com/nuestra-red-de-carga/"
+      },
+      "app":{
+        "name":"Zunder",
+        "url":"https://www.zunder.com/"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Zunder",
+      "category": "Ultra Rápida",
+      "power": "160",
+      "cost": "0,55€",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.zunder.com/nuestra-red-de-carga/"
+      },
+      "app":{
+        "name":"Zunder",
+        "url":"https://www.zunder.com/"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Zunder - Nissan",
+      "category": "Semi Rápida",
+      "power": "22",
+      "cost": "0,10 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.zunder.com/nuestra-red-de-carga/"
+      },
+      "app":{
+        "name":"Zunder",
+        "url":"https://www.zunder.com/"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Zunder - Nissan",
+      "category": "Rápida",
+      "power": "50",
+      "cost": "0,15 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.zunder.com/nuestra-red-de-carga/"
+      },
+      "app":{
+        "name":"Zunder",
+        "url":"https://www.zunder.com/"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Zunder - Nissan",
+      "category": "Rápida",
+      "power": "90",
+      "cost": "0,20€",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.zunder.com/nuestra-red-de-carga/"
+      },
+      "app":{
+        "name":"Zunder",
+        "url":"https://www.zunder.com/"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Zunder - Nissan",
+      "category": "Ultra rápida",
+      "power": "100",
+      "cost": "0,40€",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.zunder.com/nuestra-red-de-carga/"
+      },
+      "app":{
+        "name":"Zunder",
+        "url":"https://www.zunder.com/"
       },
       "ob":"",
       "type":"Publica"
