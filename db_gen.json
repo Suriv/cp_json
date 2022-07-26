@@ -991,7 +991,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Ultra rápida",
-      "power": "100-150",
+      "power": "150",
       "cost": "0,40 €",
       "min_load": "No",
       "high_fee": "No",
@@ -1348,7 +1348,7 @@
     {
       "cpo": "Repsol",
       "category": "Ultra rápida",
-      "power": "100-350",
+      "power": "350",
       "cost": "0,54 €",
       "min_load": "9,68 €",
       "high_fee": "No",
@@ -1369,7 +1369,7 @@
     {
       "cpo": "Tesla - DC",
       "category": "Semi rápida",
-      "power":"11-22",
+      "power":"22",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -2569,7 +2569,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Ultra rápida",
-      "power": "100-150",
+      "power": "150",
       "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
@@ -2590,7 +2590,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Ultra rápida",
-      "power": "200-350+",
+      "power": "350",
       "cost": "0,51 €",
       "min_load": "No",
       "high_fee": "No",
@@ -2968,7 +2968,7 @@
     {
       "cpo": "Repsol",
       "category": "Ultra rápida",
-      "power": "100-350",
+      "power": "350",
       "cost": "0,54 €",
       "min_load": "9,68 €",
       "high_fee": "No",
@@ -2989,7 +2989,7 @@
     {
       "cpo": "Tesla - DC",
       "category": "Semi rápida",
-      "power":"11-22",
+      "power":"22",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -4189,7 +4189,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Ultra rápida",
-      "power": "100-150",
+      "power": "150",
       "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
@@ -4210,7 +4210,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Ultra rápida",
-      "power": "200-350+",
+      "power": "350",
       "cost": "0,51 €",
       "min_load": "No",
       "high_fee": "No",
@@ -4630,7 +4630,7 @@
     {
       "cpo": "Repsol",
       "category": "Ultra rápida",
-      "power": "100-350",
+      "power": "350",
       "cost": "0,54 €",
       "min_load": "9,68 €",
       "high_fee": "No",
@@ -4651,7 +4651,7 @@
     {
       "cpo": "Tesla - DC",
       "category": "Semi rápida",
-      "power":"11-22",
+      "power":"22",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -5851,7 +5851,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Ultra rápida",
-      "power": "100-150",
+      "power": "150",
       "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
@@ -5872,7 +5872,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Ultra rápida",
-      "power": "200-350+",
+      "power": "350",
       "cost": "0,51 €",
       "min_load": "No",
       "high_fee": "No",
@@ -6292,7 +6292,7 @@
     {
       "cpo": "Repsol",
       "category": "Ultra rápida",
-      "power": "100-350",
+      "power": "350",
       "cost": "0,54 €",
       "min_load": "9,68 €",
       "high_fee": "No",
@@ -6313,7 +6313,7 @@
     {
       "cpo": "Tesla - DC",
       "category": "Semi rápida",
-      "power":"11-22",
+      "power":"22",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -7345,7 +7345,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Ultra rápida",
-      "power": "100-150",
+      "power": "150",
       "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
@@ -7366,7 +7366,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Ultra rápida",
-      "power": "200-350+",
+      "power": "350",
       "cost": "0,51 €",
       "min_load": "No",
       "high_fee": "No",
@@ -7786,7 +7786,7 @@
     {
       "cpo": "Repsol",
       "category": "Ultra rápida",
-      "power": "100-350",
+      "power": "350",
       "cost": "0,54 €",
       "min_load": "9,68 €",
       "high_fee": "No",
@@ -7807,7 +7807,7 @@
     {
       "cpo": "Tesla - DC",
       "category": "Semi rápida",
-      "power":"11-22",
+      "power":"22",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -9006,7 +9006,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Ultra rápida",
-      "power": "100-150",
+      "power": "150",
       "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
@@ -9027,7 +9027,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Ultra rápida",
-      "power": "200-350+",
+      "power": "350",
       "cost": "0,51 €",
       "min_load": "No",
       "high_fee": "No",
@@ -9447,7 +9447,7 @@
     {
       "cpo": "Repsol",
       "category": "Ultra rápida",
-      "power": "100-350",
+      "power": "350",
       "cost": "0,54 €",
       "min_load": "9,68 €",
       "high_fee": "No",
@@ -9468,7 +9468,7 @@
     {
       "cpo": "Tesla - DC",
       "category": "Semi rápida",
-      "power":"11-22",
+      "power":"22",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -10266,6 +10266,27 @@
       "type":"Publica"
     },
     {
+      "cpo": "Endesa X",
+      "category": "Ultra rápida",
+      "power": "150",
+      "cost": "0,50 €",
+      "min_load": "",
+      "high_fee": "15,00 €",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "Con cuota 25 €/año",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://es.chargemap.com/networks/endesa"
+      },
+      "app":{
+        "name":"Juice Pass",
+        "url":"https://www.endesax.com/es/movilidad-electrica/productos/particulares/JuicePass"
+      },
+      "ob":"JuicePass 200 -> 200kWh al mes por 49,99€/mes. Sale el kWh a 0,25",
+      "type":"Publica"
+    },
+    {
       "cpo": "Endolla Barcelona Moto",
       "category": "Vinculado",
       "power": "3,2",
@@ -10647,27 +10668,6 @@
       "cpo": "Iberdrola",
       "category": "Rápida",
       "power": "50",
-      "cost": "0,39 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "No",
-      "r_point": "No",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://www.electromaps.com/cpo/242-iberdrola-clientes"
-      },
-      "app":{
-        "name":"Recarga Pública Iberdrola",
-        "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
-      },
-      "ob":"",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Iberdrola",
-      "category": "Ultra rápida",
-      "power": "100-150",
       "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
@@ -10688,8 +10688,29 @@
     {
       "cpo": "Iberdrola",
       "category": "Ultra rápida",
-      "power": "200-350+",
-      "cost": "0,51 €",
+      "power": "150",
+      "cost": "0,54 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/242-iberdrola-clientes"
+      },
+      "app":{
+        "name":"Recarga Pública Iberdrola",
+        "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Iberdrola",
+      "category": "Ultra rápida",
+      "power": "350",
+      "cost": "0,69 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -11003,7 +11024,7 @@
     {
       "cpo": "Porsche",
       "category": "Ultra rápida",
-      "power": "150-350",
+      "power": "350",
       "cost": "0,39 €",
       "min_load": "0",
       "high_fee": "0",
@@ -11108,7 +11129,7 @@
     {
       "cpo": "Repsol",
       "category": "Ultra rápida",
-      "power": "100-350",
+      "power": "350",
       "cost": "0,54 €",
       "min_load": "9,68 €",
       "high_fee": "No",
@@ -11129,7 +11150,7 @@
     {
       "cpo": "Tesla - DC",
       "category": "Semi rápida",
-      "power":"11-22",
+      "power":"22",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -11151,7 +11172,7 @@
       "cpo": "Tesla",
       "category": "Ultra rápida",
       "power":"250",
-      "cost": "0,63",
+      "cost": "0,66",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
