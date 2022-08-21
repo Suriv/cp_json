@@ -11591,6 +11591,90 @@
   ],
   "Agosto":[
     {
+      "cpo": "Acciona Cargacoches",
+      "category": "Semi Rápida",
+      "power": "22",
+      "cost": "0,15 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "0€",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
+      "ob":"Reserva: definiendo fecha/hora carga",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Acciona Cargacoches",
+      "category": "Rápida",
+      "power": "50",
+      "cost": "0,38 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "0€",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
+      "ob":"Reserva: definiendo fecha/hora carga",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Acciona Cargacoches",
+      "category": "Rápida",
+      "power": "90",
+      "cost": "0,40€",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "0€",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
+      "ob":"Reserva: definiendo fecha/hora carga",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Acciona Cargacoches",
+      "category": "Ultra Rápida",
+      "power": "180",
+      "cost": "0,40€",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "0€",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://www.chargeandparking.es/app"
+      },
+      "ob":"Reserva: definiendo fecha/hora carga",
+      "type":"Publica"
+    },
+    {
       "cpo":  "AMB Area Metropolitana de Barcelona",
       "category": "Semi Rápida",
       "power": "22",
@@ -11672,69 +11756,6 @@
         "url":"https://play.google.com/store/apps/details?id=com.goveyond.cp.app"
       },
       "ob":"0,10€-0,25€",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Cargacoches",
-      "category": "Semi Rápida",
-      "power": "22",
-      "cost": "0,15 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "No",
-      "r_point": "0€",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
-      },
-      "app":{
-        "name":"Charge & Parking",
-        "url":"https://www.chargeandparking.es/app"
-      },
-      "ob":"Reserva: definiendo fecha/hora carga",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Cargacoches",
-      "category": "Rápida",
-      "power": "50",
-      "cost": "0,38 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "No",
-      "r_point": "0€",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
-      },
-      "app":{
-        "name":"Charge & Parking",
-        "url":"https://www.chargeandparking.es/app"
-      },
-      "ob":"Reserva: definiendo fecha/hora carga",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Cargacoches",
-      "category": "Rápida",
-      "power": "90",
-      "cost": "0,40€",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "No",
-      "r_point": "0€",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://www.chargeandparking.es/buscarpuntosderecarga"
-      },
-      "app":{
-        "name":"Charge & Parking",
-        "url":"https://www.chargeandparking.es/app"
-      },
-      "ob":"Reserva: definiendo fecha/hora carga",
       "type":"Publica"
     },
     {
@@ -12118,7 +12139,49 @@
     {
       "cpo": "Estabanell Energia",
       "category": "Vinculado",
-      "power": "3,7-50",
+      "power": "3,7",
+      "cost": "0",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://www.e-mobilitat.cat/"
+      },
+      "app":{
+        "name":"QR-Code",
+        "url":"https://www.e-mobilitat.cat/"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Estabanell Energia",
+      "category": "Convencional",
+      "power": "7",
+      "cost": "0",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://www.e-mobilitat.cat/"
+      },
+      "app":{
+        "name":"QR-Code",
+        "url":"https://www.e-mobilitat.cat/"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Estabanell Energia",
+      "category": "semi rápida",
+      "power": "50",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -12266,7 +12329,7 @@
       "cpo": "GIC",
       "category": "Vinculado",
       "power": "3,7",
-      "cost": "0,47 €",
+      "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -12287,7 +12350,7 @@
       "cpo": "GIC",
       "category": "Convencional",
       "power": "7",
-      "cost": "0,47 €",
+      "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -12308,7 +12371,7 @@
       "cpo": "GIC",
       "category": "Semi Rápida",
       "power": "22",
-      "cost": "0,47 €",
+      "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -12329,7 +12392,7 @@
       "cpo": "GIC",
       "category": "Rápida",
       "power": "50",
-      "cost": "0,47 €",
+      "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -13084,7 +13147,7 @@
     {
       "cpo": "Wenea",
       "category": "Rápida",
-      "power": "50kW",
+      "power": "50",
       "cost": "0,42€",
       "min_load": "No",
       "high_fee": "0,00 €",
@@ -13173,7 +13236,7 @@
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "No",
+      "overcrowding": "1 €/min",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
@@ -13181,7 +13244,7 @@
       },
       "app":{
         "name":"Zunder",
-        "url":"https://www.zunder.com/"
+        "url":"https://www.zunder.com/#app"
       },
       "ob":"",
       "type":"Publica"
@@ -13194,7 +13257,7 @@
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "No",
+      "overcrowding": "Ocup 50 %",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
@@ -13202,7 +13265,7 @@
       },
       "app":{
         "name":"Zunder",
-        "url":"https://www.zunder.com/"
+        "url":"https://www.zunder.com/#app"
       },
       "ob":"",
       "type":"Publica"
@@ -13215,7 +13278,7 @@
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "No",
+      "overcrowding": "2 €/min",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
@@ -13223,7 +13286,7 @@
       },
       "app":{
         "name":"Zunder",
-        "url":"https://www.zunder.com/"
+        "url":"https://www.zunder.com/#app"
       },
       "ob":"",
       "type":"Publica"
@@ -13231,12 +13294,12 @@
     {
       "cpo": "Zunder",
       "category": "Ultra Rápida",
-      "power": "300",
+      "power": "150",
       "cost": "0,55€",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "No",
+      "overcrowding": "Ocup 100%",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
@@ -13244,7 +13307,7 @@
       },
       "app":{
         "name":"Zunder",
-        "url":"https://www.zunder.com/"
+        "url":"https://www.zunder.com/#app"
       },
       "ob":"",
       "type":"Publica"
@@ -13265,7 +13328,7 @@
       },
       "app":{
         "name":"Zunder",
-        "url":"https://www.zunder.com/"
+        "url":"https://www.zunder.com/#app"
       },
       "ob":"",
       "type":"Publica"
@@ -13286,7 +13349,7 @@
       },
       "app":{
         "name":"Zunder",
-        "url":"https://www.zunder.com/"
+        "url":"https://www.zunder.com/#app"
       },
       "ob":"",
       "type":"Publica"
@@ -13307,7 +13370,7 @@
       },
       "app":{
         "name":"Zunder",
-        "url":"https://www.zunder.com/"
+        "url":"https://www.zunder.com/#app"
       },
       "ob":"",
       "type":"Publica"
@@ -13315,8 +13378,8 @@
     {
       "cpo": "Zunder - Nissan",
       "category": "Ultra rápida",
-      "power": "100",
-      "cost": "0,40€",
+      "power": "150",
+      "cost": "0,28€",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -13328,7 +13391,7 @@
       },
       "app":{
         "name":"Zunder",
-        "url":"https://www.zunder.com/"
+        "url":"https://www.zunder.com/#app"
       },
       "ob":"",
       "type":"Publica"
