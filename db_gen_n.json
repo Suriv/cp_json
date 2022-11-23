@@ -29924,6 +29924,48 @@
           "nodata": "no data"
         }]
       }]
+    },
+    {
+      "year":"2023",
+      "months":[{
+
+        "Enero":[{
+          "nodata": "no data"
+        }],
+        "Febrero":[{
+          "nodata": "no data"
+        }],
+        "Marzo":[{
+          "nodata": "no data"
+        }],
+        "Abril":[{
+          "nodata": "no data"
+        }],
+        "Mayo":[{
+          "nodata": "no data"
+        }],
+        "Junio":[{
+          "nodata": "no data"
+        }],
+        "Julio":[{
+          "nodata": "no data"
+        }],
+        "Agosto":[{
+          "nodata": "no data"
+        }],
+        "Septiembre":[{
+          "nodata": "no data"
+        }],
+        "Octubre":[{
+          "nodata": "no data"
+        }],
+        "Noviembre":[{
+          "nodata": "no data"
+        }],
+        "Diciembre":[{
+          "nodata": "no data"
+        }]
+      }]
     }
 ],
   "_comment_operator_draft":[
