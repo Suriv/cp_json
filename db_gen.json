@@ -21093,6 +21093,27 @@
       "type":"Publica"
     },
     {
+      "cpo": "Zunder -- sin completar reg. ",
+      "category": "Rápida",
+      "power": "50",
+      "cost": "0,44 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "Ocup 50 %",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.zunder.com/nuestra-red-de-carga/"
+      },
+      "app":{
+        "name":"Zunder",
+        "url":"https://www.zunder.com/#app"
+      },
+      "ob":"Nissan 50% de descuento https://www.zunder.com/descuento-50-nissan-easycharger-como-activarlo/",
+      "type":"Publica"
+    },
+    {
       "cpo": "Zunder",
       "category": "Rápida",
       "power": "90",
@@ -21118,6 +21139,27 @@
       "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,55€",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "Ocup 100%",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.zunder.com/nuestra-red-de-carga/"
+      },
+      "app":{
+        "name":"Zunder",
+        "url":"https://www.zunder.com/#app"
+      },
+      "ob":"Nissan 50% de descuento https://www.zunder.com/descuento-50-nissan-easycharger-como-activarlo/",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Zunder -- sin completar reg.",
+      "category": "Ultra Rápida",
+      "power": "150",
+      "cost": "0,60€",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
