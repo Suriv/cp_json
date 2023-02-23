@@ -1942,7 +1942,7 @@
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "1 €/min",
+      "overcrowding": "0,5€/min, Tarifa estacionamiento: Si la demanda de la ubicación está al 50%, el coste de estacionamiento será de 1€ el minuto. Si la ubicación tiene una demanda del 100%, el coste minuto será de 2€.",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
@@ -1963,7 +1963,7 @@
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "Ocup 50 %",
+      "overcrowding": "0,5€/min, Tarifa estacionamiento: Si la demanda de la ubicación está al 50%, el coste de estacionamiento será de 1€ el minuto. Si la ubicación tiene una demanda del 100%, el coste minuto será de 2€.",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
@@ -1984,7 +1984,7 @@
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "Ocup 50 %",
+      "overcrowding": "0,5€/min, Tarifa estacionamiento: Si la demanda de la ubicación está al 50%, el coste de estacionamiento será de 1€ el minuto. Si la ubicación tiene una demanda del 100%, el coste minuto será de 2€.",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
@@ -2005,7 +2005,7 @@
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "2 €/min",
+      "overcrowding": "0,5€/min, Tarifa estacionamiento: Si la demanda de la ubicación está al 50%, el coste de estacionamiento será de 1€ el minuto. Si la ubicación tiene una demanda del 100%, el coste minuto será de 2€.",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
@@ -2026,7 +2026,7 @@
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "Ocup 100%",
+      "overcrowding": "0,5€/min, Tarifa estacionamiento: Si la demanda de la ubicación está al 50%, el coste de estacionamiento será de 1€ el minuto. Si la ubicación tiene una demanda del 100%, el coste minuto será de 2€.",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
@@ -2047,7 +2047,7 @@
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "Ocup 100%",
+      "overcrowding": "0,5€/min, Tarifa estacionamiento: Si la demanda de la ubicación está al 50%, el coste de estacionamiento será de 1€ el minuto. Si la ubicación tiene una demanda del 100%, el coste minuto será de 2€.",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
@@ -4024,7 +4024,7 @@
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "Ocup 50 %",
+      "overcrowding": "0,5€/min, Tarifa estacionamiento: Si la demanda de la ubicación está al 50%, el coste de estacionamiento será de 1€ el minuto. Si la ubicación tiene una demanda del 100%, el coste minuto será de 2€.",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
@@ -4045,7 +4045,7 @@
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "Ocup 50 %",
+      "overcrowding": "0,5€/min, Tarifa estacionamiento: Si la demanda de la ubicación está al 50%, el coste de estacionamiento será de 1€ el minuto. Si la ubicación tiene una demanda del 100%, el coste minuto será de 2€.",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
@@ -4066,7 +4066,7 @@
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "2 €/min",
+      "overcrowding": "0,5€/min, Tarifa estacionamiento: Si la demanda de la ubicación está al 50%, el coste de estacionamiento será de 1€ el minuto. Si la ubicación tiene una demanda del 100%, el coste minuto será de 2€.",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
@@ -4087,7 +4087,7 @@
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "Ocup 100%",
+      "overcrowding": "0,5€/min, Tarifa estacionamiento: Si la demanda de la ubicación está al 50%, el coste de estacionamiento será de 1€ el minuto. Si la ubicación tiene una demanda del 100%, el coste minuto será de 2€.",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
@@ -4108,7 +4108,7 @@
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "Ocup 100%",
+      "overcrowding": "0,5€/min, Tarifa estacionamiento: Si la demanda de la ubicación está al 50%, el coste de estacionamiento será de 1€ el minuto. Si la ubicación tiene una demanda del 100%, el coste minuto será de 2€.",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
