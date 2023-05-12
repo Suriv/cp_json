@@ -8770,7 +8770,6 @@
       "ob":"",
       "type":"Publica"
     },
-   
     {
       "cpo": "Endesa X a tu ritmo",
       "category": "Semi Rápida",
@@ -9510,7 +9509,7 @@
       "cpo": "Ionity",
       "category": "Ultra rápida",
       "power": "350",
-      "cost": "0,69 €",
+      "cost": "0,65 €",
       "min_load": "",
       "high_fee": "",
       "month_fee": "",
@@ -9951,7 +9950,7 @@
       "cpo": "Tesla",
       "category": "Ultra rápida",
       "power":"250",
-      "cost": "0,71 €",
+      "cost": "0,58 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -9965,14 +9964,14 @@
         "name":"Tesla",
         "url":"https://www.tesla.com/es_ES/support/tesla-app"
       },
-      "ob":"Uso exclusivo a propietarios de la marca para determinados SuC.  0.53€€/kWh para propietarios de Tesla o resto con AFILIACION de 12,99 €/mes (no anual). Varia segun cargador.",
+      "ob":"Uso exclusivo a propietarios de la marca para determinados SuC. 0,39-0,43 €/kWh para propietarios de Tesla o resto con AFILIACION de 12,99 €/mes (no anual). Varia segun cargador. Hora Baja 0,53 €/kWh",
       "type":"Privada"
     },
     {
       "cpo": "Tesla Propietarios",
       "category": "Ultra rápida",
       "power":"250",
-      "cost": "0,55€",
+      "cost": "0,43€",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -9986,7 +9985,7 @@
         "name":"Tesla",
         "url":"https://www.tesla.com/es_ES/support/tesla-app"
       },
-      "ob":"Uso exclusivo a propietarios de la marca para determinados SuC. 0,53€ €/kWh para propietarios de Tesla o resto con AFILIACION de 12,99 €/mes (no anual). Varia segun cargador.",
+      "ob":"Hora Baja 0,39 €/kWh",
       "type":"Privada"
     },
     {
