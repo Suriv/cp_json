@@ -12052,7 +12052,7 @@
       "cpo": "Tesla",
       "category": "Ultra rápida",
       "power":"250",
-      "cost": "0,58 €",
+      "cost": "0,54 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -12066,14 +12066,14 @@
         "name":"Tesla",
         "url":"https://www.tesla.com/es_ES/support/tesla-app"
       },
-      "ob":"Uso exclusivo a propietarios de la marca para determinados SuC. 0,39-0,43 €/kWh para propietarios de Tesla o resto con AFILIACION de 12,99 €/mes (no anual). Varia segun cargador. Hora Baja 0,53 €/kWh",
+      "ob":"0.49 - 0,54€/kWh. Uso exclusivo a propietarios de la marca para determinados SuC. 0,36 - 0,40 €/kWh para propietarios de Tesla o resto con AFILIACION de 12,99 €/mes (no anual). Varia segun cargador.",
       "type":"Privada"
     },
     {
       "cpo": "Tesla Propietarios",
       "category": "Ultra rápida",
       "power":"250",
-      "cost": "0,43€",
+      "cost": "0,40€",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -12087,7 +12087,7 @@
         "name":"Tesla",
         "url":"https://www.tesla.com/es_ES/support/tesla-app"
       },
-      "ob":"Hora Baja 0,39 €/kWh",
+      "ob":"Uso exclusivo a propietarios de la marca para determinados SuC. 0,36 - 0,40 €/kWh para propietarios de Tesla o resto con AFILIACION de 12,99 €/mes (no anual). Varia segun cargador. Hora Baja 0,39 €/kWh",
       "type":"Privada"
     },
     {
