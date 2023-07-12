@@ -297,7 +297,7 @@
     },
     {
       "cpo": "Electromaps",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "Variable",
@@ -381,7 +381,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,49 €",
       "min_load": "No",
@@ -402,7 +402,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "400",
       "cost": "0,69 €",
       "min_load": "No",
@@ -507,7 +507,7 @@
     },
     {
       "cpo": "Endesa X sin registro",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "No",
@@ -571,7 +571,7 @@
     },
     {
       "cpo": "Endesa X a tu ritmo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,49 €",
       "min_load": "No",
@@ -634,7 +634,7 @@
     },
     {
       "cpo": "Endesa X limit JuicePass",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,45 €",
       "min_load": "No",
@@ -697,7 +697,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 35",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,28 €",
       "min_load": "No",
@@ -760,7 +760,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 200",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,25 €",
       "min_load": "No",
@@ -887,7 +887,7 @@
     {
       "cpo": "Estabanell Energia",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -1076,7 +1076,7 @@
     {
       "cpo": "GIC",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
@@ -1160,7 +1160,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,15 €",
       "min_load": "No",
       "high_fee": "No",
@@ -1222,7 +1222,7 @@
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,54 €",
       "min_load": "No",
@@ -1243,7 +1243,7 @@
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,69 €",
       "min_load": "No",
@@ -1264,7 +1264,7 @@
     },
     {
       "cpo": "Ionity",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,79 €",
       "min_load": "",
@@ -1285,7 +1285,7 @@
     },
     {
       "cpo": "Ionity - Audi",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,31 €",
       "min_load": "",
@@ -1306,7 +1306,7 @@
     },
     {
       "cpo": "Ionity - Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,33 €",
       "min_load": "",
@@ -1327,7 +1327,7 @@
     },
     {
       "cpo": "Ionity - Daimler Benz",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -1348,7 +1348,7 @@
     },
     {
       "cpo": "Ionity - BMW",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,34 €",
       "min_load": "",
@@ -1369,7 +1369,7 @@
     },
     {
       "cpo": "Ionity - Hyundai",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -1390,7 +1390,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -1411,7 +1411,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -1432,7 +1432,7 @@
     },
     {
       "cpo": "Ionity - PASSPORT",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -1453,7 +1453,7 @@
     },
     {
       "cpo": "Ionity - Volvo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -1474,7 +1474,7 @@
     },
     {
       "cpo": "Ionity - We Charge Go",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -1495,7 +1495,7 @@
     },
     {
       "cpo": "Ionity - We Charge Plus",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -1516,7 +1516,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,39 €",
       "min_load": "0",
@@ -1558,7 +1558,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,39 €",
       "min_load": "0",
@@ -1601,7 +1601,7 @@
     {
       "cpo": "Repsol",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,35 €",
       "min_load": "2,42 €",
       "high_fee": "No",
@@ -1621,7 +1621,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,35 €",
       "min_load": "2,42 €",
@@ -1663,7 +1663,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,54 €",
       "min_load": "9,68 €",
@@ -1684,7 +1684,7 @@
     },
     {
       "cpo": "Tesla - DC",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power":"22",
       "cost": "0",
       "min_load": "No",
@@ -1705,7 +1705,7 @@
     },
     {
       "cpo": "Tesla",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,71 €",
       "min_load": "No",
@@ -1726,7 +1726,7 @@
     },
     {
       "cpo": "Tesla Propietarios",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,55 €",
       "min_load": "No",
@@ -1747,7 +1747,7 @@
     },
     {
       "cpo": "Tesla Free SuC",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0",
       "min_load": "No",
@@ -1810,7 +1810,7 @@
     },
     {
       "cpo": "Urbener",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,30 €",
       "min_load": "No",
@@ -1852,7 +1852,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,38 €",
       "min_load": "No",
@@ -1915,7 +1915,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,59 €",
       "min_load": "No",
@@ -2358,7 +2358,7 @@
     },
     {
       "cpo": "Electromaps",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "Variable",
@@ -2442,7 +2442,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,49 €",
       "min_load": "No",
@@ -2463,7 +2463,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "400",
       "cost": "0,69 €",
       "min_load": "No",
@@ -2568,7 +2568,7 @@
     },
     {
       "cpo": "Endesa X sin registro",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "No",
@@ -2632,7 +2632,7 @@
     },
     {
       "cpo": "Endesa X a tu ritmo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,49 €",
       "min_load": "No",
@@ -2695,7 +2695,7 @@
     },
     {
       "cpo": "Endesa X limit JuicePass",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,45 €",
       "min_load": "No",
@@ -2758,7 +2758,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 35",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,28 €",
       "min_load": "No",
@@ -2821,7 +2821,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 200",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,25 €",
       "min_load": "No",
@@ -2948,7 +2948,7 @@
     {
       "cpo": "Estabanell Energia",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -3137,7 +3137,7 @@
     {
       "cpo": "GIC",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
@@ -3221,7 +3221,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,15 €",
       "min_load": "No",
       "high_fee": "No",
@@ -3283,7 +3283,7 @@
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,54 €",
       "min_load": "No",
@@ -3304,7 +3304,7 @@
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,69 €",
       "min_load": "No",
@@ -3325,7 +3325,7 @@
     },
     {
       "cpo": "Ionity",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,79 €",
       "min_load": "",
@@ -3346,7 +3346,7 @@
     },
     {
       "cpo": "Ionity - Audi",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,31 €",
       "min_load": "",
@@ -3367,7 +3367,7 @@
     },
     {
       "cpo": "Ionity - Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,33 €",
       "min_load": "",
@@ -3388,7 +3388,7 @@
     },
     {
       "cpo": "Ionity - Daimler Benz",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -3409,7 +3409,7 @@
     },
     {
       "cpo": "Ionity - BMW",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,34 €",
       "min_load": "",
@@ -3430,7 +3430,7 @@
     },
     {
       "cpo": "Ionity - Hyundai",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -3451,7 +3451,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -3472,7 +3472,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -3493,7 +3493,7 @@
     },
     {
       "cpo": "Ionity - PASSPORT",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -3514,7 +3514,7 @@
     },
     {
       "cpo": "Ionity - Volvo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -3535,7 +3535,7 @@
     },
     {
       "cpo": "Ionity - We Charge Go",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -3556,7 +3556,7 @@
     },
     {
       "cpo": "Ionity - We Charge Plus",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -3577,7 +3577,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,39 €",
       "min_load": "0",
@@ -3619,7 +3619,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,39 €",
       "min_load": "0",
@@ -3662,7 +3662,7 @@
     {
       "cpo": "Repsol",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,35 €",
       "min_load": "2,42 €",
       "high_fee": "No",
@@ -3682,7 +3682,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,35 €",
       "min_load": "2,42 €",
@@ -3724,7 +3724,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,54 €",
       "min_load": "9,68 €",
@@ -3745,7 +3745,7 @@
     },
     {
       "cpo": "Tesla - DC",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power":"22",
       "cost": "0",
       "min_load": "No",
@@ -3766,7 +3766,7 @@
     },
     {
       "cpo": "Tesla",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,71 €",
       "min_load": "No",
@@ -3787,7 +3787,7 @@
     },
     {
       "cpo": "Tesla Propietarios",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,55 €",
       "min_load": "No",
@@ -3808,7 +3808,7 @@
     },
     {
       "cpo": "Tesla Free SuC",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0",
       "min_load": "No",
@@ -3871,7 +3871,7 @@
     },
     {
       "cpo": "Urbener",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,30 €",
       "min_load": "No",
@@ -3913,7 +3913,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,38 €",
       "min_load": "No",
@@ -3976,7 +3976,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,59 €",
       "min_load": "No",
@@ -4419,7 +4419,7 @@
     },
     {
       "cpo": "Electromaps",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "Variable",
@@ -4503,7 +4503,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,49 €",
       "min_load": "No",
@@ -4524,7 +4524,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "400",
       "cost": "0,69 €",
       "min_load": "No",
@@ -4629,7 +4629,7 @@
     },
     {
       "cpo": "Endesa X sin registro",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "No",
@@ -4693,7 +4693,7 @@
     },
     {
       "cpo": "Endesa X a tu ritmo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,49 €",
       "min_load": "No",
@@ -4756,7 +4756,7 @@
     },
     {
       "cpo": "Endesa X limit JuicePass",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,45 €",
       "min_load": "No",
@@ -4819,7 +4819,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 35",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,28 €",
       "min_load": "No",
@@ -4882,7 +4882,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 200",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,25 €",
       "min_load": "No",
@@ -5009,7 +5009,7 @@
     {
       "cpo": "Estabanell Energia",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -5198,7 +5198,7 @@
     {
       "cpo": "GIC",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
@@ -5282,7 +5282,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,15 €",
       "min_load": "No",
       "high_fee": "No",
@@ -5344,7 +5344,7 @@
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,54 €",
       "min_load": "No",
@@ -5365,7 +5365,7 @@
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,69 €",
       "min_load": "No",
@@ -5386,7 +5386,7 @@
     },
     {
       "cpo": "Ionity",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,69 €",
       "min_load": "",
@@ -5407,7 +5407,7 @@
     },
     {
       "cpo": "Ionity - Audi",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,31 €",
       "min_load": "",
@@ -5428,7 +5428,7 @@
     },
     {
       "cpo": "Ionity - Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,33 €",
       "min_load": "",
@@ -5449,7 +5449,7 @@
     },
     {
       "cpo": "Ionity - Daimler Benz",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -5470,7 +5470,7 @@
     },
     {
       "cpo": "Ionity - BMW",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,34 €",
       "min_load": "",
@@ -5491,7 +5491,7 @@
     },
     {
       "cpo": "Ionity - Hyundai",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -5512,7 +5512,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -5533,7 +5533,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -5554,7 +5554,7 @@
     },
     {
       "cpo": "Ionity - PASSPORT",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -5575,7 +5575,7 @@
     },
     {
       "cpo": "Ionity - Volvo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -5596,7 +5596,7 @@
     },
     {
       "cpo": "Ionity - We Charge Go",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -5617,7 +5617,7 @@
     },
     {
       "cpo": "Ionity - We Charge Plus",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -5638,7 +5638,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,39 €",
       "min_load": "0",
@@ -5680,7 +5680,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,39 €",
       "min_load": "0",
@@ -5723,7 +5723,7 @@
     {
       "cpo": "Repsol",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,35 €",
       "min_load": "2,42 €",
       "high_fee": "No",
@@ -5743,7 +5743,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,35 €",
       "min_load": "2,42 €",
@@ -5785,7 +5785,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,54 €",
       "min_load": "9,68 €",
@@ -5806,7 +5806,7 @@
     },
     {
       "cpo": "Tesla - DC",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power":"22",
       "cost": "0",
       "min_load": "No",
@@ -5827,7 +5827,7 @@
     },
     {
       "cpo": "Tesla",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,71 €",
       "min_load": "No",
@@ -5848,7 +5848,7 @@
     },
     {
       "cpo": "Tesla Propietarios",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,55 €",
       "min_load": "No",
@@ -5869,7 +5869,7 @@
     },
     {
       "cpo": "Tesla Free SuC",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0",
       "min_load": "No",
@@ -5932,7 +5932,7 @@
     },
     {
       "cpo": "Urbener",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,30 €",
       "min_load": "No",
@@ -5974,7 +5974,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,38 €",
       "min_load": "No",
@@ -6037,7 +6037,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,59 €",
       "min_load": "No",
@@ -6480,7 +6480,7 @@
     },
     {
       "cpo": "Electromaps",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "Variable",
@@ -6564,7 +6564,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,49 €",
       "min_load": "No",
@@ -6585,7 +6585,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "400",
       "cost": "0,69 €",
       "min_load": "No",
@@ -6690,7 +6690,7 @@
     },
     {
       "cpo": "Endesa X sin registro",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "No",
@@ -6754,7 +6754,7 @@
     },
     {
       "cpo": "Endesa X a tu ritmo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,49 €",
       "min_load": "No",
@@ -6817,7 +6817,7 @@
     },
     {
       "cpo": "Endesa X limit JuicePass",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,45 €",
       "min_load": "No",
@@ -6880,7 +6880,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 35",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,28 €",
       "min_load": "No",
@@ -6943,7 +6943,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 200",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,25 €",
       "min_load": "No",
@@ -7070,7 +7070,7 @@
     {
       "cpo": "Estabanell Energia",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -7259,7 +7259,7 @@
     {
       "cpo": "GIC",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
@@ -7343,7 +7343,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,15 €",
       "min_load": "No",
       "high_fee": "No",
@@ -7405,7 +7405,7 @@
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,54 €",
       "min_load": "No",
@@ -7426,7 +7426,7 @@
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,69 €",
       "min_load": "No",
@@ -7447,7 +7447,7 @@
     },
     {
       "cpo": "Ionity",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,69 €",
       "min_load": "",
@@ -7468,7 +7468,7 @@
     },
     {
       "cpo": "Ionity - Audi",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,31 €",
       "min_load": "",
@@ -7489,7 +7489,7 @@
     },
     {
       "cpo": "Ionity - Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,33 €",
       "min_load": "",
@@ -7510,7 +7510,7 @@
     },
     {
       "cpo": "Ionity - Daimler Benz",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -7531,7 +7531,7 @@
     },
     {
       "cpo": "Ionity - BMW",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,34 €",
       "min_load": "",
@@ -7552,7 +7552,7 @@
     },
     {
       "cpo": "Ionity - Hyundai",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -7573,7 +7573,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -7594,7 +7594,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -7615,7 +7615,7 @@
     },
     {
       "cpo": "Ionity - PASSPORT",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -7636,7 +7636,7 @@
     },
     {
       "cpo": "Ionity - Volvo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -7657,7 +7657,7 @@
     },
     {
       "cpo": "Ionity - We Charge Go",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -7678,7 +7678,7 @@
     },
     {
       "cpo": "Ionity - We Charge Plus",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -7699,7 +7699,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,39 €",
       "min_load": "0",
@@ -7741,7 +7741,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,39 €",
       "min_load": "0",
@@ -7784,7 +7784,7 @@
     {
       "cpo": "Repsol",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,35 €",
       "min_load": "2,42 €",
       "high_fee": "No",
@@ -7804,7 +7804,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,35 €",
       "min_load": "2,42 €",
@@ -7846,7 +7846,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,54 €",
       "min_load": "9,68 €",
@@ -7867,7 +7867,7 @@
     },
     {
       "cpo": "Tesla - DC",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power":"22",
       "cost": "0",
       "min_load": "No",
@@ -7888,7 +7888,7 @@
     },
     {
       "cpo": "Tesla",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,71 €",
       "min_load": "No",
@@ -7909,7 +7909,7 @@
     },
     {
       "cpo": "Tesla Propietarios",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,55 €",
       "min_load": "No",
@@ -7930,7 +7930,7 @@
     },
     {
       "cpo": "Tesla Free SuC",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0",
       "min_load": "No",
@@ -7993,7 +7993,7 @@
     },
     {
       "cpo": "Urbener",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,30 €",
       "min_load": "No",
@@ -8035,7 +8035,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,38 €",
       "min_load": "No",
@@ -8098,7 +8098,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,59 €",
       "min_load": "No",
@@ -8541,7 +8541,7 @@
     },
     {
       "cpo": "Electromaps",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "Variable",
@@ -8625,7 +8625,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,49 €",
       "min_load": "No",
@@ -8646,7 +8646,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "400",
       "cost": "0,69 €",
       "min_load": "No",
@@ -8751,7 +8751,7 @@
     },
     {
       "cpo": "Endesa X sin registro",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "No",
@@ -8814,7 +8814,7 @@
     },
     {
       "cpo": "Endesa X a tu ritmo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,49 €",
       "min_load": "No",
@@ -8877,7 +8877,7 @@
     },
     {
       "cpo": "Endesa X limit JuicePass",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,45 €",
       "min_load": "No",
@@ -8940,7 +8940,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 35",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,28 €",
       "min_load": "No",
@@ -9003,7 +9003,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 200",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,25 €",
       "min_load": "No",
@@ -9130,7 +9130,7 @@
     {
       "cpo": "Estabanell Energia",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -9319,7 +9319,7 @@
     {
       "cpo": "GIC",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
@@ -9403,7 +9403,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,15 €",
       "min_load": "No",
       "high_fee": "No",
@@ -9465,7 +9465,7 @@
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,54 €",
       "min_load": "No",
@@ -9486,7 +9486,7 @@
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,69 €",
       "min_load": "No",
@@ -9507,7 +9507,7 @@
     },
     {
       "cpo": "Ionity",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,65 €",
       "min_load": "",
@@ -9528,7 +9528,7 @@
     },
     {
       "cpo": "Ionity - Audi",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,31 €",
       "min_load": "",
@@ -9549,7 +9549,7 @@
     },
     {
       "cpo": "Ionity - Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,33 €",
       "min_load": "",
@@ -9570,7 +9570,7 @@
     },
     {
       "cpo": "Ionity - Daimler Benz",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -9591,7 +9591,7 @@
     },
     {
       "cpo": "Ionity - BMW",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,34 €",
       "min_load": "",
@@ -9612,7 +9612,7 @@
     },
     {
       "cpo": "Ionity - Hyundai",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -9633,7 +9633,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -9654,7 +9654,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -9675,7 +9675,7 @@
     },
     {
       "cpo": "Ionity - PASSPORT",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -9696,7 +9696,7 @@
     },
     {
       "cpo": "Ionity - Volvo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -9717,7 +9717,7 @@
     },
     {
       "cpo": "Ionity - We Charge Go",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -9738,7 +9738,7 @@
     },
     {
       "cpo": "Ionity - We Charge Plus",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -9759,7 +9759,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,39 €",
       "min_load": "0",
@@ -9801,7 +9801,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,39 €",
       "min_load": "0",
@@ -9844,7 +9844,7 @@
     {
       "cpo": "Repsol",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,35 €",
       "min_load": "2,42 €",
       "high_fee": "No",
@@ -9864,7 +9864,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,35 €",
       "min_load": "2,42 €",
@@ -9906,7 +9906,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,54 €",
       "min_load": "9,68 €",
@@ -9927,7 +9927,7 @@
     },
     {
       "cpo": "Tesla - DC",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power":"22",
       "cost": "0",
       "min_load": "No",
@@ -9948,7 +9948,7 @@
     },
     {
       "cpo": "Tesla",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,58 €",
       "min_load": "No",
@@ -9969,7 +9969,7 @@
     },
     {
       "cpo": "Tesla Propietarios",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,43 €",
       "min_load": "No",
@@ -9990,7 +9990,7 @@
     },
     {
       "cpo": "Tesla Free SuC",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0",
       "min_load": "No",
@@ -10053,7 +10053,7 @@
     },
     {
       "cpo": "Urbener",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,30 €",
       "min_load": "No",
@@ -10095,7 +10095,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,38 €",
       "min_load": "No",
@@ -10158,7 +10158,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,59 €",
       "min_load": "No",
@@ -10475,7 +10475,7 @@
     },
     {
       "cpo": "BP Pulse",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,69 €",
       "min_load": "",
@@ -10622,7 +10622,7 @@
     },
     {
       "cpo": "Electromaps",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "Variable",
@@ -10706,7 +10706,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,49 €",
       "min_load": "No",
@@ -10727,7 +10727,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "400",
       "cost": "0,69 €",
       "min_load": "No",
@@ -10832,7 +10832,7 @@
     },
     {
       "cpo": "Endesa X sin registro",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "No",
@@ -10895,7 +10895,7 @@
     },
     {
       "cpo": "Endesa X a tu ritmo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,49 €",
       "min_load": "No",
@@ -10958,7 +10958,7 @@
     },
     {
       "cpo": "Endesa X limit JuicePass",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,45 €",
       "min_load": "No",
@@ -11021,7 +11021,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 35",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,28 €",
       "min_load": "No",
@@ -11084,7 +11084,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 200",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,25 €",
       "min_load": "No",
@@ -11211,7 +11211,7 @@
     {
       "cpo": "Estabanell Energia",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -11400,7 +11400,7 @@
     {
       "cpo": "GIC",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
@@ -11484,7 +11484,7 @@
     {
       "cpo": "Iberdrola",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,15 €",
       "min_load": "No",
       "high_fee": "No",
@@ -11546,7 +11546,7 @@
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,54 €",
       "min_load": "No",
@@ -11567,7 +11567,7 @@
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,69 €",
       "min_load": "No",
@@ -11588,7 +11588,7 @@
     },
     {
       "cpo": "Ionity Direct",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,65 €",
       "min_load": "",
@@ -11609,7 +11609,7 @@
     },
     {
       "cpo": "Ionity Passport",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,45 €",
       "min_load": "",
@@ -11630,7 +11630,7 @@
     },
     {
       "cpo": "Ionity - Audi",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,31 €",
       "min_load": "",
@@ -11651,7 +11651,7 @@
     },
     {
       "cpo": "Ionity - Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,33 €",
       "min_load": "",
@@ -11672,7 +11672,7 @@
     },
     {
       "cpo": "Ionity - Daimler Benz",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -11693,7 +11693,7 @@
     },
     {
       "cpo": "Ionity - BMW",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,34 €",
       "min_load": "",
@@ -11714,7 +11714,7 @@
     },
     {
       "cpo": "Ionity - Hyundai",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -11735,7 +11735,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -11756,7 +11756,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -11777,7 +11777,7 @@
     },
     {
       "cpo": "Ionity - PASSPORT",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -11798,7 +11798,7 @@
     },
     {
       "cpo": "Ionity - Volvo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -11819,7 +11819,7 @@
     },
     {
       "cpo": "Ionity - We Charge Go",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -11840,7 +11840,7 @@
     },
     {
       "cpo": "Ionity - We Charge Plus",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -11861,7 +11861,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,39 €",
       "min_load": "0",
@@ -11903,7 +11903,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,39 €",
       "min_load": "0",
@@ -11946,7 +11946,7 @@
     {
       "cpo": "Repsol",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,35 €",
       "min_load": "2,42 €",
       "high_fee": "No",
@@ -11966,7 +11966,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,35 €",
       "min_load": "2,42 €",
@@ -12008,7 +12008,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,54 €",
       "min_load": "9,68 €",
@@ -12029,7 +12029,7 @@
     },
     {
       "cpo": "Tesla - DC",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power":"22",
       "cost": "0",
       "min_load": "No",
@@ -12050,7 +12050,7 @@
     },
     {
       "cpo": "Tesla",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,54 €",
       "min_load": "No",
@@ -12071,7 +12071,7 @@
     },
     {
       "cpo": "Tesla Propietarios",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,40 €",
       "min_load": "No",
@@ -12092,7 +12092,7 @@
     },
     {
       "cpo": "Tesla Free SuC",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0",
       "min_load": "No",
@@ -12155,7 +12155,7 @@
     },
     {
       "cpo": "Urbener",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,30 €",
       "min_load": "No",
@@ -12197,7 +12197,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,38 €",
       "min_load": "No",
@@ -12260,7 +12260,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,59 €",
       "min_load": "No",
@@ -12470,11 +12470,32 @@
       "ob":"Reserva: definiendo fecha/hora carga en una semana. Precio: Los precios varian según ubicaciones",
       "type":"Publica"
     },
-    {
+     {
       "cpo": "Acciona Recarga",
-      "category": "Rápida",
-      "power": "50",
-      "cost": "0,41 €",
+      "category": "Semi Rápida",
+      "power": "15-30 DC",
+      "cost": "0,36 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "0,30 €/min",
+      "r_point": "2 a 1,21 c€/kWh",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.acciona.com/#Map"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://recarga.acciona.com/#recarga"
+      },
+      "ob":"Reserva: definiendo fecha/hora carga en una semana. Precio: Los precios varian según ubicaciones",
+      "type":"Publica"
+    },
+      {
+      "cpo": "Acciona Recarga",
+      "category": "Semi Rápida",
+      "power": "43",
+      "cost": "0,36 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -12494,8 +12515,29 @@
     {
       "cpo": "Acciona Recarga",
       "category": "Rápida",
-      "power": "90",
-      "cost": "0,57 €",
+      "power": "50",
+      "cost": "0,43 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "0,30 €/min",
+      "r_point": "2 a 1,21 c€/kWh",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.acciona.com/#Map"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://recarga.acciona.com/#recarga"
+      },
+      "ob":"Reserva: definiendo fecha/hora carga en una semana. Precio: Los precios varian según ubicaciones",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Acciona Recarga",
+      "category": "Ultra Rápida",
+      "power": "120",
+      "cost": "0,54 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -12579,7 +12621,7 @@
       "cpo": "Blaudrive",
       "category": "Semi Rápida",
       "power": "22",
-      "cost": "0",
+      "cost": "0,10€",
       "min_load": "",
       "high_fee": "",
       "month_fee": "",
@@ -12619,7 +12661,7 @@
     },
     {
       "cpo": "BP Pulse",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,69 €",
       "min_load": "",
@@ -12766,7 +12808,7 @@
     },
     {
       "cpo": "Electromaps",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "Variable",
@@ -12850,7 +12892,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,49 €",
       "min_load": "No",
@@ -12871,7 +12913,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "400",
       "cost": "0,69 €",
       "min_load": "No",
@@ -12976,7 +13018,7 @@
     },
     {
       "cpo": "Endesa X sin registro",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "No",
@@ -13039,7 +13081,7 @@
     },
     {
       "cpo": "Endesa X a tu ritmo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,49 €",
       "min_load": "No",
@@ -13102,7 +13144,7 @@
     },
     {
       "cpo": "Endesa X limit JuicePass",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,45 €",
       "min_load": "No",
@@ -13165,7 +13207,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 35",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,28 €",
       "min_load": "No",
@@ -13228,7 +13270,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 200",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,25 €",
       "min_load": "No",
@@ -13355,7 +13397,7 @@
     {
       "cpo": "Estabanell Energia",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -13544,7 +13586,7 @@
     {
       "cpo": "GIC",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
@@ -13608,7 +13650,7 @@
       "cpo": "Iberdrola",
       "category": "Vinculado",
       "power": "3,7",
-      "cost": "0,15 €",
+      "cost": "0,35 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -13622,14 +13664,14 @@
         "name":"Recarga Pública Iberdrola",
         "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
       },
-      "ob":"",
+      "ob":"Cliente: 10% de descuento: 0,32 €",
       "type":"Publica"
     },
     {
       "cpo": "Iberdrola",
       "category": "Convencional",
-      "power": "7",
-      "cost": "0,15 €",
+      "power": "7,4",
+      "cost": "0,35 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -13643,7 +13685,7 @@
         "name":"Recarga Pública Iberdrola",
         "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
       },
-      "ob":"",
+      "ob":"Cliente: 10% de descuento: 0,32 €",
       "type":"Publica"
     },
     {
@@ -13664,7 +13706,7 @@
         "name":"Recarga Pública Iberdrola",
         "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
       },
-      "ob":"",
+      "ob":"Cliente: 10% de descuento: 0,35 €",
       "type":"Publica"
     },
     {
@@ -13685,13 +13727,13 @@
         "name":"Recarga Pública Iberdrola",
         "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
       },
-      "ob":"",
+      "ob":"Cliente: 10% de descuento: 0,41 €",
       "type":"Publica"
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
-      "power": "150",
+      "category": "Ultra Rápida",
+      "power": "200",
       "cost": "0,54 €",
       "min_load": "No",
       "high_fee": "No",
@@ -13706,12 +13748,12 @@
         "name":"Recarga Pública Iberdrola",
         "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
       },
-      "ob":"",
+      "ob":"Cliente: 10% de descuento: 0,49 €",
       "type":"Publica"
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,69 €",
       "min_load": "No",
@@ -13727,12 +13769,12 @@
         "name":"Recarga Pública Iberdrola",
         "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
       },
-      "ob":"",
+       "ob":"Cliente: 10% de descuento: 0,62 €",
       "type":"Publica"
     },
     {
       "cpo": "Ionity Direct",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,65 €",
       "min_load": "",
@@ -13753,7 +13795,7 @@
     },
     {
       "cpo": "Ionity Passport",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,45 €",
       "min_load": "",
@@ -13774,7 +13816,7 @@
     },
     {
       "cpo": "Ionity - Audi",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,31 €",
       "min_load": "",
@@ -13795,7 +13837,7 @@
     },
     {
       "cpo": "Ionity - Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,33 €",
       "min_load": "",
@@ -13816,7 +13858,7 @@
     },
     {
       "cpo": "Ionity - Daimler Benz",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -13837,7 +13879,7 @@
     },
     {
       "cpo": "Ionity - BMW",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,34 €",
       "min_load": "",
@@ -13858,7 +13900,7 @@
     },
     {
       "cpo": "Ionity - Hyundai",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -13879,7 +13921,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -13900,7 +13942,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -13921,7 +13963,7 @@
     },
     {
       "cpo": "Ionity - PASSPORT",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -13942,7 +13984,7 @@
     },
     {
       "cpo": "Ionity - Volvo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -13963,7 +14005,7 @@
     },
     {
       "cpo": "Ionity - We Charge Go",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -13984,7 +14026,7 @@
     },
     {
       "cpo": "Ionity - We Charge Plus",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -14005,7 +14047,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,39 €",
       "min_load": "0",
@@ -14047,7 +14089,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,39 €",
       "min_load": "0",
@@ -14090,7 +14132,7 @@
     {
       "cpo": "Repsol",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,35 €",
       "min_load": "2,42 €",
       "high_fee": "No",
@@ -14110,7 +14152,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,35 €",
       "min_load": "2,42 €",
@@ -14152,7 +14194,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,54 €",
       "min_load": "9,68 €",
@@ -14173,7 +14215,7 @@
     },
     {
       "cpo": "Tesla - DC",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power":"22",
       "cost": "0",
       "min_load": "No",
@@ -14194,7 +14236,7 @@
     },
     {
       "cpo": "Tesla",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,54 €",
       "min_load": "No",
@@ -14215,7 +14257,7 @@
     },
     {
       "cpo": "Tesla Propietarios",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,40 €",
       "min_load": "No",
@@ -14236,7 +14278,7 @@
     },
     {
       "cpo": "Tesla Free SuC",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0",
       "min_load": "No",
@@ -14254,6 +14296,69 @@
       },
       "ob":"",
       "type":"Privada"
+    },
+    {
+      "cpo": "Total Energies",
+      "category": "Semi Rápida",
+      "power":"22",
+      "cost": "0,24 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":""
+      },
+      "app":{
+        "name":"Recarga Pública Total Energies",
+        "url":"https://www.totalenergies.es/es/hogares/vehiculo-electrico/punto-recarga"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Total Energies",
+      "category": "Rápida",
+      "power":"50",
+      "cost": "0,43 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":""
+      },
+      "app":{
+        "name":"Recarga Pública Total Energies",
+        "url":"https://www.totalenergies.es/es/hogares/vehiculo-electrico/punto-recarga"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Total Energies",
+      "category": "Ultra Rápida",
+      "power":"350",
+      "cost": "0,53 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":""
+      },
+      "app":{
+        "name":"Recarga Pública Total Energies",
+        "url":"https://www.totalenergies.es/es/hogares/vehiculo-electrico/punto-recarga"
+      },
+      "ob":"",
+      "type":"Publica"
     },
     {
       "cpo": "Urbener",
@@ -14299,7 +14404,7 @@
     },
     {
       "cpo": "Urbener",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,30 €",
       "min_load": "No",
@@ -14341,7 +14446,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,38 €",
       "min_load": "No",
@@ -14404,7 +14509,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,59 €",
       "min_load": "No",
@@ -14427,7 +14532,7 @@
       "cpo": "Zunder",
       "category": "Semi Rápida",
       "power": "22",
-      "cost": "0,20 €",
+      "cost": "0,42 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -14489,8 +14594,8 @@
     {
       "cpo": "Zunder",
       "category": "Rápida",
-      "power": "90",
-      "cost": "0,58 €",
+      "power": "100",
+      "cost": "0,56 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -14532,7 +14637,7 @@
       "cpo": "Zunder -- sin completar reg.",
       "category": "Ultra Rápida",
       "power": "350",
-      "cost": "0,60 €",
+      "cost": "0,59 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -14614,11 +14719,32 @@
       "ob":"Reserva: definiendo fecha/hora carga en una semana. Precio: Los precios varian según ubicaciones",
       "type":"Publica"
     },
-    {
+     {
       "cpo": "Acciona Recarga",
-      "category": "Rápida",
-      "power": "50",
-      "cost": "0,41 €",
+      "category": "Semi Rápida",
+      "power": "15-30 DC",
+      "cost": "0,36 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "0,30 €/min",
+      "r_point": "2 a 1,21 c€/kWh",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.acciona.com/#Map"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://recarga.acciona.com/#recarga"
+      },
+      "ob":"Reserva: definiendo fecha/hora carga en una semana. Precio: Los precios varian según ubicaciones",
+      "type":"Publica"
+    },
+      {
+      "cpo": "Acciona Recarga",
+      "category": "Semi Rápida",
+      "power": "43",
+      "cost": "0,36 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -14638,8 +14764,29 @@
     {
       "cpo": "Acciona Recarga",
       "category": "Rápida",
-      "power": "90",
-      "cost": "0,57 €",
+      "power": "50",
+      "cost": "0,43 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "0,30 €/min",
+      "r_point": "2 a 1,21 c€/kWh",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://recarga.acciona.com/#Map"
+      },
+      "app":{
+        "name":"Charge & Parking",
+        "url":"https://recarga.acciona.com/#recarga"
+      },
+      "ob":"Reserva: definiendo fecha/hora carga en una semana. Precio: Los precios varian según ubicaciones",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Acciona Recarga",
+      "category": "Ultra Rápida",
+      "power": "120",
+      "cost": "0,54 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -14723,7 +14870,7 @@
       "cpo": "Blaudrive",
       "category": "Semi Rápida",
       "power": "22",
-      "cost": "0",
+      "cost": "0,10€",
       "min_load": "",
       "high_fee": "",
       "month_fee": "",
@@ -14763,7 +14910,7 @@
     },
     {
       "cpo": "BP Pulse",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,69 €",
       "min_load": "",
@@ -14910,7 +15057,7 @@
     },
     {
       "cpo": "Electromaps",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "Variable",
@@ -14994,7 +15141,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,49 €",
       "min_load": "No",
@@ -15015,7 +15162,7 @@
     },
     {
       "cpo": "EMT Madrid Canalejas",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "400",
       "cost": "0,69 €",
       "min_load": "No",
@@ -15120,7 +15267,7 @@
     },
     {
       "cpo": "Endesa X sin registro",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,60 €",
       "min_load": "No",
@@ -15183,7 +15330,7 @@
     },
     {
       "cpo": "Endesa X a tu ritmo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,49 €",
       "min_load": "No",
@@ -15246,7 +15393,7 @@
     },
     {
       "cpo": "Endesa X limit JuicePass",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,45 €",
       "min_load": "No",
@@ -15309,7 +15456,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 35",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,28 €",
       "min_load": "No",
@@ -15372,7 +15519,7 @@
     },
     {
       "cpo": "Endesa X JuicePass 200",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "150",
       "cost": "0,25 €",
       "min_load": "No",
@@ -15499,7 +15646,7 @@
     {
       "cpo": "Estabanell Energia",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0",
       "min_load": "No",
       "high_fee": "No",
@@ -15688,7 +15835,7 @@
     {
       "cpo": "GIC",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,45 €",
       "min_load": "No",
       "high_fee": "No",
@@ -15752,7 +15899,7 @@
       "cpo": "Iberdrola",
       "category": "Vinculado",
       "power": "3,7",
-      "cost": "0,15 €",
+      "cost": "0,35 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -15766,14 +15913,14 @@
         "name":"Recarga Pública Iberdrola",
         "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
       },
-      "ob":"",
+      "ob":"Cliente: 10% de descuento: 0,32 €",
       "type":"Publica"
     },
     {
       "cpo": "Iberdrola",
       "category": "Convencional",
-      "power": "7",
-      "cost": "0,15 €",
+      "power": "7,4",
+      "cost": "0,35 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -15787,7 +15934,7 @@
         "name":"Recarga Pública Iberdrola",
         "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
       },
-      "ob":"",
+      "ob":"Cliente: 10% de descuento: 0,32 €",
       "type":"Publica"
     },
     {
@@ -15808,7 +15955,7 @@
         "name":"Recarga Pública Iberdrola",
         "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
       },
-      "ob":"",
+      "ob":"Cliente: 10% de descuento: 0,35 €",
       "type":"Publica"
     },
     {
@@ -15829,13 +15976,13 @@
         "name":"Recarga Pública Iberdrola",
         "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
       },
-      "ob":"",
+      "ob":"Cliente: 10% de descuento: 0,41 €",
       "type":"Publica"
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
-      "power": "150",
+      "category": "Ultra Rápida",
+      "power": "200",
       "cost": "0,54 €",
       "min_load": "No",
       "high_fee": "No",
@@ -15850,12 +15997,12 @@
         "name":"Recarga Pública Iberdrola",
         "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
       },
-      "ob":"",
+      "ob":"Cliente: 10% de descuento: 0,49 €",
       "type":"Publica"
     },
     {
       "cpo": "Iberdrola",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,69 €",
       "min_load": "No",
@@ -15871,12 +16018,12 @@
         "name":"Recarga Pública Iberdrola",
         "url":"https://www.iberdrola.es/servicios/vehiculo-electrico/punto-recarga"
       },
-      "ob":"",
+       "ob":"Cliente: 10% de descuento: 0,62 €",
       "type":"Publica"
     },
     {
       "cpo": "Ionity Direct",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,65 €",
       "min_load": "",
@@ -15897,7 +16044,7 @@
     },
     {
       "cpo": "Ionity Passport",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,45 €",
       "min_load": "",
@@ -15918,7 +16065,7 @@
     },
     {
       "cpo": "Ionity - Audi",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,31 €",
       "min_load": "",
@@ -15939,7 +16086,7 @@
     },
     {
       "cpo": "Ionity - Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,33 €",
       "min_load": "",
@@ -15960,7 +16107,7 @@
     },
     {
       "cpo": "Ionity - Daimler Benz",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -15981,7 +16128,7 @@
     },
     {
       "cpo": "Ionity - BMW",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,34 €",
       "min_load": "",
@@ -16002,7 +16149,7 @@
     },
     {
       "cpo": "Ionity - Hyundai",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,29 €",
       "min_load": "",
@@ -16023,7 +16170,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -16044,7 +16191,7 @@
     },
     {
       "cpo": "Ionity - Nissan",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -16065,7 +16212,7 @@
     },
     {
       "cpo": "Ionity - PASSPORT",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -16086,7 +16233,7 @@
     },
     {
       "cpo": "Ionity - Volvo",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,35 €",
       "min_load": "",
@@ -16107,7 +16254,7 @@
     },
     {
       "cpo": "Ionity - We Charge Go",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,55 €",
       "min_load": "",
@@ -16128,7 +16275,7 @@
     },
     {
       "cpo": "Ionity - We Charge Plus",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,30 €",
       "min_load": "",
@@ -16149,7 +16296,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,39 €",
       "min_load": "0",
@@ -16191,7 +16338,7 @@
     },
     {
       "cpo": "Porsche",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,39 €",
       "min_load": "0",
@@ -16234,7 +16381,7 @@
     {
       "cpo": "Repsol",
       "category": "Convencional",
-      "power": "7",
+      "power": "7,4",
       "cost": "0,35 €",
       "min_load": "2,42 €",
       "high_fee": "No",
@@ -16254,7 +16401,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,35 €",
       "min_load": "2,42 €",
@@ -16296,7 +16443,7 @@
     },
     {
       "cpo": "Repsol",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "350",
       "cost": "0,54 €",
       "min_load": "9,68 €",
@@ -16317,7 +16464,7 @@
     },
     {
       "cpo": "Tesla - DC",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power":"22",
       "cost": "0",
       "min_load": "No",
@@ -16338,7 +16485,7 @@
     },
     {
       "cpo": "Tesla",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,54 €",
       "min_load": "No",
@@ -16359,7 +16506,7 @@
     },
     {
       "cpo": "Tesla Propietarios",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0,40 €",
       "min_load": "No",
@@ -16380,7 +16527,7 @@
     },
     {
       "cpo": "Tesla Free SuC",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power":"250",
       "cost": "0",
       "min_load": "No",
@@ -16398,6 +16545,69 @@
       },
       "ob":"",
       "type":"Privada"
+    },
+    {
+      "cpo": "Total Energies",
+      "category": "Semi Rápida",
+      "power":"22",
+      "cost": "0,24 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":""
+      },
+      "app":{
+        "name":"Recarga Pública Total Energies",
+        "url":"https://www.totalenergies.es/es/hogares/vehiculo-electrico/punto-recarga"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Total Energies",
+      "category": "Rápida",
+      "power":"50",
+      "cost": "0,43 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":""
+      },
+      "app":{
+        "name":"Recarga Pública Total Energies",
+        "url":"https://www.totalenergies.es/es/hogares/vehiculo-electrico/punto-recarga"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Total Energies",
+      "category": "Ultra Rápida",
+      "power":"350",
+      "cost": "0,53 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":""
+      },
+      "app":{
+        "name":"Recarga Pública Total Energies",
+        "url":"https://www.totalenergies.es/es/hogares/vehiculo-electrico/punto-recarga"
+      },
+      "ob":"",
+      "type":"Publica"
     },
     {
       "cpo": "Urbener",
@@ -16443,7 +16653,7 @@
     },
     {
       "cpo": "Urbener",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,30 €",
       "min_load": "No",
@@ -16485,7 +16695,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Semi rápida",
+      "category": "Semi Rápida",
       "power": "22",
       "cost": "0,38 €",
       "min_load": "No",
@@ -16548,7 +16758,7 @@
     },
     {
       "cpo": "Wenea",
-      "category": "Ultra rápida",
+      "category": "Ultra Rápida",
       "power": "200",
       "cost": "0,59 €",
       "min_load": "No",
@@ -16571,7 +16781,7 @@
       "cpo": "Zunder",
       "category": "Semi Rápida",
       "power": "22",
-      "cost": "0,20 €",
+      "cost": "0,42 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -16592,7 +16802,7 @@
       "cpo": "Zunder",
       "category": "Rápida",
       "power": "50",
-      "cost": "0,39 €",
+      "cost": "0,42 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -16633,8 +16843,8 @@
     {
       "cpo": "Zunder",
       "category": "Rápida",
-      "power": "90",
-      "cost": "0,40 €",
+      "power": "100",
+      "cost": "0,56 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -16655,7 +16865,7 @@
       "cpo": "Zunder",
       "category": "Ultra Rápida",
       "power": "350",
-      "cost": "0,55 €",
+      "cost": "0,58 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -16676,7 +16886,7 @@
       "cpo": "Zunder -- sin completar reg.",
       "category": "Ultra Rápida",
       "power": "350",
-      "cost": "0,60 €",
+      "cost": "0,59 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
