@@ -1,0 +1,160 @@
+{
+    "year":"2023",
+    
+    "Agosto":[
+      {
+        "cpo": "Acciona Recarga",
+        "category": "Semi Rápida",
+        "power": 22,
+        "cost": "0,20 €",
+        "min_load": "No",
+        "high_fee": "No",
+        "month_fee": "No",
+        "overcrowding": "0,30 €/min",
+        "r_point": "2 a 1,21 c€/kWh",
+        "location":{
+          "loc":"Ámbito nacional",
+          "url":"https://recarga.acciona.com/#Map"
+        },
+        "app":{
+          "name":"Charge & Parking",
+          "url":"https://recarga.acciona.com/#recarga"
+        },
+        "ob":"Reserva: definiendo fecha/hora carga en una semana. Precio: Los precios varian según ubicaciones",
+        "type":"Publica"
+      },
+       {
+        "cpo": "Acciona Recarga",
+        "category": "Semi Rápida",
+        "power": 30,
+        "cost": "0,36 €",
+        "min_load": "No",
+        "high_fee": "No",
+        "month_fee": "No",
+        "overcrowding": "0,30 €/min",
+        "r_point": "2 a 1,21 c€/kWh",
+        "location":{
+          "loc":"Ámbito nacional",
+          "url":"https://recarga.acciona.com/#Map"
+        },
+        "app":{
+          "name":"Charge & Parking",
+          "url":"https://recarga.acciona.com/#recarga"
+        },
+        "ob":"Reserva: definiendo fecha/hora carga en una semana. Precio: Los precios varian según ubicaciones",
+        "type":"Publica"
+      },
+        {
+        "cpo": "Acciona Recarga",
+        "category": "Semi Rápida",
+        "power": 43,
+        "cost": "0,36 €",
+        "min_load": "No",
+        "high_fee": "No",
+        "month_fee": "No",
+        "overcrowding": "0,30 €/min",
+        "r_point": "2 a 1,21 c€/kWh",
+        "location":{
+          "loc":"Ámbito nacional",
+          "url":"https://recarga.acciona.com/#Map"
+        },
+        "app":{
+          "name":"Charge & Parking",
+          "url":"https://recarga.acciona.com/#recarga"
+        },
+        "ob":"Reserva: definiendo fecha/hora carga en una semana. Precio: Los precios varian según ubicaciones",
+        "type":"Publica"
+      },
+      {
+        "cpo": "Acciona Recarga",
+        "category": "Rápida",
+        "power": 50,
+        "cost": "0,43 €",
+        "min_load": "No",
+        "high_fee": "No",
+        "month_fee": "No",
+        "overcrowding": "0,30 €/min",
+        "r_point": "2 a 1,21 c€/kWh",
+        "location":{
+          "loc":"Ámbito nacional",
+          "url":"https://recarga.acciona.com/#Map"
+        },
+        "app":{
+          "name":"Charge & Parking",
+          "url":"https://recarga.acciona.com/#recarga"
+        },
+        "ob":"Reserva: definiendo fecha/hora carga en una semana. Precio: Los precios varian según ubicaciones",
+        "type":"Publica"
+      },
+      {
+        "cpo": "Acciona Recarga",
+        "category": "Ultra Rápida",
+        "power": 120,
+        "cost": "0,54 €",
+        "min_load": "No",
+        "high_fee": "No",
+        "month_fee": "No",
+        "overcrowding": "0,30 €/min",
+        "r_point": "2 a 1,21 c€/kWh",
+        "location":{
+          "loc":"Ámbito nacional",
+          "url":"https://recarga.acciona.com/#Map"
+        },
+        "app":{
+          "name":"Charge & Parking",
+          "url":"https://recarga.acciona.com/#recarga"
+        },
+        "ob":"Reserva: definiendo fecha/hora carga en una semana. Precio: Los precios varian según ubicaciones",
+        "type":"Publica"
+      },
+      {
+        "cpo": "Acciona Recarga",
+        "category": "Ultra Rápida",
+        "power": 180,
+        "cost": "0,57 €",
+        "min_load": "No",
+        "high_fee": "No",
+        "month_fee": "No",
+        "overcrowding": "No",
+        "r_point": "0 €",
+        "location":{
+          "loc":"Ámbito nacional",
+          "url":"https://recarga.acciona.com/#Map"
+        },
+        "app":{
+          "name":"Charge & Parking",
+          "url":"https://recarga.acciona.com/#recarga"
+        },
+        "ob":"Reserva: definiendo fecha/hora carga",
+        "type":"Publica"
+      }
+    ],
+
+    "_comment_operator_draft":[
+      {
+        "cpo_temp":[
+          {
+            "cpo": "Ghol",
+            "category": "Semi Rápida",
+            "power": "22",
+            "cost": "0,50 €",
+            "min_load": "No",
+            "high_fee": "No",
+            "month_fee": "No",
+            "overcrowding": "",
+            "r_point": "",
+            "location":{
+              "loc":"Alicante",
+              "url":"https://www.electromaps.com/mapa/p/112061"
+            },
+            "app":{
+              "name":"--",
+              "url":"#ni"
+            },
+            "ob":"",
+            "type":"Publica"}
+          ]
+      }
+    ]
+  }
+  
