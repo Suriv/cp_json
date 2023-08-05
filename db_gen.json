@@ -12473,7 +12473,7 @@
      {
       "cpo": "Acciona Recarga",
       "category": "Semi Rápida",
-      "power": "15-30 DC",
+      "power": "15-30",
       "cost": "0,36 €",
       "min_load": "No",
       "high_fee": "No",
@@ -14722,7 +14722,7 @@
      {
       "cpo": "Acciona Recarga",
       "category": "Semi Rápida",
-      "power": "15-30 DC",
+      "power": "15-30",
       "cost": "0,36 €",
       "min_load": "No",
       "high_fee": "No",
@@ -14867,10 +14867,31 @@
       "type":"Publica"
     },
     {
-      "cpo": "Blaudrive",
+      "cpo": "Barter Go",
       "category": "Semi Rápida",
       "power": "22",
-      "cost": "0,10€",
+      "cost": "0,35€",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Barter Go",
+        "url":"https://www.barterenergy.es/carga-coche-electrico-energia-solar/"
+      },
+      "ob":"Según PdR",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Barter Go",
+      "category": "Rápida",
+      "power": "50",
+      "cost": "0,42€",
       "min_load": "",
       "high_fee": "",
       "month_fee": "",
@@ -14884,14 +14905,14 @@
         "name":"Go Veyond",
         "url":"https://play.google.com/store/apps/details?id=com.goveyond.cp.app"
       },
-      "ob":"Según PdR",
+      "ob":"0,10€-0,25 €",
       "type":"Publica"
     },
     {
-      "cpo": "Blaudrive",
-      "category": "Rápida",
-      "power": "50",
-      "cost": "0,25 €",
+      "cpo": "Barter Go",
+      "category": "Ultra Rápida",
+      "power": "180",
+      "cost": "0,54€",
       "min_load": "",
       "high_fee": "",
       "month_fee": "",
@@ -14925,6 +14946,90 @@
       "app":{
         "name":"Pago con tarjeta",
         "url":""
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Cable Energia",
+      "category": "Semi Rápida",
+      "power": "22",
+      "cost": "0,35€",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Cable Energía",
+        "url":"https://cablenergia.com/carga-de-vehiculos-electricos/"
+      },
+      "ob":"Según PdR",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Cable Energia",
+      "category": "Rápida",
+      "power": "50",
+      "cost": "0,48€",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Cable Energía",
+        "url":"https://cablenergia.com/carga-de-vehiculos-electricos/"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Cable Energia",
+      "category": "Ultra Rápida",
+      "power": "100",
+      "cost": "0,58€",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Cable Energía",
+        "url":"https://cablenergia.com/carga-de-vehiculos-electricos/"
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Cepsa",
+      "category": "Ultra Rápida",
+      "power": "150",
+      "cost": "0,60 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://cercadeti.cepsa.es/puntos-recarga-electrica"
+      },
+      "app":{
+        "name":"Cepsa Gow",
+        "url":"https://uqr.to/cepsagowapp"
       },
       "ob":"",
       "type":"Publica"
@@ -14990,6 +15095,48 @@
         "url":"https://edpmoveon.com/home/appdownload.php"
       },
       "ob":"Se entenderá que un vehículo no demanda energía cuando su consumo durante 10 minutos no supere 250Wh.",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Electrico.es",
+      "category": "Semi Rápida",
+      "power": "22",
+      "cost": "0,35€",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Electrico.es",
+        "url":"https://electrico.es/"
+      },
+      "ob":"Según PdR",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Electrico.es",
+      "category": "Rápida",
+      "power": "60",
+      "cost": "0,45€",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Electrico.es",
+        "url":"https://electrico.es/"
+      },
+      "ob":"",
       "type":"Publica"
     },
     {
@@ -16844,7 +16991,7 @@
       "cpo": "Zunder",
       "category": "Rápida",
       "power": "100",
-      "cost": "0,56 €",
+      "cost": "0,58 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -16886,7 +17033,7 @@
       "cpo": "Zunder -- sin completar reg.",
       "category": "Ultra Rápida",
       "power": "350",
-      "cost": "0,59 €",
+      "cost": "0,60 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
