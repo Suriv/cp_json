@@ -12473,7 +12473,7 @@
      {
       "cpo": "Acciona Recarga",
       "category": "Semi Rápida",
-      "power": "15-30",
+      "power": "30",
       "cost": "0,36 €",
       "min_load": "No",
       "high_fee": "No",
@@ -14722,7 +14722,7 @@
      {
       "cpo": "Acciona Recarga",
       "category": "Semi Rápida",
-      "power": "15-30",
+      "power": "30",
       "cost": "0,36 €",
       "min_load": "No",
       "high_fee": "No",
