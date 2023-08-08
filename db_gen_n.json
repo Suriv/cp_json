@@ -290,7 +290,7 @@
             {
               "cpo": "Fenie Energia",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0",
               "min_load": "No",
               "high_fee": "No",
@@ -358,7 +358,7 @@
             {
               "cpo": "GIC",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,45 €",
               "min_load": "No",
               "high_fee": "No",
@@ -426,7 +426,7 @@
             {
               "cpo": "Iberdrola",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,15 €",
               "min_load": "No",
               "high_fee": "No",
@@ -647,7 +647,7 @@
             {
               "cpo": "Repsol",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,35 €",
               "min_load": "2,42 €",
               "high_fee": "2,00 €",
@@ -766,7 +766,7 @@
             {
               "cpo": "Urbener",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,20 €",
               "min_load": "No",
               "high_fee": "0,00 €",
@@ -1237,7 +1237,7 @@
             {
               "cpo": "Fenie Energia",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0",
               "min_load": "No",
               "high_fee": "No",
@@ -1300,7 +1300,7 @@
             {
               "cpo": "GIC",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,45 €",
               "min_load": "No",
               "high_fee": "No",
@@ -1384,7 +1384,7 @@
             {
               "cpo": "Iberdrola",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,15 €",
               "min_load": "No",
               "high_fee": "No",
@@ -1649,7 +1649,7 @@
             {
               "cpo": "Repsol",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,35 €",
               "min_load": "2,42 €",
               "high_fee": "2,00 €",
@@ -2257,7 +2257,7 @@
             {
               "cpo": "Fenie Energia",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0",
               "min_load": "No",
               "high_fee": "No",
@@ -2320,7 +2320,7 @@
             {
               "cpo": "GIC",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,45 €",
               "min_load": "No",
               "high_fee": "No",
@@ -2404,7 +2404,7 @@
             {
               "cpo": "Iberdrola",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,15 €",
               "min_load": "No",
               "high_fee": "No",
@@ -2669,7 +2669,7 @@
             {
               "cpo": "Repsol",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,35 €",
               "min_load": "2,42 €",
               "high_fee": "2,00 €",
@@ -3277,7 +3277,7 @@
             {
               "cpo": "Fenie Energia",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0",
               "min_load": "No",
               "high_fee": "No",
@@ -3340,7 +3340,7 @@
             {
               "cpo": "GIC",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,45 €",
               "min_load": "No",
               "high_fee": "No",
@@ -3424,7 +3424,7 @@
             {
               "cpo": "Iberdrola",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,15 €",
               "min_load": "No",
               "high_fee": "No",
@@ -3689,7 +3689,7 @@
             {
               "cpo": "Repsol",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,35 €",
               "min_load": "2,42 €",
               "high_fee": "2,00 €",
@@ -4403,7 +4403,7 @@
             {
               "cpo": "Fenie Energia",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0",
               "min_load": "No",
               "high_fee": "No",
@@ -4466,7 +4466,7 @@
             {
               "cpo": "GIC",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,45 €",
               "min_load": "No",
               "high_fee": "No",
@@ -4550,7 +4550,7 @@
             {
               "cpo": "Iberdrola",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,15 €",
               "min_load": "No",
               "high_fee": "No",
@@ -4815,7 +4815,7 @@
             {
               "cpo": "Repsol",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,35 €",
               "min_load": "2,42 €",
               "high_fee": "2,00 €",
@@ -5550,7 +5550,7 @@
             {
               "cpo": "Fenie Energia",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0",
               "min_load": "No",
               "high_fee": "No",
@@ -5613,7 +5613,7 @@
             {
               "cpo": "GIC",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,45 €",
               "min_load": "No",
               "high_fee": "No",
@@ -5697,7 +5697,7 @@
             {
               "cpo": "Iberdrola",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,15 €",
               "min_load": "No",
               "high_fee": "No",
@@ -5970,7 +5970,7 @@
             {
               "cpo": "Repsol",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,35 €",
               "min_load": "2,42 €",
               "high_fee": "2,00 €",
@@ -6792,7 +6792,7 @@
             {
               "cpo": "Fenie Energia",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0",
               "min_load": "No",
               "high_fee": "No",
@@ -6855,7 +6855,7 @@
             {
               "cpo": "GIC",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,45 €",
               "min_load": "No",
               "high_fee": "No",
@@ -6939,7 +6939,7 @@
             {
               "cpo": "Iberdrola",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,15 €",
               "min_load": "No",
               "high_fee": "No",
@@ -7212,7 +7212,7 @@
             {
               "cpo": "Repsol",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,35 €",
               "min_load": "2,42 €",
               "high_fee": "2,00 €",
@@ -8034,7 +8034,7 @@
             {
               "cpo": "Fenie Energia",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0",
               "min_load": "No",
               "high_fee": "No",
@@ -8097,7 +8097,7 @@
             {
               "cpo": "GIC",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,45 €",
               "min_load": "No",
               "high_fee": "No",
@@ -8181,7 +8181,7 @@
             {
               "cpo": "Iberdrola",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,15 €",
               "min_load": "No",
               "high_fee": "No",
@@ -8454,7 +8454,7 @@
             {
               "cpo": "Repsol",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,35 €",
               "min_load": "2,42 €",
               "high_fee": "2,00 €",
@@ -9276,7 +9276,7 @@
             {
               "cpo": "Fenie Energia",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0",
               "min_load": "No",
               "high_fee": "No",
@@ -9339,7 +9339,7 @@
             {
               "cpo": "GIC",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,45 €",
               "min_load": "No",
               "high_fee": "No",
@@ -9423,7 +9423,7 @@
             {
               "cpo": "Iberdrola",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,15 €",
               "min_load": "No",
               "high_fee": "No",
@@ -9696,7 +9696,7 @@
             {
               "cpo": "Repsol",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,35 €",
               "min_load": "2,42 €",
               "high_fee": "2,00 €",
@@ -10518,7 +10518,7 @@
             {
               "cpo": "Fenie Energia",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0",
               "min_load": "No",
               "high_fee": "No",
@@ -10581,7 +10581,7 @@
             {
               "cpo": "GIC",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,45 €",
               "min_load": "No",
               "high_fee": "No",
@@ -10665,7 +10665,7 @@
             {
               "cpo": "Iberdrola",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,15 €",
               "min_load": "No",
               "high_fee": "No",
@@ -10938,7 +10938,7 @@
             {
               "cpo": "Repsol",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,35 €",
               "min_load": "2,42 €",
               "high_fee": "2,00 €",
@@ -11781,7 +11781,7 @@
             {
               "cpo": "Fenie Energia",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0",
               "min_load": "No",
               "high_fee": "No",
@@ -11844,7 +11844,7 @@
             {
               "cpo": "GIC",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,45 €",
               "min_load": "No",
               "high_fee": "No",
@@ -11928,7 +11928,7 @@
             {
               "cpo": "Iberdrola",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,15 €",
               "min_load": "No",
               "high_fee": "No",
@@ -12201,7 +12201,7 @@
             {
               "cpo": "Repsol",
               "category": "Vinculado",
-              "power": "3,7",
+              "power": 3.7,
               "cost": "0,35 €",
               "min_load": "2,42 €",
               "high_fee": "2,00 €",
@@ -12882,7 +12882,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -12924,7 +12924,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -13134,7 +13134,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -13197,7 +13197,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -13281,7 +13281,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -13554,7 +13554,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "2,00 €",
@@ -14229,7 +14229,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -14271,7 +14271,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -14481,7 +14481,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -14544,7 +14544,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -14628,7 +14628,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -14901,7 +14901,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "2,00 €",
@@ -15576,7 +15576,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -15618,7 +15618,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -15828,7 +15828,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -15891,7 +15891,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -15975,7 +15975,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -16248,7 +16248,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "2,00 €",
@@ -16922,7 +16922,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -16964,7 +16964,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -17174,7 +17174,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -17237,7 +17237,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -17321,7 +17321,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -17594,7 +17594,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "2,00 €",
@@ -18269,7 +18269,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -18311,7 +18311,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -18542,7 +18542,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -18605,7 +18605,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -18689,7 +18689,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -18983,7 +18983,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "2,00 €",
@@ -19658,7 +19658,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -19700,7 +19700,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -19931,7 +19931,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -19994,7 +19994,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -20078,7 +20078,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -20435,7 +20435,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "2,00 €",
@@ -21131,7 +21131,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -21173,7 +21173,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -21425,7 +21425,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -21488,7 +21488,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -21572,7 +21572,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -21929,7 +21929,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "2,00 €",
@@ -22625,7 +22625,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -22667,7 +22667,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -22919,7 +22919,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -22982,7 +22982,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -23066,7 +23066,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -23423,7 +23423,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "2,00 €",
@@ -24119,7 +24119,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -24161,7 +24161,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -24413,7 +24413,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -24476,7 +24476,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -24560,7 +24560,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -24917,7 +24917,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "2,00 €",
@@ -25613,7 +25613,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -25655,7 +25655,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -25907,7 +25907,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -25970,7 +25970,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -26054,7 +26054,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -26411,7 +26411,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "No",
@@ -27191,7 +27191,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -27233,7 +27233,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -27485,7 +27485,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -27548,7 +27548,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -27632,7 +27632,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -27989,7 +27989,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "No",
@@ -28769,7 +28769,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -28811,7 +28811,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -29063,7 +29063,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -29126,7 +29126,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -29210,7 +29210,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -29567,7 +29567,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "No",
@@ -30311,7 +30311,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -30353,7 +30353,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -30647,7 +30647,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -30710,7 +30710,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -30794,7 +30794,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -31151,7 +31151,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "No",
@@ -31889,7 +31889,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -31931,7 +31931,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -32225,7 +32225,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -32288,7 +32288,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -32372,7 +32372,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -32771,7 +32771,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "No",
@@ -33509,7 +33509,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -33551,7 +33551,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -33845,7 +33845,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -33908,7 +33908,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -33992,7 +33992,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -34433,7 +34433,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "No",
@@ -35171,7 +35171,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -35213,7 +35213,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -35507,7 +35507,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -35570,7 +35570,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -35654,7 +35654,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -36095,7 +36095,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "No",
@@ -36833,7 +36833,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -36875,7 +36875,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -37001,7 +37001,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -37064,7 +37064,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -37148,7 +37148,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -37589,7 +37589,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "No",
@@ -38494,7 +38494,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -38536,7 +38536,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -38662,7 +38662,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -38725,7 +38725,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -38809,7 +38809,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -39250,7 +39250,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "No",
@@ -40176,7 +40176,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -40218,7 +40218,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -40344,7 +40344,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -40407,7 +40407,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,47 €",
             "min_load": "No",
             "high_fee": "No",
@@ -40491,7 +40491,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -40932,7 +40932,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "No",
@@ -42005,7 +42005,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -42047,7 +42047,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -42089,7 +42089,7 @@
           {
             "cpo": "Estabanell Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -42215,7 +42215,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -42278,7 +42278,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -42362,7 +42362,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -42803,7 +42803,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "No",
@@ -43876,7 +43876,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -43918,7 +43918,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -43960,7 +43960,7 @@
           {
             "cpo": "Estabanell Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -44086,7 +44086,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -44149,7 +44149,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -44233,7 +44233,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -44674,7 +44674,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "No",
@@ -45726,7 +45726,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -45768,7 +45768,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,27 €",
             "min_load": "0,20 €",
             "high_fee": "2,50 €",
@@ -45810,7 +45810,7 @@
           {
             "cpo": "Estabanell Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -45936,7 +45936,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -45999,7 +45999,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -46083,7 +46083,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -46524,7 +46524,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "No",
@@ -47766,7 +47766,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -47808,7 +47808,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,27 €",
             "min_load": "0,20 €",
             "high_fee": "2,50 €",
@@ -47850,7 +47850,7 @@
           {
             "cpo": "Estabanell Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -47976,7 +47976,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -48039,7 +48039,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -48123,7 +48123,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -48564,7 +48564,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "No",
@@ -49785,7 +49785,7 @@
           {
             "cpo": "Endolla Barcelona Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,40 €",
             "min_load": "0,35€",
             "high_fee": "",
@@ -49827,7 +49827,7 @@
           {
             "cpo": "Endolla Barcelona BSM Moto",
             "category": "Vinculado",
-            "power": "3,2",
+            "power": 3.7,
             "cost": "0,27 €",
             "min_load": "0,20 €",
             "high_fee": "2,50 €",
@@ -49869,7 +49869,7 @@
           {
             "cpo": "Estabanell Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -49995,7 +49995,7 @@
           {
             "cpo": "Fenie Energia",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0",
             "min_load": "No",
             "high_fee": "No",
@@ -50058,7 +50058,7 @@
           {
             "cpo": "GIC",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,45 €",
             "min_load": "No",
             "high_fee": "No",
@@ -50142,7 +50142,7 @@
           {
             "cpo": "Iberdrola",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,15 €",
             "min_load": "No",
             "high_fee": "No",
@@ -50583,7 +50583,7 @@
           {
             "cpo": "Repsol",
             "category": "Vinculado",
-            "power": "3,7",
+            "power": 3.7,
             "cost": "0,35 €",
             "min_load": "2,42 €",
             "high_fee": "No",
