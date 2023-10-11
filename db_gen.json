@@ -19345,27 +19345,6 @@
       "cpo": "Zunder",
       "category": "Rápida",
       "power": 50,
-      "cost": "0,42 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "0,5€/min, Tarifa estacionamiento: Si la demanda de la ubicación está al 50%, el coste de estacionamiento será de 1€ el minuto. Si la ubicación tiene una demanda del 100%, el coste minuto será de 2€.",
-      "r_point": "No",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://www.zunder.com/nuestra-red-de-carga/"
-      },
-      "app":{
-        "name":"Zunder",
-        "url":"https://www.zunder.com/#app"
-      },
-      "ob":"Nissan 50% de descuento https://www.zunder.com/descuento-50-nissan-easycharger-como-activarlo/",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Zunder -- sin completar reg. ",
-      "category": "Rápida",
-      "power": 50,
       "cost": "0,44 €",
       "min_load": "No",
       "high_fee": "No",
@@ -19387,7 +19366,7 @@
       "cpo": "Zunder",
       "category": "Rápida",
       "power": 100,
-      "cost": "0,58 €",
+      "cost": "0,60 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -19408,27 +19387,6 @@
       "cpo": "Zunder",
       "category": "Ultra Rápida",
       "power": 350,
-      "cost": "0,58 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "0,5€/min, Tarifa estacionamiento: Si la demanda de la ubicación está al 50%, el coste de estacionamiento será de 1€ el minuto. Si la ubicación tiene una demanda del 100%, el coste minuto será de 2€.",
-      "r_point": "No",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://www.zunder.com/nuestra-red-de-carga/"
-      },
-      "app":{
-        "name":"Zunder",
-        "url":"https://www.zunder.com/#app"
-      },
-      "ob":"Nissan 50% de descuento https://www.zunder.com/descuento-50-nissan-easycharger-como-activarlo/",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Zunder -- sin completar reg.",
-      "category": "Ultra Rápida",
-      "power": 350,
       "cost": "0,60 €",
       "min_load": "No",
       "high_fee": "No",
@@ -19446,6 +19404,7 @@
       "ob":"Nissan 50% de descuento https://www.zunder.com/descuento-50-nissan-easycharger-como-activarlo/",
       "type":"Publica"
     },
+    
     {
       "cpo": "Zunder -- Suscripción Rápida.",
       "category": "Rápida",
@@ -19471,7 +19430,7 @@
       "cpo": "Zunder -- Suscripción Ultra Rápida",
       "category": "Ultra Rápida",
       "power": 350,
-      "cost": "0.45 €",
+      "cost": "0,58 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -19830,7 +19789,7 @@
       "cpo": "EDP Energías de Portugal",
       "category": "Convencional",
       "power": 7.4,
-      "cost": "0,39 €",
+      "cost": "0,38 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -19851,7 +19810,7 @@
       "cpo": "EDP Energías de Portugal",
       "category": "Semi Rápida",
       "power": 22,
-      "cost": "0,39 €",
+      "cost": "0,38 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -19872,7 +19831,28 @@
       "cpo": "EDP Energías de Portugal",
       "category": "Rápida",
       "power": 50,
-      "cost": "0,45 €",
+      "cost": "0,48 €",
+      "min_load": "No",
+      "high_fee": "No",
+      "month_fee": "No",
+      "overcrowding": "0,10 €/min",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://www.electromaps.com/cpo/214-edp-comercializadora-sau"
+      },
+      "app":{
+        "name":"Moveon",
+        "url":"https://edpmoveon.com/home/appdownload.php"
+      },
+      "ob":"Se entenderá que un vehículo no demanda energía cuando su consumo durante 10 minutos no supere 250Wh.",
+      "type":"Publica"
+    },
+    {
+      "cpo": "EDP Energías de Portugal",
+      "category": "Rápida",
+      "power": 100,
+      "cost": "0,58 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -21724,7 +21704,7 @@
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
-      "overcrowding": "1 €/min",
+      "overcrowding": "0,5 - 2 €/min",
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
@@ -21741,28 +21721,7 @@
       "cpo": "Zunder",
       "category": "Rápida",
       "power": 50,
-      "cost": "0,42 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "0,5€/min, Tarifa estacionamiento: Si la demanda de la ubicación está al 50%, el coste de estacionamiento será de 1€ el minuto. Si la ubicación tiene una demanda del 100%, el coste minuto será de 2€.",
-      "r_point": "No",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://www.zunder.com/nuestra-red-de-carga/"
-      },
-      "app":{
-        "name":"Zunder",
-        "url":"https://www.zunder.com/#app"
-      },
-      "ob":"Nissan 50% de descuento https://www.zunder.com/descuento-50-nissan-easycharger-como-activarlo/",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Zunder -- sin completar reg. ",
-      "category": "Rápida",
-      "power": 50,
-      "cost": "0,44 €",
+      "cost": "0,55 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -21783,7 +21742,7 @@
       "cpo": "Zunder",
       "category": "Rápida",
       "power": 100,
-      "cost": "0,58 €",
+      "cost": "0,55 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
@@ -21804,28 +21763,7 @@
       "cpo": "Zunder",
       "category": "Ultra Rápida",
       "power": 350,
-      "cost": "0,58 €",
-      "min_load": "No",
-      "high_fee": "No",
-      "month_fee": "No",
-      "overcrowding": "0,5€/min, Tarifa estacionamiento: Si la demanda de la ubicación está al 50%, el coste de estacionamiento será de 1€ el minuto. Si la ubicación tiene una demanda del 100%, el coste minuto será de 2€.",
-      "r_point": "No",
-      "location":{
-        "loc":"Ámbito nacional",
-        "url":"https://www.zunder.com/nuestra-red-de-carga/"
-      },
-      "app":{
-        "name":"Zunder",
-        "url":"https://www.zunder.com/#app"
-      },
-      "ob":"Nissan 50% de descuento https://www.zunder.com/descuento-50-nissan-easycharger-como-activarlo/",
-      "type":"Publica"
-    },
-    {
-      "cpo": "Zunder -- sin completar reg.",
-      "category": "Ultra Rápida",
-      "power": 350,
-      "cost": "0,60 €",
+      "cost": "0,55 €",
       "min_load": "No",
       "high_fee": "No",
       "month_fee": "No",
