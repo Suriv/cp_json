@@ -24662,6 +24662,27 @@
       "type":"Publica"
     },
     {
+      "cpo": "Electra",
+      "category": "Rápida",
+      "power": 50,
+      "cost": "0,49€",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"#ni"
+      },
+      "app":{
+        "name":"Electra - Charging hubs",
+        "url":"https://www.go-electra.com/es/"
+      },
+      "ob":"No operativo",
+      "type":"Publica"
+    },
+    {
       "cpo": "Electromaps",
       "category": "Convencional",
       "power": 7.4,
