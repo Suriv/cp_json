@@ -129,13 +129,13 @@
     },
     {
       "cpo":  "AMB Area Metropolitana de Barcelona",
-      "category": "Semi Rápida",
-      "power": 22,
-      "cost": "0",
+      "category": "Convencional",
+      "power": 7.4,
+      "cost": "0,24",
       "min_load": "",
       "high_fee": "",
       "month_fee": "",
-      "overcrowding": "Multa",
+      "overcrowding": "0,012€/min",
       "r_point": "No",
       "location":{
         "loc":"Barcelona",
@@ -145,18 +145,39 @@
         "name":"Smou",
         "url":"https://www.smou.cat/"
       },
-      "ob":"Incluye a la red Endolla Barcelola",
+      "ob":"Incluye a la red Endolla Barcelola, Un tiempo máximo de 120 minutos, pasado se cobrará aparte de la carga, se añade el cobro por minuto",
+      "type":"Publica"
+    },
+    {
+      "cpo":  "AMB Area Metropolitana de Barcelona",
+      "category": "Semi Rápida",
+      "power": 40,
+      "cost": "0,28",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "0,104 €/min",
+      "r_point": "No",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://es.chargemap.com/networks/amb"
+      },
+      "app":{
+        "name":"Smou",
+        "url":"https://www.smou.cat/"
+      },
+      "ob":"Incluye a la red Endolla Barcelola, Un tiempo máximo de 60 minutos, pasado se cobrará aparte de la carga, se añade el cobro por minuto",
       "type":"Publica"
     },
     {
       "cpo":  "AMB Area Metropolitana de Barcelona",
       "category": "Rápida",
-      "power": 50,
-      "cost": "0",
+      "power": 100,
+      "cost": "0,30",
       "min_load": "",
       "high_fee": "",
       "month_fee": "",
-      "overcrowding": "Multa",
+      "overcrowding": "0,399 €/min",
       "r_point": "No",
       "location":{
         "loc":"Barcelona",
@@ -166,7 +187,28 @@
         "name":"Smou",
         "url":"https://www.smou.cat/"
       },
-      "ob":"Incluye a la red Endolla Barcelola",
+      "ob":"Incluye a la red Endolla Barcelola, Un tiempo máximo de 30 minutos, pasado se cobrará aparte de la carga, se añade el cobro por minuto",
+      "type":"Publica"
+    },
+    {
+      "cpo":  "AMB Area Metropolitana de Barcelona",
+      "category": "Ultra Rápida",
+      "power": 150,
+      "cost": "0,36",
+      "min_load": "",
+      "high_fee": "",
+      "month_fee": "",
+      "overcrowding": "0,720 €/min",
+      "r_point": "No",
+      "location":{
+        "loc":"Barcelona",
+        "url":"https://es.chargemap.com/networks/amb"
+      },
+      "app":{
+        "name":"Smou",
+        "url":"https://www.smou.cat/"
+      },
+      "ob":"Incluye a la red Endolla Barcelola, Un tiempo máximo de 30 minutos, pasado se cobrará aparte de la carga, se añade el cobro por minuto",
       "type":"Publica"
     },
     {
