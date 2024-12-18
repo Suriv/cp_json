@@ -28563,6 +28563,132 @@
       "type":"Publica"
     },
     {
+      "cpo": "Eranovum",
+      "category": "Convencional",
+      "power": 7.4,
+      "cost": "0,32 €",
+      "min_load": "",
+      "high_fee": " No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://eranovum.energy/es/nuestra-red/"
+      },
+      "app":{
+        "name":"Eranovum",
+        "url":""
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Eranovum",
+      "category": "Semi Rápida",
+      "power": 22,
+      "cost": "0,32 €",
+      "min_load": "",
+      "high_fee": " No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://eranovum.energy/es/nuestra-red/"
+      },
+      "app":{
+        "name":"Eranovum",
+        "url":""
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Eranovum",
+      "category": "Semi Rápida",
+      "power": 30,
+      "cost": "0,37 €",
+      "min_load": "",
+      "high_fee": " No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://eranovum.energy/es/nuestra-red/"
+      },
+      "app":{
+        "name":"Eranovum",
+        "url":""
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Eranovum",
+      "category": "Rápida",
+      "power": 60,
+      "cost": "0,40 €",
+      "min_load": "",
+      "high_fee": " No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://eranovum.energy/es/nuestra-red/"
+      },
+      "app":{
+        "name":"Eranovum",
+        "url":""
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Eranovum",
+      "category": "Ultra Rápida",
+      "power": 120,
+      "cost": "0,43 €",
+      "min_load": "",
+      "high_fee": " No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://eranovum.energy/es/nuestra-red/"
+      },
+      "app":{
+        "name":"Eranovum",
+        "url":""
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
+      "cpo": "Eranovum",
+      "category": "Ultra Rápida",
+      "power": 350,
+      "cost": "0,45 €",
+      "min_load": "",
+      "high_fee": " No",
+      "month_fee": "No",
+      "overcrowding": "No",
+      "r_point": "No",
+      "location":{
+        "loc":"Ámbito nacional",
+        "url":"https://eranovum.energy/es/nuestra-red/"
+      },
+      "app":{
+        "name":"Eranovum",
+        "url":""
+      },
+      "ob":"",
+      "type":"Publica"
+    },
+    {
       "cpo": "Estabanell Energia",
       "category": "Vinculado",
       "power": 3.7,
