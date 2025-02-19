@@ -223,7 +223,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Barter Go",
@@ -244,7 +244,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Go Veyond",
@@ -265,7 +265,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Go Veyond",
@@ -307,7 +307,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Cable Energía",
@@ -328,7 +328,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Cable Energía",
@@ -349,7 +349,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Cable Energía",
@@ -475,7 +475,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Electrico.es",
@@ -496,7 +496,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Electrico.es",
@@ -517,7 +517,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Electra - Charging hubs",
@@ -2871,7 +2871,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Barter Go",
@@ -2892,7 +2892,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Go Veyond",
@@ -2913,7 +2913,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Go Veyond",
@@ -2955,7 +2955,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Cable Energía",
@@ -2976,7 +2976,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Cable Energía",
@@ -2997,7 +2997,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Cable Energía",
@@ -3123,7 +3123,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Electrico.es",
@@ -3144,7 +3144,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Electrico.es",
@@ -3165,7 +3165,7 @@
       "r_point": "No",
       "location":{
         "loc":"Ámbito nacional",
-        "url":"#ni"
+       "url":"N/A"
       },
       "app":{
         "name":"Electra - Charging hubs",
@@ -5297,34 +5297,34 @@
     }
   ],
   "Marzo":[{
-    "nodata": "no data"
+    "nodata": "N/A"
   }],
   "Abril":[{
-    "nodata": "no data"
+    "nodata": "N/A"
   }],
   "Mayo":[{
-    "nodata": "no data"
+    "nodata": "N/A"
   }],
   "Junio":[{
-    "nodata": "no data"
+    "nodata": "N/A"
   }],
   "Julio":[{
-    "nodata": "no data"
+    "nodata": "N/A"
   }],
   "Agosto":[{
-    "nodata": "no data"
+    "nodata": "N/A"
   }],
   "Septiembre":[{
-    "nodata": "no data"
+    "nodata": "N/A"
   }],
   "Octubre":[{
-    "nodata": "no data"
+    "nodata": "N/A"
   }],
   "Noviembre":[{
-    "nodata": "no data"
+    "nodata": "N/A"
   }],
   "Diciembre":[{
-    "nodata": "no data"
+    "nodata": "N/A"
   }],
   "_comment_operator_draft":[
     {
@@ -5345,7 +5345,7 @@
           },
           "app":{
             "name":"--",
-            "url":"#ni"
+           "url":"N/A"
           },
           "ob":"",
           "type":"Publica"}
