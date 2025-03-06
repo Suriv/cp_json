@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "pending-funds": {
+      "history": {
+        "09/12/2024": {
+          "budget": "45.887.946"
+        }
+      }
+    },
+    "pending_budget_currency": "€",
+    "last_update": "9/12/2024"
+  },
+  "data": [
+    {
+      "region": "Andalucía",
+      "total_budget": "117.137.833",
+      "history": {
+        "09/12/2024": {
+          "last_data_update": "06/12/2024",
+          "available_budget": "9.571.087",
+          "requests_received": "139.891.254",
+          "requests_percent_budget": "119 %",
+          "granted_amount": "94.586.833",
+          "granted_amount_currency": "€",
+          "granted_percent_requests": "68 %",
+          "granted_percent_budget": "81 %"
+        }
+      }
+    },
+    {
+      "region": "Aragón",
+      "total_budget": "44.631.480",
+      "history": {
+        "09/12/2024": {
+          "last_data_update": "04/12/2024",
+          "available_budget": "14.609.599",
+          "requests_received": "44.099.975",
+          "requests_percent_budget": "99 %",
+          "granted_amount": "22.768.074",
+          "granted_amount_currency": "€",
+          "granted_percent_requests": "52 %",
+          "granted_percent_budget": "51 %"
+        }
+      }
+    },
+    {
+      "region": "Canarias",
+      "last_data_update": "04/12/2024",
+      "total_budget": "71.686.873",
+      "available_budget": "11.717.341",
+      "requests_received": "74.076.739",
+      "requests_percent_budget": "103 %",
+      "granted_amount": "39.758.164",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "54 %",
+      "granted_percent_budget": "55 %"
+    },
+    {
+      "region": "Cantabria",
+      "last_data_update": "15/11/2024",
+      "total_budget": "13.463.764",
+      "available_budget": "0",
+      "requests_received": "15.997.606",
+      "requests_percent_budget": "119 %",
+      "granted_amount": "7.308.786",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "46 %",
+      "granted_percent_budget": "54 %"
+    },
+    {
+      "region": "Castilla- La Mancha",
+      "last_data_update": "19/11/2024",
+      "total_budget": "52.152.113",
+      "available_budget": "282.315",
+      "requests_received": "63.399.628",
+      "requests_percent_budget": "122 %",
+      "granted_amount": "20.831.831",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "33 %",
+      "granted_percent_budget": "40 %"
+    },
+    {
+      "region": "Castilla y León",
+      "last_data_update": "05/12/2024",
+      "total_budget": "56.527.288",
+      "available_budget": "0",
+      "requests_received": "66.749.531",
+      "requests_percent_budget": "118 %",
+      "granted_amount": "31.978.949",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "48 %",
+      "granted_percent_budget": "57 %"
+    },
+    {
+      "region": "Cataluña",
+      "last_data_update": "04/12/2024",
+      "total_budget": "299.351.060",
+      "available_budget": "72.240.830",
+      "requests_received": "226.420.716",
+      "requests_percent_budget": "76 %",
+      "granted_amount": "162.509.494",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "72 %",
+      "granted_percent_budget": "54 %"
+    },
+    {
+      "region": "Ciudad Autónoma de Ceuta",
+      "last_data_update": "05/12/2024",
+      "total_budget": "877.805",
+      "available_budget": "248.247",
+      "requests_received": "620.089",
+      "requests_percent_budget": "71 %",
+      "granted_amount": "262.059",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "42 %",
+      "granted_percent_budget": "30 %"
+    },
+    {
+      "region": "Ciudad Autónoma de Melilla",
+      "last_data_update": "13/09/2024",
+      "total_budget": "734.032",
+      "available_budget": "366.411",
+      "requests_received": "367.621",
+      "requests_percent_budget": "50 %",
+      "granted_amount": "293.624",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "80 %",
+      "granted_percent_budget": "40 %"
+    },
+    {
+      "region": "Comunidad de Madrid",
+      "last_data_update": "04/12/2024",
+      "total_budget": "232.275.921",
+      "available_budget": "3.716.143",
+      "requests_received": "255.560.462",
+      "requests_percent_budget": "110 %",
+      "granted_amount": "175.680.881",
+      "granted_percent_requests": "69 %",
+      "granted_percent_budget": "76 %"
+    },
+    {
+      "region": "Comunidad Foral de Navarra",
+      "last_data_update": "04/12/2024",
+      "total_budget": "36.636.049",
+      "available_budget": "5.828.043",
+      "requests_received": "35.871.205",
+      "requests_percent_budget": "98 %",
+      "granted_amount": "21.866.939",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "61 %",
+      "granted_percent_budget": "60 %"
+    },
+    {
+      "region": "Comunitat Valenciana",
+      "last_data_update": "26/11/2024",
+      "total_budget": "123.284.796",
+      "available_budget": "7.995.357",
+      "requests_received": "151.427.297",
+      "requests_percent_budget": "123 %",
+      "granted_amount": "66.724.450",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "44 %",
+      "granted_percent_budget": "54 %"
+    },
+    {
+      "region": "Extremadura",
+      "last_data_update": "05/12/2024",
+      "total_budget": "23.893.081",
+      "available_budget": "9.118.418",
+      "requests_received": "25.532.092",
+      "requests_percent_budget": "107 %",
+      "granted_amount": "7.461.192",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "29 %",
+      "granted_percent_budget": "31 %"
+    },
+    {
+      "region": "Galicia",
+      "last_data_update": "05/12/2024",
+      "total_budget": "50.251.506",
+      "available_budget": "0",
+      "requests_received": "65.291.805",
+      "requests_percent_budget": "130 %",
+      "granted_amount": "42.290.590",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "65 %",
+      "granted_percent_budget": "84 %"
+    },
+    {
+      "region": "Illes Balears",
+      "last_data_update": "05/12/2024",
+      "total_budget": "38.020.856",
+      "available_budget": "0",
+      "requests_received": "51.514.042",
+      "requests_percent_budget": "135 %",
+      "granted_amount": "14.694.425",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "29 %",
+      "granted_percent_budget": "39 %"
+    },
+    {
+      "region": "La Rioja",
+      "last_data_update": "05/12/2024",
+      "total_budget": "6.393.612",
+      "available_budget": "98.479",
+      "requests_received": "9.289.016",
+      "requests_percent_budget": "145 %",
+      "granted_amount": "3.054.528",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "33 %",
+      "granted_percent_budget": "48 %"
+    },
+    {
+      "region": "País Vasco",
+      "last_data_update": "04/12/2024",
+      "total_budget": "78.234.373",
+      "available_budget": "13.508.468",
+      "requests_received": "94.456.607",
+      "requests_percent_budget": "121 %",
+      "granted_amount": "58.599.650",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "62 %",
+      "granted_percent_budget": "75 %"
+    },
+    {
+      "region": "Principado de Asturias",
+      "last_data_update": "04/12/2024",
+      "total_budget": "28.588.130",
+      "available_budget": "4.674.975",
+      "requests_received": "30.649.913",
+      "requests_percent_budget": "107 %",
+      "granted_amount": "6.791.980",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "22 %",
+      "granted_percent_budget": "24 %"
+    },
+    {
+      "region": "Región de Murcia",
+      "last_data_update": "03/12/2024",
+      "total_budget": "27.333.837",
+      "available_budget": "0",
+      "requests_received": "33.323.612",
+      "requests_percent_budget": "122 %",
+      "granted_amount": "3.918.369",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "12 %",
+      "granted_percent_budget": "14 %"
+    },
+    {
+      "region": "Total",
+      "last_data_update": "",
+      "total_budget": "1.301.474.409",
+      "available_budget": "",
+      "requests_received": "1.384.539.210",
+      "requests_percent_budget": "106 %",
+      "granted_amount": "781.380.819",
+      "granted_amount_currency": "€",
+      "granted_percent_requests": "56 %",
+      "granted_percent_budget": "60 %"
+    }
+  ]
+}
