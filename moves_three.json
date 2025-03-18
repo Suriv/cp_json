@@ -608,6 +608,16 @@
           "granted_amount_currency":"€",
           "granted_percent_requests":"22 %",
           "granted_percent_budget":"24 %"
+        },
+        "16/12/2024": {
+          "last_data_update":"04/12/2024",
+          "available_budget":"4.674.975",
+          "requests_received":"30.649.913",
+          "requests_percent_budget":"107 %",
+          "granted_amount":"6.791.980",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"22 %",
+          "granted_percent_budget":"24 %"
         }
       }
     },
@@ -617,6 +627,16 @@
       "history": {
         "09/12/2024": {
           "last_data_update":"03/12/2024",
+          "available_budget":"0",
+          "requests_received":"33.323.612",
+          "requests_percent_budget":"122 %",
+          "granted_amount":"3.918.369",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"12 %",
+          "granted_percent_budget":"14 %"
+        },
+        "16/12/2024": {
+          "last_data_update":"10/12/2024",
           "available_budget":"0",
           "requests_received":"33.323.612",
           "requests_percent_budget":"122 %",
