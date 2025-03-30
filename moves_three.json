@@ -22,11 +22,14 @@
         },
         "20/01/2025": {
           "budget":"34.833.391"
+        },
+        "27/01/2025": {
+          "budget":"26.148.473 €"
         }
       }
     },
     "pending_budget_currency":"€",
-    "last_update":"17/03/2025"
+    "last_update":"24/03/2025"
   },
   "data": [
     {
@@ -101,6 +104,16 @@
           "granted_amount":"96.492.517",
           "granted_amount_currency":"€",
           "granted_percent_requests":"65 %",
+          "granted_percent_budget":"82 %"
+        },
+        "27/01/2025": {
+          "last_data_update":"21/01/2025",
+          "available_budget":"0",
+          "requests_received":"153.199.684",
+          "requests_percent_budget":"131 %",
+          "granted_amount":"96.545.178",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"63 %",
           "granted_percent_budget":"82 %"
         }
       }
@@ -177,6 +190,16 @@
           "granted_amount":"25.277.645",
           "granted_amount_currency":"€",
           "granted_percent_requests":"57 %",
+          "granted_percent_budget":"57 %"
+        },
+        "27/01/2025": {
+          "last_data_update":"24/01/2025",
+          "available_budget":"13.175.085",
+          "requests_received":"46.094.027",
+          "requests_percent_budget":"103 %",
+          "granted_amount":"25.277.645",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"55 %",
           "granted_percent_budget":"57 %"
         }
       }
@@ -255,6 +278,16 @@
           "granted_amount_currency":"€",
           "granted_percent_requests":"55 %",
           "granted_percent_budget":"57 %"
+        },
+        "27/01/2025": {
+          "last_data_update":"24/01/2025",
+          "available_budget":"9.887.272",
+          "requests_received":"76.019.790",
+          "requests_percent_budget":"106 %",
+          "granted_amount":"40.879.311",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"54 %",
+          "granted_percent_budget":"57 %"
         }
       }
     },
@@ -323,6 +356,16 @@
           "granted_percent_budget":"54 %"
         },
         "20/01/2025": {
+          "last_data_update":"15/11/2024",
+          "available_budget":"0",
+          "requests_received":"15.997.606",
+          "requests_percent_budget":"119 %",
+          "granted_amount":"7.308.786",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"46 %",
+          "granted_percent_budget":"54 %"
+        },
+        "27/01/2025": {
           "last_data_update":"15/11/2024",
           "available_budget":"0",
           "requests_received":"15.997.606",
@@ -407,6 +450,16 @@
           "granted_amount_currency":"€",
           "granted_percent_requests":"26 %",
           "granted_percent_budget":"40 %"
+        },
+        "27/01/2025": {
+          "last_data_update":"10/01/2025",
+          "available_budget":"0",
+          "requests_received":"78.773.719",
+          "requests_percent_budget":"151 %",
+          "granted_amount":"20.831.831",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"26 %",
+          "granted_percent_budget":"40 %"
         }
       }
     },
@@ -476,6 +529,16 @@
         },
         "20/01/2025": {
           "last_data_update":"17/01/2025",
+          "available_budget":"0",
+          "requests_received":"66.767.493",
+          "requests_percent_budget":"118 %",
+          "granted_amount":"32.199.902",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"48 %",
+          "granted_percent_budget":"57 %"
+        },
+        "27/01/2025": {
+          "last_data_update":"24/01/2025",
           "available_budget":"0",
           "requests_received":"66.767.493",
           "requests_percent_budget":"118 %",
@@ -560,6 +623,16 @@
           "granted_amount_currency":"€",
           "granted_percent_requests":"63 %",
           "granted_percent_budget":"61 %"
+        },
+        "27/01/2025": {
+          "last_data_update":"23/01/2025",
+          "available_budget":"11.261.128",
+          "requests_received":"287.744.355",
+          "requests_percent_budget":"96 %",
+          "granted_amount":"181.495.015",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"63 %",
+          "granted_percent_budget":"61 %"
         }
       }
     },
@@ -635,6 +708,16 @@
           "granted_amount":"484.027",
           "granted_amount_currency":"€",
           "granted_percent_requests":"76 %",
+          "granted_percent_budget":"55 %"
+        },
+        "27/01/2025": {
+          "last_data_update":"24/01/2025",
+          "available_budget":"363.085",
+          "requests_received":"617.772",
+          "requests_percent_budget":"70 %",
+          "granted_amount":"484.027",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"78 %",
           "granted_percent_budget":"55 %"
         }
       }
@@ -802,6 +885,16 @@
           "granted_amount_currency":"€",
           "granted_percent_requests":"80 %",
           "granted_percent_budget":"40 %"
+        },
+        "24/03/2025": {
+          "last_data_update":"13/09/2024",
+          "available_budget":"366.411",
+          "requests_received":"367.621",
+          "requests_percent_budget":"50 %",
+          "granted_amount":"293.624",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"80 %",
+          "granted_percent_budget":"40 %"
         }
       }
     },
@@ -864,6 +957,15 @@
           "granted_percent_budget":"80 %"
         },
         "20/01/2025": {
+          "last_data_update":"14/01/2025",
+          "available_budget":"0",
+          "requests_received":"297.198.370",
+          "requests_percent_budget":"120 %",
+          "granted_amount":"203.646.575",
+          "granted_percent_requests":"69 %",
+          "granted_percent_budget":"82 %"
+        },
+        "27/01/2025": {
           "last_data_update":"14/01/2025",
           "available_budget":"0",
           "requests_received":"297.198.370",
@@ -947,6 +1049,16 @@
           "granted_amount_currency":"€",
           "granted_percent_requests":"74 %",
           "granted_percent_budget":"73 %"
+        },
+        "27/01/2025": {
+          "last_data_update":"22/01/2025",
+          "available_budget":"3.072.434",
+          "requests_received":"39.828.970",
+          "requests_percent_budget":"109 %",
+          "granted_amount":"26.671.210",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"67 %",
+          "granted_percent_budget":"73 %"
         }
       }
     },
@@ -1023,6 +1135,16 @@
           "granted_amount_currency":"€",
           "granted_percent_requests":"41 %",
           "granted_percent_budget":"57 %"
+        },
+        "27/01/2025": {
+          "last_data_update":"23/01/2025",
+          "available_budget":"0",
+          "requests_received":"171.971.335",
+          "requests_percent_budget":"139 %",
+          "granted_amount":"70.233.630",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"41 %",
+          "granted_percent_budget":"57 %"
         }
       }
     },
@@ -1091,6 +1213,16 @@
           "granted_percent_budget":"34 %"
         },
         "20/01/2025": {
+          "last_data_update":"13/01/2025",
+          "available_budget":"7.975.343",
+          "requests_received":"29.459.152",
+          "requests_percent_budget":"115 %",
+          "granted_amount":"9.188.406",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"31 %",
+          "granted_percent_budget":"36 %"
+        },
+        "27/01/2025": {
           "last_data_update":"13/01/2025",
           "available_budget":"7.975.343",
           "requests_received":"29.459.152",
@@ -1175,6 +1307,16 @@
           "granted_amount_currency":"€",
           "granted_percent_requests":"65 %",
           "granted_percent_budget":"89 %"
+        },
+        "27/01/2025": {
+          "last_data_update":"22/01/2025",
+          "available_budget":"0",
+          "requests_received":"69.803.954",
+          "requests_percent_budget":"139 %",
+          "granted_amount":"44.688.195",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"64 %",
+          "granted_percent_budget":"89 %"
         }
       }
     },
@@ -1243,6 +1385,16 @@
           "granted_percent_budget":"39 %"
         },
         "20/01/2025": {
+          "last_data_update":"05/12/2024",
+          "available_budget":"0",
+          "requests_received":"51.514.042",
+          "requests_percent_budget":"135 %",
+          "granted_amount":"14.694.425",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"29 %",
+          "granted_percent_budget":"39 %"
+        },
+        "27/01/2025": {
           "last_data_update":"05/12/2024",
           "available_budget":"0",
           "requests_received":"51.514.042",
@@ -1327,6 +1479,16 @@
           "granted_amount_currency":"€",
           "granted_percent_requests":"26 %",
           "granted_percent_budget":"48 %"
+        },
+        "27/01/2025": {
+          "last_data_update":"11/12/2024",
+          "available_budget":"0",
+          "requests_received":"11.826.988",
+          "requests_percent_budget":"185 %",
+          "granted_amount":"3.054.528",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"26 %",
+          "granted_percent_budget":"48 %"
         }
       }
     },
@@ -1403,6 +1565,16 @@
           "granted_amount_currency":"€",
           "granted_percent_requests":"58 %",
           "granted_percent_budget":"77 %"
+        },
+        "27/01/2025": {
+          "last_data_update":"20/01/2025",
+          "available_budget":"5.798.627",
+          "requests_received":"102.918.144",
+          "requests_percent_budget":"132 %",
+          "granted_amount":"59.922.449",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"58 %",
+          "granted_percent_budget":"77 %"
         }
       }
     },
@@ -1471,6 +1643,16 @@
           "granted_percent_budget":"24 %"
         },
         "20/01/2025": {
+          "last_data_update":"04/12/2024",
+          "available_budget":"4.674.975",
+          "requests_received":"30.649.913",
+          "requests_percent_budget":"107 %",
+          "granted_amount":"6.791.980",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"22 %",
+          "granted_percent_budget":"24 %"
+        },
+        "27/01/2025": {
           "last_data_update":"04/12/2024",
           "available_budget":"4.674.975",
           "requests_received":"30.649.913",
@@ -1555,6 +1737,16 @@
           "granted_amount_currency":"€",
           "granted_percent_requests":"11 %",
           "granted_percent_budget":"14 %"
+        },
+        "27/01/2025": {
+          "last_data_update":"22/01/2025",
+          "available_budget":"0",
+          "requests_received":"36.525.762",
+          "requests_percent_budget":"134 %",
+          "granted_amount":"6.268.612",
+          "granted_amount_currency":"€",
+          "granted_percent_requests":"17 %",
+          "granted_percent_budget":"23 %"
         }
       }
     },
@@ -1630,6 +1822,16 @@
         "granted_amount_currency":"€",
         "granted_percent_requests":"55 %",
         "granted_percent_budget":"65 %"
+      },
+      "27/01/2025": {
+        "last_data_update":"24/01/2025",
+        "available_budget":"0",
+        "requests_received":"1.567.278.697",
+        "requests_percent_budget":"119 %",
+        "granted_amount":"850.526.331",
+        "granted_amount_currency":"€",
+        "granted_percent_requests":"54 %",
+        "granted_percent_budget":"64 %"
       }
       
     }
