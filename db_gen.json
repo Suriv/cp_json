@@ -9990,8 +9990,8 @@
     {
       "cpo": "Plenoil",
       "category": "Semi Rápida",
-      "power": 40,
-      "cost": "0,20 €",
+      "power": 50,
+      "cost": "0,40 €",
       "min_load": "0",
       "high_fee": "0",
       "month_fee": "No",
