@@ -76,6 +76,9 @@
        },
        "05/05/2025": {
         "budget":"N/A"
+      },
+      "19/05/2025": {
+        "budget":"N/A"
       }
       }
     },
@@ -312,6 +315,15 @@
           "granted_amount":"99.319.052",
           "granted_percent_requests":"65",
           "granted_percent_budget":"85"
+        },
+        "19/05/2025": {
+          "last_data_update":"13/05/2025",
+          "available_budget":"900.609",
+          "requests_received":"150.195.703",
+          "requests_percent_budget":"128",
+          "granted_amount":"99.330.488",
+          "granted_percent_requests":"66",
+          "granted_percent_budget":"85"
         }
       }
     },
@@ -541,6 +553,15 @@
           "requests_received":"53.688.935",
           "requests_percent_budget":"120",
           "granted_amount":"25.927.653",
+          "granted_percent_requests":"48",
+          "granted_percent_budget":"58"
+        },
+        "19/05/2025": {
+          "last_data_update":"19/05/2025",
+          "available_budget":"7.231.743",
+          "requests_received":"53.676.035",
+          "requests_percent_budget":"120",
+          "granted_amount":"25.919.953",
           "granted_percent_requests":"48",
           "granted_percent_budget":"58"
         }
@@ -774,6 +795,15 @@
           "granted_amount":"47.708.860",
           "granted_percent_requests":"56",
           "granted_percent_budget":"67"
+        },
+        "19/05/2025": {
+          "last_data_update":"13/05/2025",
+          "available_budget":"1.563.979",
+          "requests_received":"84.668.179",
+          "requests_percent_budget":"118",
+          "granted_amount":"47.718.360",
+          "granted_percent_requests":"56",
+          "granted_percent_budget":"67"
         }
       }
     },
@@ -1005,6 +1035,15 @@
           "granted_amount":"8.706.382",
           "granted_percent_requests":"50",
           "granted_percent_budget":"65"
+        },
+        "19/05/2025": {
+          "last_data_update":"05/05/2025",
+          "available_budget":"0",
+          "requests_received":"17.295.374",
+          "requests_percent_budget":"128",
+          "granted_amount":"8.722.022",
+          "granted_percent_requests":"50",
+          "granted_percent_budget":"65"
         }
       }
     },
@@ -1229,6 +1268,15 @@
           "granted_percent_budget":"68"
         },
         "05/05/2025": {
+          "last_data_update":"04/04/2025",
+          "available_budget":"0",
+          "requests_received":"81.747.217",
+          "requests_percent_budget":"157",
+          "granted_amount":"35.377.696",
+          "granted_percent_requests":"43",
+          "granted_percent_budget":"68"
+        },
+        "19/05/2025": {
           "last_data_update":"04/04/2025",
           "available_budget":"0",
           "requests_received":"81.747.217",
@@ -1467,6 +1515,15 @@
           "granted_amount":"32.349.663",
           "granted_percent_requests":"45",
           "granted_percent_budget":"57"
+        },
+        "19/05/2025": {
+          "last_data_update":"05/05/2025",
+          "available_budget":"364.360",
+          "requests_received":"71.773.572",
+          "requests_percent_budget":"127",
+          "granted_amount":"32.349.663",
+          "granted_percent_requests":"45",
+          "granted_percent_budget":"57"
         }
       }
     },
@@ -1697,6 +1754,15 @@
           "requests_percent_budget":"95",
           "granted_amount":"195.400.379",
           "granted_percent_requests":"68",
+          "grant,ed_percent_budget":"65"
+        },
+        "19/05/2025": {
+          "last_data_update":"28/03/2025",
+          "available_budget":"14.141.496",
+          "requests_received":"285.844.622",
+          "requests_percent_budget":"95",
+          "granted_amount":"195.400.379",
+          "granted_percent_requests":"68",
           "granted_percent_budget":"65"
         }
       }
@@ -1920,6 +1986,15 @@
           "granted_amount":"516.447",
           "granted_percent_requests":"63",
           "granted_percent_budget":"59"
+        },
+        "19/05/2025": {
+          "last_data_update":"12/05/2025",
+          "available_budget":"320.323",
+          "requests_received":"753.743",
+          "requests_percent_budget":"86",
+          "granted_amount":"497.737",
+          "granted_percent_requests":"66",
+          "granted_percent_budget":"57"
         }
       }
     },
@@ -2135,6 +2210,78 @@
           "granted_percent_budget":"40"
         },
         "05/05/2025": {
+          "last_data_update":"13/09/2024",
+          "available_budget":"366.411",
+          "requests_received":"367.621",
+          "requests_percent_budget":"50",
+          "granted_amount":"293.624",
+          "granted_percent_requests":"80",
+          "granted_percent_budget":"40"
+        },
+        "19/05/2025": {
+          "last_data_update":"13/09/2024",
+          "available_budget":"366.411",
+          "requests_received":"367.621",
+          "requests_percent_budget":"50",
+          "granted_amount":"293.624",
+          "granted_percent_requests":"80",
+          "granted_percent_budget":"40"
+        },
+        "26/05/2025": {
+          "last_data_update":"13/09/2024",
+          "available_budget":"366.411",
+          "requests_received":"367.621",
+          "requests_percent_budget":"50",
+          "granted_amount":"293.624",
+          "granted_percent_requests":"80",
+          "granted_percent_budget":"40"
+        },
+        "02/06/2025": {
+          "last_data_update":"13/09/2024",
+          "available_budget":"366.411",
+          "requests_received":"367.621",
+          "requests_percent_budget":"50",
+          "granted_amount":"293.624",
+          "granted_percent_requests":"80",
+          "granted_percent_budget":"40"
+        },
+        "09/06/2025": {
+          "last_data_update":"13/09/2024",
+          "available_budget":"366.411",
+          "requests_received":"367.621",
+          "requests_percent_budget":"50",
+          "granted_amount":"293.624",
+          "granted_percent_requests":"80",
+          "granted_percent_budget":"40"
+        },
+        "10/06/2025": {
+          "last_data_update":"13/09/2024",
+          "available_budget":"366.411",
+          "requests_received":"367.621",
+          "requests_percent_budget":"50",
+          "granted_amount":"293.624",
+          "granted_percent_requests":"80",
+          "granted_percent_budget":"40"
+        },
+        "12/06/2025": {
+          "last_data_update":"13/09/2024",
+          "available_budget":"366.411",
+          "requests_received":"367.621",
+          "requests_percent_budget":"50",
+          "granted_amount":"293.624",
+          "granted_percent_requests":"80",
+          "granted_percent_budget":"40"
+        },
+        "16/06/2025": {
+          "last_data_update":"13/09/2024",
+          "available_budget":"366.411",
+          "requests_received":"367.621",
+          "requests_percent_budget":"50",
+          "granted_amount":"293.624",
+          "granted_percent_requests":"80",
+          "granted_percent_budget":"40"
+        },
+        "23/06/2025": {
           "last_data_update":"13/09/2024",
           "available_budget":"366.411",
           "requests_received":"367.621",
@@ -2374,6 +2521,15 @@
           "granted_amount":"233.021.005",
           "granted_percent_requests":"79",
           "granted_percent_budget":"89"
+        },
+        "19/05/2025": {
+          "last_data_update":"19/05/2025",
+          "available_budget":"0",
+          "requests_received":"295.587.322",
+          "requests_percent_budget":"113",
+          "granted_amount":"241.243.895",
+          "granted_percent_requests":"82",
+          "granted_percent_budget":"93"
         }
       }
     },
@@ -2605,6 +2761,15 @@
           "granted_amount":"26.671.210",
           "granted_percent_requests":"66",
           "granted_percent_budget":"73"
+        },
+        "19/05/2025": {
+          "last_data_update":"16/05/2025",
+          "available_budget":"3.107.273",
+          "requests_received":"39.962.910",
+          "requests_percent_budget":"109",
+          "granted_amount":"30.973.537",
+          "granted_percent_requests":"78",
+          "granted_percent_budget":"85"
         }
       }
     },
@@ -2836,6 +3001,15 @@
           "granted_amount":"79.536.416",
           "granted_percent_requests":"45",
           "granted_percent_budget":"65"
+        },
+        "19/05/2025": {
+          "last_data_update":"15/05/2025",
+          "available_budget":"0",
+          "requests_received":"176.295.266",
+          "requests_percent_budget":"143",
+          "granted_amount":"85.332.816",
+          "granted_percent_requests":"48",
+          "granted_percent_budget":"69"
         }
       }
     },
@@ -3066,6 +3240,15 @@
           "requests_percent_budget":"116",
           "granted_amount":"10.660.483",
           "granted_percent_requests":"36",
+          "granted_percent_budget":"42"
+        },
+        "19/05/2025": {
+          "last_data_update":"16/05/2025",
+          "available_budget":"8.640.406",
+          "requests_received":"29.457.952",
+          "requests_percent_budget":"115",
+          "granted_amount":"10.819.883",
+          "granted_percent_requests":"37",
           "granted_percent_budget":"42"
         }
       }
@@ -3298,6 +3481,15 @@
           "granted_amount":"41.034.536",
           "granted_percent_requests":"58",
           "granted_percent_budget":"82"
+        },
+        "19/05/2025": {
+          "last_data_update":"08/05/2025",
+          "available_budget":"856.332",
+          "requests_received":"69.562.552",
+          "requests_percent_budget":"138",
+          "granted_amount":"40.824.524",
+          "granted_percent_requests":"59",
+          "granted_percent_budget":"81"
         }
       }
     },
@@ -3529,6 +3721,15 @@
           "granted_amount":"18.975.796",
           "granted_percent_requests":"34",
           "granted_percent_budget":"47"
+        },
+        "19/05/2025": {
+          "last_data_update":"05/03/2025",
+          "available_budget":"0",
+          "requests_received":"55.919.010",
+          "requests_percent_budget":"139",
+          "granted_amount":"18.975.796",
+          "granted_percent_requests":"34",
+          "granted_percent_budget":"47"
         }
       }
     },
@@ -3752,12 +3953,21 @@
           "granted_percent_requests":"31",
           "granted_percent_budget":"45"
         },
-        "05/045/2025": {
+        "05/05/2025": {
           "last_data_update":"30/04/2025",
           "available_budget":"0",
           "requests_received":"12.433.738",
           "requests_percent_budget":"143",
           "granted_amount":"3.908.512",
+          "granted_percent_requests":"31",
+          "granted_percent_budget":"45"
+        },
+        "12/05/2025": {
+          "last_data_update":"12/05/2025",
+          "available_budget":"0",
+          "requests_received":"12.403.489",
+          "requests_percent_budget":"143",
+          "granted_amount":"3.903.512",
           "granted_percent_requests":"31",
           "granted_percent_budget":"45"
         }
@@ -3991,6 +4201,15 @@
           "granted_amount":"71.071.152",
           "granted_percent_requests":"67",
           "granted_percent_budget":"91"
+        },
+        "19/05/2025": {
+          "last_data_update":"19/05/2025",
+          "available_budget":"5.852.668",
+          "requests_received":"103.993.237",
+          "requests_percent_budget":"133",
+          "granted_amount":"71.086.244",
+          "granted_percent_requests":"68",
+          "granted_percent_budget":"91"
         }
       }
     },
@@ -4222,6 +4441,15 @@
           "granted_amount":"6.791.980",
           "granted_percent_requests":"19",
           "granted_percent_budget":"24"
+        },
+        "19/05/2025": {
+          "last_data_update":"16/05/2025",
+          "available_budget":"142.939",
+          "requests_received":"35.181.856",
+          "requests_percent_budget":"123",
+          "granted_amount":"6.782.580",
+          "granted_percent_requests":"19",
+          "granted_percent_budget":"24"
         }
       }
     },
@@ -4446,6 +4674,15 @@
           "granted_percent_budget":"23"
         },
         "05/05/2025": {
+          "last_data_update":"05/03/2025",
+          "available_budget":"0",
+          "requests_received":"36.826.205",
+          "requests_percent_budget":"135",
+          "granted_amount":"6.310.015",
+          "granted_percent_requests":"17",
+          "granted_percent_budget":"23"
+        },
+        "19/05/2025": {
           "last_data_update":"05/03/2025",
           "available_budget":"0",
           "requests_received":"36.826.205",
@@ -4683,6 +4920,15 @@
         "granted_amount":"943.580.862",
         "granted_percent_requests":"59",
         "granted_percent_budget":"71"
+      },
+      "19/05/2025": {
+        "last_data_update":"19/05/2025",
+        "available_budget":"0",
+        "requests_received":"1.601.337.722",
+        "requests_percent_budget":"120",
+        "granted_amount":"961.862.724",
+        "granted_percent_requests":"60",
+        "granted_percent_budget":"72"
       }
       
     }
